@@ -11,6 +11,7 @@
   [https://github.com/zenorocha/sublime-javascript-snippets](https://github.com/zenorocha/sublime-javascript-snippets)
 * [@joshnh](https://github.com/joshnh) (Joshua Hibbert)
   [https://github.com/joshnh/CSS-Snippets](https://github.com/joshnh/CSS-Snippets)
+* [@joshnh](https://github.com/joshnh) (Joshua Hibbert)
   [https://github.com/joshnh/HTML-Snippets](https://github.com/joshnh/HTML-Snippets)
 
 
