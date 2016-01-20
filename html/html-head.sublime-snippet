@@ -1,12 +1,13 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <meta name="format-detection" content="telephone=no">
+<meta name="referrer" content="origin">
 <meta name="description" content="">
 
 <!-- facebook -->
 <meta property="og:site_name" content="">
 <meta property="og:title" content="">
-<meta property="og:type"  content="product">
+<meta property="og:type"  content="website">
 <meta property="og:url" content="http://">
 <meta property="og:description" content="">
 <meta property="og:image" content="http://">
@@ -24,9 +25,17 @@
 <meta name="geo.country" content="BR">
 <meta name="geo.region" content="RJ">
 <meta name="geo.placename" content="Rio de Janeiro">
+
+<!-- favicon -->
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<!-- canonical -->
+<link rel="canonical" href="http://">
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>html-metas</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>html-head</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
 </snippet>
