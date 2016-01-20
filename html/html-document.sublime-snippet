@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<title></title>
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-		<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
 	    <script type="text/javascript">
 	      // para identificação se o javascript está ativo
 	      var tagHtml = document.getElementsByTagName("html")[0];
@@ -14,7 +14,7 @@
 	    </script>
 	</head>
 	<body>
-		
+
 	</body>
 </html>
 ]]></content>
