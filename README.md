@@ -5,9 +5,9 @@
 
 ## Install
 
-Se já tem o [Package Control](http://wbond.net/sublime_packages/package_control) instalado, basta procurar por ***Project Snippets***. Se ainda não instalou no sublime, pode fazer isso por [aqui](http://wbond.net/sublime_packages/package_control/installation).
+If you already have the [Package Control](http://wbond.net/sublime_packages/package_control) installed , just search for ***Project Snippets***. If you have not installed in the sublime, you can do it [here](http://wbond.net/sublime_packages/package_control/installation).
 
-Manualmente, você pode baixar o pacote e colocá-lo dentro do seu diretório `Packages`. Irá funcionar, mas não será atualizado automaticamente.
+You can manually download the package and place it within your `Packages` directory. It will work, but will not be updated automatically.
 
 ## Snippets
 
@@ -15,6 +15,75 @@ Manualmente, você pode baixar o pacote e colocá-lo dentro do seu diretório `P
 - CSS
 - JavaScript
 - Schema.org
+
+## Scopes
+
+Here is a list of scopes to use in Sublime Text snippets:
+
+- ActionScript: source.actionscript.2
+- AppleScript: source.applescript
+- ASP: source.asp
+- Batch FIle: source.dosbatch
+- C#: source.cs
+- C++: source.c++
+- Clojure: source.clojure
+- CoffeeScript: source.coffee
+- CSS: source.css
+- D: source.d
+- Diff: source.diff
+- Erlang: source.erlang
+- Go: source.go
+- GraphViz: source.dot
+- Groovy: source.groovy
+- Haskell: source.haskell
+- HTML: text.html(.basic)
+- JSP: text.html.jsp
+- Java: source.java
+- Java Properties: source.java-props
+- Java Doc: text.html.javadoc
+- JSON: source.json
+- Javascript: source.js
+- BibTex: source.bibtex
+- Latex Log: text.log.latex
+- Latex Memoir: text.tex.latex.memoir
+- Latex: text.tex.latex
+- LESS: source.css.less
+- TeX: text.tex
+- Lisp: source.lisp
+- Lua: source.lua
+- MakeFile: source.makefile
+- Markdown: text.html.markdown
+- Multi Markdown: text.html.markdown.multimarkdown
+- Matlab: source.matlab
+- Objective-C: source.objc
+- Objective-C++: source.objc++
+- OCaml campl4: source.camlp4.ocaml
+- OCaml: source.ocaml
+- OCamllex: source.ocamllex
+- Perl: source.perl
+- PHP: source.php
+- Regular Expression(python): source.regexp.python
+- Python: source.python
+- R Console: source.r-console
+- R: source.r
+- Ruby on Rails: source.ruby.rails
+- Ruby HAML: text.haml
+- SQL(Ruby): source.sql.ruby
+- Regular Expression: source.regexp
+- RestructuredText: text.restructuredtext
+- Ruby: source.ruby
+- SASS: source.sass
+- Scala: source.scala
+- Shell Script: source.shell
+- SQL: source.sql
+- Stylus: source.stylus
+- TCL: source.tcl
+- HTML(TCL): text.html.tcl
+- Plain text: text.plain
+- Textile: text.html.textile
+- XML: text.xml
+- XSL: text.xml.xsl
+- YAML: source.yaml
 
 ## References
 
@@ -30,10 +99,10 @@ Manualmente, você pode baixar o pacote e colocá-lo dentro do seu diretório `P
 ## Contributing
 
 - Fork it!
-- Create your feature branch: git checkout -b my-new-feature
-- Commit your changes: git commit -m 'Add some feature'
-- Push to the branch: git push origin my-new-feature
-- Submit a pull request :D
+- Create your feature branch: `git checkout -b my-new-feature`
+- Commit your changes: `git commit -m 'Add some feature'`
+- Push to the branch: `git push origin my-new-feature`
+- Submit a pull request
 
 ## Log
 
