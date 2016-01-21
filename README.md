@@ -9,6 +9,13 @@ Se já tem o [Package Control](http://wbond.net/sublime_packages/package_control
 
 Manualmente, você pode baixar o pacote e colocá-lo dentro do seu diretório `Packages`. Irá funcionar, mas não será atualizado automaticamente.
 
+## Snippets
+
+- HTML
+- CSS
+- JavaScript
+- Schema.org
+
 ## Referências
 
 * [@caiogondim](https://github.com/caiogondim) (Caio Gondim)
