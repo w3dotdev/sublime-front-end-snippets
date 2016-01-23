@@ -1,11 +1,11 @@
 # Project Snippets
 
-[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brazilian-dev/sublime-snippets/blob/master/LICENSE.md)
-[![issues](https://img.shields.io/github/issues/brazilian-dev/sublime-snippets.svg)](https://github.com/brazilian-dev/sublime-snippets/issues)
+[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/LICENSE.md)
+[![issues](https://img.shields.io/github/issues/brazilian-dev/sublime-front-end-snippets.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/issues)
 
 ## Install
 
-If you already have the [Package Control](http://wbond.net/sublime_packages/package_control) installed , just search for ***Project Snippets***. If you have not installed in the sublime, you can do it [here](http://wbond.net/sublime_packages/package_control/installation).
+If you already have the [Package Control](http://wbond.net/sublime_packages/package_control) installed , just search for ***Front-end Project Snippets***. If you have not installed in the sublime, you can do it [here](http://wbond.net/sublime_packages/package_control/installation).
 
 You can manually download the package and place it within your `Packages` directory. It will work, but will not be updated automatically.
 
@@ -106,7 +106,7 @@ Here is a list of scopes to use in Sublime Text snippets:
 
 ## Log
 
-Check [Releases](https://github.com/brazilian-dev/sublime-snippets/releases) for detailed changelog.
+Check [Releases](https://github.com/brazilian-dev/sublime-front-end-snippets/releases) for detailed changelog.
 
 ## License
 
