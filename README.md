@@ -9,19 +9,19 @@ If you already have the [Package Control](http://wbond.net/sublime_packages/pack
 
 You can manually download the package and place it within your `Packages` directory. It will work, but will not be updated automatically.
 
-## Snippets
+## Snippets and prefixes
 
-- [HTML](html/)
-  - [Schema](html/schema/)
-- [CSS](css/)
-- [JavaScript](js/)
-  - [BDD](js/bdd)
-- [Schema.org](schema/)
-- [External](external/)
-- Comment
-  - [HTML](comment/html)
-  - [CSS](comment/css)
-  - [JavaScript](comment/js)
+- [HTML](html/) - `h-`   
+  - [Schema](html/schema/) - `hs-`
+- [CSS](css/) - `c-`
+- [JavaScript](js/) - `j-`
+  - [BDD](js/bdd) - `bdd-`
+- [Schema.org](schema/) - `s-`
+- [External](external/) - `e-`
+- ***Comment***
+  - [HTML](comment/html) - `hc-`
+  - [CSS](comment/css) - `cc-`
+  - [JavaScript](comment/js) - `jc-`
 
 ## Scopes
 
