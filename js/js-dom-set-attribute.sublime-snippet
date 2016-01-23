@@ -3,5 +3,5 @@
 ${1:document}.setAttribute('${2:attr}', ${3:value});
 ]]></content>
   <tabTrigger>j-sattr</tabTrigger>
-  <description>setAttribute</description>
+  <description>j - setAttribute</description>
 </snippet>

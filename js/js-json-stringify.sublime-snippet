@@ -3,5 +3,5 @@
 JSON.stringify(${1:obj});
 ]]></content>
   <tabTrigger>j-js</tabTrigger>
-  <description>JSON.stringify</description>
+  <description>j - JSON.stringify</description>
 </snippet>

@@ -5,5 +5,5 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 }
 ]]></content>
   <tabTrigger>j-prot</tabTrigger>
-  <description>Prototype</description>
+  <description>j - Prototype</description>
 </snippet>

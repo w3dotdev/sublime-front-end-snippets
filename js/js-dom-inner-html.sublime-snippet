@@ -3,5 +3,5 @@
 ${1:document}.innerHTML = '${2:elem}';
 ]]></content>
   <tabTrigger>j-ih</tabTrigger>
-  <description>innerHTML</description>
+  <description>j - innerHTML</description>
 </snippet>

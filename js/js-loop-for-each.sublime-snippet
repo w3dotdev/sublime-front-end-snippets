@@ -5,5 +5,5 @@ ${1:myArray}.forEach(function(${2:element}) {
 });
 ]]></content>
   <tabTrigger>j-fore</tabTrigger>
-  <description>forEach</description>
+  <description>j - forEach</description>
 </snippet>

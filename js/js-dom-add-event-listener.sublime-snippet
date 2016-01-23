@@ -5,5 +5,5 @@ ${1:document}.addEventListener('${2:event}', function(event) {
 });
 ]]></content>
   <tabTrigger>j-ael</tabTrigger>
-  <description>addEventListener</description>
+  <description>j - addEventListener</description>
 </snippet>

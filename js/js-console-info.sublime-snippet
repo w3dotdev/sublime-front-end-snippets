@@ -3,5 +3,5 @@
 console.info(${1:obj});
 ]]></content>
   <tabTrigger>j-ci</tabTrigger>
-  <description>console.info</description>
+  <description>j - console.info</description>
 </snippet>

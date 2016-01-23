@@ -3,5 +3,5 @@
 console.error(${1:obj});
 ]]></content>
   <tabTrigger>j-ce</tabTrigger>
-  <description>console.error</description>
+  <description>j - console.error</description>
 </snippet>

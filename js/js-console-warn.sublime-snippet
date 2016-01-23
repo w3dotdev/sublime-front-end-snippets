@@ -3,5 +3,5 @@
 console.warn(${1:obj});
 ]]></content>
   <tabTrigger>j-cw</tabTrigger>
-  <description>console.warn</description>
+  <description>j - console.warn</description>
 </snippet>

@@ -3,5 +3,5 @@
 ${1:document}.removeAttribute('${2:attr}');
 ]]></content>
   <tabTrigger>j-rattr</tabTrigger>
-  <description>removeAttribute</description>
+  <description>j - removeAttribute</description>
 </snippet>

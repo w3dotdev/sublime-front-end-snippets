@@ -3,5 +3,5 @@
 ${1:document}.querySelectorAll('${2:selector}');
 ]]></content>
   <tabTrigger>j-qsa</tabTrigger>
-  <description>querySelectorAll</description>
+  <description>j - querySelectorAll</description>
 </snippet>

@@ -3,5 +3,5 @@
 ${1:document}.appendChild(${2:element});
 ]]></content>
   <tabTrigger>j-ac</tabTrigger>
-  <description>appendChild</description>
+  <description>j - appendChild</description>
 </snippet>

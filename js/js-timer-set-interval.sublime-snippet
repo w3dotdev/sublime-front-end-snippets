@@ -5,5 +5,5 @@ setInterval(function() {
 }, ${1:delay});
 ]]></content>
   <tabTrigger>j-si</tabTrigger>
-  <description>setInterval</description>
+  <description>j - setInterval</description>
 </snippet>

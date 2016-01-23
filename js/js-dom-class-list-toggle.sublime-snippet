@@ -3,5 +3,5 @@
 ${1:document}.classList.toggle('${2:class}');
 ]]></content>
   <tabTrigger>j-clt</tabTrigger>
-  <description>classList.toggle</description>
+  <description>j - classList.toggle</description>
 </snippet>

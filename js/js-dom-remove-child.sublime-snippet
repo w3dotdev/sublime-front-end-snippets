@@ -3,5 +3,5 @@
 ${1:document}.removeChild(${2:element});
 ]]></content>
   <tabTrigger>j-rc</tabTrigger>
-  <description>removeChild</description>
+  <description>j - removeChild</description>
 </snippet>

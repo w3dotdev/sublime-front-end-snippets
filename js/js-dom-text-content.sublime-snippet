@@ -3,5 +3,5 @@
 ${1:document}.textContent = '${2:content}';
 ]]></content>
   <tabTrigger>j-tc</tabTrigger>
-  <description>textContent</description>
+  <description>j - textContent</description>
 </snippet>

@@ -3,5 +3,5 @@
 ${1:document}.querySelector('${2:selector}');
 ]]></content>
   <tabTrigger>j-qs</tabTrigger>
-  <description>querySelector</description>
+  <description>j - querySelector</description>
 </snippet>

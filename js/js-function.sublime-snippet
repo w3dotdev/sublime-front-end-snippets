@@ -5,5 +5,5 @@ function ${1:methodName}(${2:arguments}) {
 }
 ]]></content>
   <tabTrigger>j-fn</tabTrigger>
-  <description>Function</description>
+  <description>j - Function</description>
 </snippet>

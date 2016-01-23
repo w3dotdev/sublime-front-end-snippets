@@ -3,5 +3,5 @@
 ${1:document}.getAttribute('${2:attr}');
 ]]></content>
   <tabTrigger>j-gattr</tabTrigger>
-  <description>getAttribute</description>
+  <description>j - getAttribute</description>
 </snippet>

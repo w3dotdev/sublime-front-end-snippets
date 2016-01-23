@@ -3,5 +3,5 @@
 JSON.parse(${1:obj});
 ]]></content>
   <tabTrigger>j-jp</tabTrigger>
-  <description>JSON.parse</description>
+  <description>j - JSON.parse</description>
 </snippet>

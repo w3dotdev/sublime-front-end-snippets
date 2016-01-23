@@ -5,5 +5,5 @@
 })(window, document);
 ]]></content>
   <tabTrigger>j-iife</tabTrigger>
-  <description>Immediately-invoked function expression</description>
+  <description>j - Immediately-invoked function expression</description>
 </snippet>

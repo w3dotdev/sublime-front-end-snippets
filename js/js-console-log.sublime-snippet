@@ -3,5 +3,5 @@
 console.log(${1:obj});
 ]]></content>
   <tabTrigger>j-cl</tabTrigger>
-  <description>console.log</description>
+  <description>j - console.log</description>
 </snippet>
