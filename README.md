@@ -11,10 +11,10 @@ You can manually download the package and place it within your `Packages` direct
 
 ## Snippets
 
-- HTML
-- CSS
-- JavaScript
-- Schema.org
+- [HTML](html/README.md)
+- [CSS](css/README.md)
+- [JavaScript](javascript/README.md)
+- [Schema.org](schema/README.md)
 
 ## Scopes
 
