@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+${1:myArray}.forEach(function(${2:element}) {
+    ${3}
+});
+]]></content>
+  <tabTrigger>j-fore</tabTrigger>
+  <description>forEach</description>
+</snippet>

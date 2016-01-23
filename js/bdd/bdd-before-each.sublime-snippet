@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+beforeEach(function() {
+  ${1}
+});
+]]></content>
+  <tabTrigger>bdd-be</tabTrigger>
+  <description>beforeEach</description>
+</snippet>

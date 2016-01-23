@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:document}.classList.remove('${2:class}');
+]]></content>
+  <tabTrigger>j-clr</tabTrigger>
+  <description>classList.remove</description>
+</snippet>

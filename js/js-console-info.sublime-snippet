@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+console.info(${1:obj});
+]]></content>
+  <tabTrigger>j-ci</tabTrigger>
+  <description>console.info</description>
+</snippet>

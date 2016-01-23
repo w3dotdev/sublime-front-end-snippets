@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+it("${1}", function() {
+  ${2}
+});
+]]></content>
+  <tabTrigger>bdd-it</tabTrigger>
+  <description>it</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+console.dir(${1:obj});
+]]></content>
+  <tabTrigger>j-cd</tabTrigger>
+  <description>console.dir</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:document}.querySelector('${2:selector}');
+]]></content>
+  <tabTrigger>j-qs</tabTrigger>
+  <description>querySelector</description>
+</snippet>

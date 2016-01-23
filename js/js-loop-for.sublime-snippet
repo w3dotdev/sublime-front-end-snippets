@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+for (var i = ${1:0}, len = ${2:10}; i ${3:<=} len; i${4:++} ) {
+  ${5}
+}
+]]></content>
+  <tabTrigger>j-for</tabTrigger>
+  <description>for</description>
+</snippet>

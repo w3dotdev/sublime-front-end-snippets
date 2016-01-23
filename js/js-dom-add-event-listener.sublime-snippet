@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+${1:document}.addEventListener('${2:event}', function(event) {
+    ${3}
+});
+]]></content>
+  <tabTrigger>j-ael</tabTrigger>
+  <description>addEventListener</description>
+</snippet>

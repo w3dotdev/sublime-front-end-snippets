@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:document}.createDocumentFragment(${2:element});
+]]></content>
+  <tabTrigger>j-cdf</tabTrigger>
+  <description>createDocumentFragment</description>
+</snippet>

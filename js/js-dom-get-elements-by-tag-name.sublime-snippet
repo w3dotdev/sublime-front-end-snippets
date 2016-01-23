@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:document}.getElementsByTagName('${2:tag}');
+]]></content>
+  <tabTrigger>j-gtag</tabTrigger>
+  <description>getElementsByTagName</description>
+</snippet>

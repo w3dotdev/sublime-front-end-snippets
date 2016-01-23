@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+console.warn(${1:obj});
+]]></content>
+  <tabTrigger>j-cw</tabTrigger>
+  <description>console.warn</description>
+</snippet>
