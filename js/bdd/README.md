@@ -104,7 +104,7 @@ expect(${1}).toBeUndefined();
 expect(${1}).toBe(${2});
 ```
 
-### [bdd-equal] toEqual
+### [bdd-e] toEqual
 
 ```javascript
 expect(${1}).toEqual(${2});

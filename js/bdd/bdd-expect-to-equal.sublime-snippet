@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toEqual(${2});
 ]]></content>
-  <tabTrigger>bdd-equal</tabTrigger>
+  <tabTrigger>bdd-e</tabTrigger>
   <description>Expect toEqual</description>
 </snippet>
