@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$}.fx.off = ${2:true};
-]]></content>
-  <tabTrigger>jq-d</tabTrigger>
-  <description>jq - fx.off</description>
-</snippet>

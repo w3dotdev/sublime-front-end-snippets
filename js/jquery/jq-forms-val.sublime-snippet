@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.val();
+]]></content>
+  <tabTrigger>jq-a</tabTrigger>
+  <description>jq - val</description>
+</snippet>
