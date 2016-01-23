@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<ul itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
+  <li itemprop="name">
+    <a itemprop="url" href="${1:#}">$2</a>
+  </li>
+</ul>
+]]></content>
+  <tabTrigger>hs-sne</tabTrigger>
+  <description>HTML with SiteNavigationElement</description>
+</snippet>
