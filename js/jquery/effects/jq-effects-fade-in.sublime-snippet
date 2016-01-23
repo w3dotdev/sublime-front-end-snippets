@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$("div")}.fadeIn(${2:duration}${3:,easing}${4:,complete});
+]]></content>
+  <tabTrigger>jq-f</tabTrigger>
+  <description>jq - fadeIn</description>
+</snippet>

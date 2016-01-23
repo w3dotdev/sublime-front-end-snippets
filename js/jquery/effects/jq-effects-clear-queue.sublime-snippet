@@ -1,0 +1,7 @@
+v<snippet>
+  <content><![CDATA[
+${1:\$("div")}.clearQueue(${2:queueName});
+]]></content>
+  <tabTrigger>jq-cq</tabTrigger>
+  <description>jq - clearQueue</description>
+</snippet>
