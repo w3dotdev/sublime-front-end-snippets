@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:\$("div")}.fadeOut(${2:duration}${3:,easing}${3:,complete});
+${1:\$("div")}.fadeOut(${2:duration}${3:,easing}${4:,complete});
 ]]></content>
   <tabTrigger>jq-f</tabTrigger>
   <description>jq - fadeOut</description>

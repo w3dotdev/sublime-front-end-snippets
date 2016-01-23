@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:\$("div")}.slideToggle(${2:duration}${3:,easing}${3:,complete});
+${1:\$("div")}.slideToggle(${2:duration}${3:,easing}${4:,complete});
 ]]></content>
   <tabTrigger>jq-s</tabTrigger>
   <description>jq - slideToggle</description>

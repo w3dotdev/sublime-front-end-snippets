@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:\$("div")}.stop(${2:queue}${3:,clearQueue}${3:,jumpToEnd});
+${1:\$("div")}.stop(${2:queue}${3:,clearQueue}${4:,jumpToEnd});
 ]]></content>
   <tabTrigger>jq-s</tabTrigger>
   <description>jq - stop</description>
