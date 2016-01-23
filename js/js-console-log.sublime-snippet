@@ -2,6 +2,6 @@
   <content><![CDATA[
 console.log(${1:obj});
 ]]></content>
-  <tabTrigger>jscl</tabTrigger>
+  <tabTrigger>j-cl</tabTrigger>
   <description>console.log</description>
 </snippet>
