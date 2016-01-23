@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+afterEach(function() {
+  ${1}
+});
+]]></content>
+  <tabTrigger>b-aeach</tabTrigger>
+  <description>b - afterEach</description>
+</snippet>
