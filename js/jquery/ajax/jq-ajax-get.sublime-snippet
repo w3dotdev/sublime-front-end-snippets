@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.get(${2:url}${3:, data}${4:, success}${5:, dataType});
+]]></content>
+  <tabTrigger>jq-a</tabTrigger>
+  <description>jq - get</description>
+</snippet>

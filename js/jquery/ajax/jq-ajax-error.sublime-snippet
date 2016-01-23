@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.ajaxError(${2:handler});
+]]></content>
+  <tabTrigger>jq-a</tabTrigger>
+  <description>jq - ajaxError</description>
+</snippet>

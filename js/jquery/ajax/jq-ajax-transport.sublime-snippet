@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.ajaxTransport(${2:dataType}, ${3:handlerv});
+]]></content>
+  <tabTrigger>jq-a</tabTrigger>
+  <description>jq - ajaxTransport</description>
+</snippet>

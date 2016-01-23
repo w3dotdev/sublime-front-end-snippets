@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.ajaxStop(${2:handler});
+]]></content>
+  <tabTrigger>jq-a</tabTrigger>
+  <description>jq - ajaxStop</description>
+</snippet>
