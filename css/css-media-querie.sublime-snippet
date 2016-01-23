@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@media ${1:all} and (${2:min-width}: ${3:768px}) {
+  ${4}
+}
+]]></content>
+  <tabTrigger>cssmq</tabTrigger>
+  <description>Media Querie</description>
+</snippet>
