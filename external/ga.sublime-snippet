@@ -9,6 +9,6 @@
   ga('send', 'pageview');
 
 </script>$2]]></content>
-  <tabTrigger>ga</tabTrigger>
+  <tabTrigger>extga</tabTrigger>
   <description>Google Analytics</description>
 </snippet>

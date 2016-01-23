@@ -6,7 +6,7 @@
 
 ```html
 <!DOCTYPE html>
-<html class="no-js" lang="pt-BR" xml:lang="pt-BR">
+<html class="no-js" lang="${2:pt-BR}" xml:lang="${2:pt-BR}">
   <head>
     <meta charset="utf-8">
     <title>${1:Document}</title>
