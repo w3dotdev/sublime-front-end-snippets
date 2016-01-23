@@ -11,15 +11,15 @@ You can manually download the package and place it within your `Packages` direct
 
 ## Snippets
 
-- [HTML](html/README.md)
-- [CSS](css/README.md)
-- [JavaScript](js/README.md)
-- [Schema.org](schema/README.md)
-- [External](external/README.md)
+- [HTML](html/)
+- [CSS](css/)
+- [JavaScript](js/)
+- [Schema.org](schema/)
+- [External](external/)
 - Comment
-  - [HTML](tree/master/comment/html)
-  - [CSS](tree/master/comment/css)
-  - [JavaScript](tree/master/comment/js)
+  - [HTML](comment/html)
+  - [CSS](comment/css)
+  - [JavaScript](comment/js)
 
 ## Scopes
 
