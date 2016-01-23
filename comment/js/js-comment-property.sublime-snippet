@@ -5,6 +5,6 @@
  * ${3:Description}
  */
 ]]></content>
-  <tabTrigger>jc-property</tabTrigger>
+  <tabTrigger>jc-p</tabTrigger>
   <description>Property Comment</description>
 </snippet>

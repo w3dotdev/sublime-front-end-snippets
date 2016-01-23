@@ -2,7 +2,7 @@
 
 Prefix `jc-*`
 
-### [jc-method] method comment
+### [jc-m] method comment
 
 ```javascript
 /**
@@ -13,7 +13,7 @@ Prefix `jc-*`
  */
 ```
 
-### [jc-property] property comment
+### [jc-p] property comment
 
 ```javascript
 /**
