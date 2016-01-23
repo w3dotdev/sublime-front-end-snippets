@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toThrow(${2});
+]]></content>
+  <tabTrigger>bdd-t</tabTrigger>
+  <description>Expect toThrow</description>
+</snippet>
