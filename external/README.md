@@ -2,7 +2,7 @@
 
 ## Analytics
 
-### [extga] Google Analytics Object
+### [e-ga] Google Analytics Object
 
 ```html
 <script>
