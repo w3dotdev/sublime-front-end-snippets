@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toBeLessThan(${2});
+]]></content>
+  <tabTrigger>bdd-belt</tabTrigger>
+  <description>Expect toBeLessThan</description>
+</snippet>
