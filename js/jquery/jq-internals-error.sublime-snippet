@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.error(${2:message});
+]]></content>
+  <tabTrigger>jq-a</tabTrigger>
+  <description>jq - error</description>
+</snippet>
