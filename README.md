@@ -1,4 +1,4 @@
-# Project Snippets
+# Front-end Project Snippets
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/LICENSE.md)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/sublime-front-end-snippets.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/issues)
