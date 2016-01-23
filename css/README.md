@@ -1,5 +1,7 @@
 # CSS Snippets
 
+Prefix `c-*`
+
 ## Font
 
 ### [c-ff] @font-face

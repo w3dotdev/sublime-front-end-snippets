@@ -1,5 +1,7 @@
 # CSS Comments Snippets
 
+Prefix `cc-*`
+
 ### [cc-basic] basic
 
 ```css

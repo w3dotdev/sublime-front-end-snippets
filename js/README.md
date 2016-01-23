@@ -1,5 +1,7 @@
 # JavaScript Snippets
 
+Prefix `j-*`
+
 ## Console
 
 ### [j-cd] console.dir

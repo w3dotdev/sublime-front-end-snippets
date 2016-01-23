@@ -1,5 +1,7 @@
 # JavaScript Comments Snippets
 
+Prefix `jc-*`
+
 ### [jc-method] method comment
 
 ```javascript

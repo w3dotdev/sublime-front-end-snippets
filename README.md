@@ -11,17 +11,17 @@ You can manually download the package and place it within your `Packages` direct
 
 ## Snippets and prefixes
 
-- [HTML](html/) - h-*
-  - [Schema](html/schema/) - hs-*
-- [CSS](css/) - c-*
-- [JavaScript](js/) - j-*
-  - [BDD](js/bdd) - bdd-*
-- [Schema.org](schema/) - s-*
-- [External](external/) - e-*
+- [HTML - h-*](html/)
+  - [Schema - hs-*](html/schema/)
+- [CSS - c-*](css/) 
+- [JavaScript - j-*](js/)
+  - [BDD - bdd-*](js/bdd)
+- [Schema.org - s-*](schema/)
+- [External - e-*](external/)
 - **Comment**
-  - [HTML](comment/html) - hc-*
-  - [CSS](comment/css) - cc-*
-  - [JavaScript](comment/js) - jc-*
+  - [HTML - hc-*](comment/html)
+  - [CSS - cc-*](comment/css)
+  - [JavaScript - jc-*](comment/js)
 
 ## Scopes
 

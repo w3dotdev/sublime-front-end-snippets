@@ -1,5 +1,7 @@
 # HTML Comments Snippets
 
+Prefix `hc-*`
+
 ### [hc-end-tag] end tag
 
 ```html

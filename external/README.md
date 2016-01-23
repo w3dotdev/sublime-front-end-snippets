@@ -1,5 +1,7 @@
 # External Snippets
 
+Prefix `e-*`
+
 ## Analytics
 
 ### [e-ga] Google Analytics Object
