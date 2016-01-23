@@ -3,5 +3,5 @@
 expect(${1}).toBeTruthy();
 ]]></content>
   <tabTrigger>b-bet</tabTrigger>
-  <description>Expect toBeTruthy</description>
+  <description>b - Expect toBeTruthy</description>
 </snippet>

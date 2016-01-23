@@ -5,5 +5,5 @@ afterEach(function() {
 });
 ]]></content>
   <tabTrigger>b-aeach</tabTrigger>
-  <description>afterEach</description>
+  <description>b - afterEach</description>
 </snippet>

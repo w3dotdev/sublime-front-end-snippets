@@ -5,5 +5,5 @@ it("${1}", function() {
 });
 ]]></content>
   <tabTrigger>b-it</tabTrigger>
-  <description>it</description>
+  <description>b - it</description>
 </snippet>

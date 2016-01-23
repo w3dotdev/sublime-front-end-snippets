@@ -3,5 +3,5 @@
 expect(${1}).toThrow(${2});
 ]]></content>
   <tabTrigger>b-t</tabTrigger>
-  <description>Expect toThrow</description>
+  <description>b - Expect toThrow</description>
 </snippet>

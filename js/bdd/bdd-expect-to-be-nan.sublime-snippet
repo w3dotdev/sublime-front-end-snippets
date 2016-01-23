@@ -3,5 +3,5 @@
 expect(${1}).toBeNaN();
 ]]></content>
   <tabTrigger>b-benan</tabTrigger>
-  <description>Expect toBeNaN</description>
+  <description>b - Expect toBeNaN</description>
 </snippet>

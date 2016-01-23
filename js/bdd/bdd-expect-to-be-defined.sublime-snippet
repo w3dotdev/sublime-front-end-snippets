@@ -3,5 +3,5 @@
 expect(${1}).toBeDefined();
 ]]></content>
   <tabTrigger>b-bed</tabTrigger>
-  <description>Expect toBeDefined</description>
+  <description>b - Expect toBeDefined</description>
 </snippet>

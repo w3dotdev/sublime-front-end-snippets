@@ -3,5 +3,5 @@
 expect(${1}).toMatch(${2});
 ]]></content>
   <tabTrigger>b-m</tabTrigger>
-  <description>Expect toMatch</description>
+  <description>b - Expect toMatch</description>
 </snippet>

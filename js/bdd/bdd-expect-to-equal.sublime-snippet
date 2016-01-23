@@ -3,5 +3,5 @@
 expect(${1}).toEqual(${2});
 ]]></content>
   <tabTrigger>b-e</tabTrigger>
-  <description>Expect toEqual</description>
+  <description>b - Expect toEqual</description>
 </snippet>

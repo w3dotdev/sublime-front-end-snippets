@@ -3,5 +3,5 @@
 expect(${1}).toBeUndefined();
 ]]></content>
   <tabTrigger>b-beu</tabTrigger>
-  <description>Expect toBeUndefined</description>
+  <description>b - Expect toBeUndefined</description>
 </snippet>

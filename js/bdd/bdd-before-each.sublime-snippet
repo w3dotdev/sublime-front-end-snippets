@@ -5,5 +5,5 @@ beforeEach(function() {
 });
 ]]></content>
   <tabTrigger>b-beach</tabTrigger>
-  <description>beforeEach</description>
+  <description>b - beforeEach</description>
 </snippet>

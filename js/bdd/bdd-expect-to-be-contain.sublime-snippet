@@ -3,5 +3,5 @@
 expect(${1}).toBeContain(${2});
 ]]></content>
   <tabTrigger>b-bec</tabTrigger>
-  <description>Expect toBeContain</description>
+  <description>b - Expect toBeContain</description>
 </snippet>

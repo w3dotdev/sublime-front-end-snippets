@@ -3,5 +3,5 @@
 expect(${1}).toHaveBeenCalledWith(${2}, ${3});
 ]]></content>
   <tabTrigger>b-hbcw</tabTrigger>
-  <description>Expect toHaveBeenCalledWith</description>
+  <description>b - Expect toHaveBeenCalledWith</description>
 </snippet>

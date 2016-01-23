@@ -3,5 +3,5 @@
 expect(${1}).toBeNull();
 ]]></content>
   <tabTrigger>b-ben</tabTrigger>
-  <description>Expect toBeNull</description>
+  <description>b - Expect toBeNull</description>
 </snippet>

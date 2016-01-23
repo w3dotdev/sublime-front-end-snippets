@@ -3,5 +3,5 @@
 expect(${1}).toBeGreaterThan(${2});
 ]]></content>
   <tabTrigger>b-begt</tabTrigger>
-  <description>Expect toBeGreaterThan</description>
+  <description>b - Expect toBeGreaterThan</description>
 </snippet>

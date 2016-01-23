@@ -3,5 +3,5 @@
 expect(${1}).toBeLessThan(${2});
 ]]></content>
   <tabTrigger>b-belt</tabTrigger>
-  <description>Expect toBeLessThan</description>
+  <description>b - Expect toBeLessThan</description>
 </snippet>

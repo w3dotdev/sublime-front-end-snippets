@@ -5,5 +5,5 @@ describe("$1", function() {
 });
 ]]></content>
   <tabTrigger>b-desc</tabTrigger>
-  <description>describe</description>
+  <description>b - describe</description>
 </snippet>
