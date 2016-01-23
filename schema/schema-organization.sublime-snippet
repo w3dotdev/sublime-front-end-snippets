@@ -2,5 +2,5 @@
 	<content><![CDATA[
 itemscope="itemscope" itemtype="http://schema.org/Organization"
 ]]></content>
-	<tabTrigger>schemao</tabTrigger>
+	<tabTrigger>schema-org</tabTrigger>
 </snippet>
