@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toBeDefined();
+]]></content>
+  <tabTrigger>bdd-bed</tabTrigger>
+  <description>Expect toBeDefined</description>
+</snippet>
