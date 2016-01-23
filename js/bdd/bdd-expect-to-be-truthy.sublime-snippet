@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toBeTruthy();
+]]></content>
+  <tabTrigger>bdd-bet</tabTrigger>
+  <description>Expect toBeTruthy</description>
+</snippet>
