@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toBeCloseTo(${2}, ${3});
+]]></content>
+  <tabTrigger>bdd-bect</tabTrigger>
+  <description>Expect toBeCloseTo</description>
+</snippet>
