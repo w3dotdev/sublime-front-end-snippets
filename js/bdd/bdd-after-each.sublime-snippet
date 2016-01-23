@@ -4,6 +4,6 @@ afterEach(function() {
   ${1}
 });
 ]]></content>
-  <tabTrigger>bdd-ae</tabTrigger>
+  <tabTrigger>bdd-aeach</tabTrigger>
   <description>afterEach</description>
 </snippet>

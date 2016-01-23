@@ -4,7 +4,7 @@
 
 Prefix `bdd-*`
 
-### [bdd-ae] afterEach
+### [bdd-aeach] afterEach
 
 ```javascript
 afterEach(function() {
@@ -12,7 +12,7 @@ afterEach(function() {
 });
 ```
 
-### [bdd-be] beforeEach
+### [bdd-beach] beforeEach
 
 ```javascript
 beforeEach(function() {
