@@ -12,8 +12,10 @@ You can manually download the package and place it within your `Packages` direct
 ## Snippets
 
 - [HTML](html/)
+  - [Schema](html/schema/)
 - [CSS](css/)
 - [JavaScript](js/)
+  - [BDD](js/bdd)
 - [Schema.org](schema/)
 - [External](external/)
 - Comment
