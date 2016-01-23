@@ -4,6 +4,6 @@ beforeEach(function() {
   ${1}
 });
 ]]></content>
-  <tabTrigger>bdd-beach</tabTrigger>
+  <tabTrigger>b-beach</tabTrigger>
   <description>beforeEach</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBeNaN();
 ]]></content>
-  <tabTrigger>bdd-benan</tabTrigger>
+  <tabTrigger>b-benan</tabTrigger>
   <description>Expect toBeNaN</description>
 </snippet>

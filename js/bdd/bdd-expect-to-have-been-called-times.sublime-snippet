@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toHaveBeenCalledTimes(${2});
 ]]></content>
-  <tabTrigger>bdd-hbct</tabTrigger>
+  <tabTrigger>b-hbct</tabTrigger>
   <description>Expect toHaveBeenCalledTimes</description>
 </snippet>

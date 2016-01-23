@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBeGreaterThan(${2});
 ]]></content>
-  <tabTrigger>bdd-begt</tabTrigger>
+  <tabTrigger>b-begt</tabTrigger>
   <description>Expect toBeGreaterThan</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBeNull();
 ]]></content>
-  <tabTrigger>bdd-ben</tabTrigger>
+  <tabTrigger>b-ben</tabTrigger>
   <description>Expect toBeNull</description>
 </snippet>

@@ -2,9 +2,9 @@
 
 ## BDD
 
-Prefix `bdd-*`
+Prefix `b-*`
 
-### [bdd-aeach] afterEach
+### [b-aeach] afterEach
 
 ```javascript
 afterEach(function() {
@@ -12,7 +12,7 @@ afterEach(function() {
 });
 ```
 
-### [bdd-beach] beforeEach
+### [b-beach] beforeEach
 
 ```javascript
 beforeEach(function() {
@@ -20,7 +20,7 @@ beforeEach(function() {
 });
 ```
 
-### [bdd-desc] describe
+### [b-desc] describe
 
 ```javascript
 describe("$1", function() {
@@ -28,7 +28,7 @@ describe("$1", function() {
 });
 ```
 
-### [bdd-it] it
+### [b-it] it
 
 ```javascript
 it("${1}", function() {
@@ -38,109 +38,109 @@ it("${1}", function() {
 
 ## Expect
 
-### [bdd-bect] toBeCloseTo
+### [b-bect] toBeCloseTo
 
 ```javascript
 expect(${1}).toBeCloseTo(${2}, ${3});
 ```
 
-### [bdd-bec] toBeContain
+### [b-bec] toBeContain
 
 ```javascript
 expect(${1}).toBeContain(${2});
 ```
 
-### [bdd-bed] toBeDefined
+### [b-bed] toBeDefined
 
 ```javascript
 expect(${1}).toBeDefined();
 ```
 
-### [bdd-bef] toBeFalsy
+### [b-bef] toBeFalsy
 
 ```javascript
 expect(${1}).toBeFalsy();
 ```
 
-### [bdd-begt] toBeGreaterThan
+### [b-begt] toBeGreaterThan
 
 ```javascript
 expect(${1}).toBeGreaterThan(${2});
 ```
 
-### [bdd-belt] toBeLessThan
+### [b-belt] toBeLessThan
 
 ```javascript
 expect(${1}).toBeLessThan(${2});
 ```
 
-### [bdd-benan] toBeNaN
+### [b-benan] toBeNaN
 
 ```javascript
 expect(${1}).toBeNaN();
 ```
 
-### [bdd-ben] toBeNull
+### [b-ben] toBeNull
 
 ```javascript
 expect(${1}).toBeNull();
 ```
 
-### [bdd-bet] toBeTruthy
+### [b-bet] toBeTruthy
 
 ```javascript
 expect(${1}).toBeTruthy();
 ```
 
-### [bdd-beu] toBeUndefined
+### [b-beu] toBeUndefined
 
 ```javascript
 expect(${1}).toBeUndefined();
 ```
 
-### [bdd-be] toBe
+### [b-be] toBe
 
 ```javascript
 expect(${1}).toBe(${2});
 ```
 
-### [bdd-e] toEqual
+### [b-e] toEqual
 
 ```javascript
 expect(${1}).toEqual(${2});
 ```
 
-### [bdd-hbct] toHaveBeenCalledTimes
+### [b-hbct] toHaveBeenCalledTimes
 
 ```javascript
 expect(${1}).toHaveBeenCalledTimes(${2});
 ```
 
-### [bdd-hbcw] toHaveBeenCalledWith
+### [b-hbcw] toHaveBeenCalledWith
 
 ```javascript
 expect(${1}).toHaveBeenCalledWith(${2}, ${3});
 ```
 
-### [bdd-hbc] toHaveBeenCalled
+### [b-hbc] toHaveBeenCalled
 
 ```javascript
 expect(${1}).toHaveBeenCalled();
 ```
 
-### [bdd-m] toMatch
+### [b-m] toMatch
 
 ```javascript
 expect(${1}).toMatch(${2});
 ```
 
-### [bdd-te] toThrowError
+### [b-te] toThrowError
 
 ```javascript
 expect(${1}).toThrowError(${2});
 ```
 
-### [bdd-t] toThrow
+### [b-t] toThrow
 
 ```javascript
 expect(${1}).toThrow(${2});
