@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toBeUndefined();
+]]></content>
+  <tabTrigger>bdd-beu</tabTrigger>
+  <description>Expect toBeUndefined</description>
+</snippet>
