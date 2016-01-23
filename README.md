@@ -18,6 +18,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
 - [CSS - c-*](css/) 
 - [JavaScript - j-*](js/)
   - [BDD - b-*](js/bdd)
+  - [jQuery - jq-*](js/jquery)
 - [Schema.org - s-*](schema/)
 - [External - e-*](external/)
 - **Comment**
