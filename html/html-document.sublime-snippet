@@ -4,17 +4,17 @@
 <html class="no-js" lang="pt-BR" xml:lang="pt-BR">
 	<head>
 		<meta charset="utf-8">
-		<title></title>
+		<title>${1:Document}</title>
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
 	    <script type="text/javascript">
-	      // para identificação se o javascript está ativo
+	      // to identify if javascript is active
 	      var tagHtml = document.getElementsByTagName("html")[0];
 	          tagHtml.className = tagHtml.className.replace('no-js', 'js');
 	    </script>
 	</head>
 	<body>
-
+    $2
 	</body>
 </html>
 ]]></content>
