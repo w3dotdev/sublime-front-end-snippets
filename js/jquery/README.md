@@ -96,18 +96,6 @@ ${1:\$("div")}.fadeTo(${2:duration}, ${3:opacity}${4:,easing}${5:,complete});
 ${1:\$("div")}.finish(${2:queue});
 ```
 
-### [jq-cd] fx.interval
-
-```javascript
-${1:\$}.fx.interval = ${2:500};
-```
-
-### [jq-cd] fx.off
-
-```javascript
-${1:\$}.fx.off = ${2:true};
-```
-
 ### [jq-cd] hide
 
 ```javascript
@@ -166,18 +154,84 @@ ${1:\$("div")}.toggle(${2:duration}${3:,easing}${4:,complete});
 
 ## Forms
 
-### [jq-cd] animate
+### [jq-cd] blur
 
 ```javascript
+${1:\$(document)}.blur(${2:eventData}${3:,handler});
+```
 
+### [jq-cd] change
+
+```javascript
+${1:\$(document)}.change(${2:eventData}${3:,handler});
+```
+
+### [jq-cd] focusin
+
+```javascript
+${1:\$(document)}.focusin(${2:eventData}${3:,handler});
+```
+
+### [jq-cd] focusout
+
+```javascript
+${1:\$(document)}.focusout(${2:eventData}${3:,handler});
+```
+
+### [jq-cd] focus
+
+```javascript
+${1:\$(document)}.focus(${2:eventData}${3:,handler});
+```
+
+### [jq-cd] param
+
+```javascript
+${1:\$}.param(${2:obj}${3:,traditional});
+```
+
+### [jq-cd] select
+
+```javascript
+${1:\$(document)}.select(${2:eventData}${3:,handler});
+```
+
+### [jq-cd] serializeArray
+
+```javascript
+${1:\$(this)}.serializeArray();
+```
+
+### [jq-cd] serialize
+
+```javascript
+${1:\$(this)}.serialize();
+```
+
+### [jq-cd] submit
+
+```javascript
+${1:\$(document)}.submit(${2:eventData}${3:,handler});
+```
+
+### [jq-cd] val
+
+```javascript
+${1:\$(this)}.val();
 ```
 
 ## Internals
 
-### [jq-cd] animate
+### [jq-cd] error
 
 ```javascript
+${1:\$}.error(${2:message});
+```
 
+### [jq-cd] pushStack
+
+```javascript
+${1:\$([])}.pushStack(${2:elements}${3:,name}${4:,arguments});
 ```
 
 ## Manipulation
@@ -198,18 +252,60 @@ ${1:\$("div")}.toggle(${2:duration}${3:,easing}${4:,complete});
 
 ## Offset
 
-### [jq-cd] animate
+### [jq-cd] offsetParent
 
 ```javascript
+${1:\$(this)}.offsetParent();
+```
 
+### [jq-cd] position
+
+```javascript
+${1:\$(this)}.position();
+```
+
+### [jq-cd] scrollLeft
+
+```javascript
+${1:\$(this)}.scrollLeft();
+```
+
+### [jq-cd] scrollTop
+
+```javascript
+${1:\$(this)}.scrollTop();
+```
+
+### [jq-cd] offset
+
+```javascript
+${1:\$(this)}.offset();
 ```
 
 ## Properties
 
-### [jq-cd] animate
+### [jq-cd] fx.interval
 
 ```javascript
+${1:\$}.fx.interval = ${2:500};
+```
 
+### [jq-cd] fx.off
+
+```javascript
+${1:\$}.fx.off = ${2:true};
+```
+
+### [jq-cd] jquery
+
+```javascript
+${1:\$.fn}.jquery;
+```
+
+### [jq-cd] length
+
+```javascript
+${1:\$([])}.length;
 ```
 
 ## Selectors
