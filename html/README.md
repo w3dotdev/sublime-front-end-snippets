@@ -2,7 +2,7 @@
 
 ## Structure
 
-### [htmldoc] html document
+### [h-doc] html document
 
 ```html
 <!DOCTYPE html>
@@ -24,7 +24,7 @@
 </html>
 ```
 
-### [htmlhead] head tags
+### [h-head-tags] head tags
 
 ```html
 <meta name="format-detection" content="telephone=no">
@@ -60,4 +60,14 @@
 
 <!-- canonical -->
 <link rel="canonical" href="${4:Url}">
+```
+
+### [hs-sne] http://www.schema.org/SiteNavigationElement
+
+```html
+<ul itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
+  <li itemprop="name">
+    <a itemprop="url" href="${1:#}">$2</a>
+  </li>
+</ul>
 ```
