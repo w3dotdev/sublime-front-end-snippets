@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-console.log(${1:obj});
-]]></content>
-  <tabTrigger>j-cl</tabTrigger>
-  <description>j - console.log</description>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$(this)}.scrollLeft();
-]]></content>
-  <tabTrigger>jq-a</tabTrigger>
-  <description>jq - scrollLeft</description>
-</snippet>

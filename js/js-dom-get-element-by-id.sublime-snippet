@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:document}.getElementById('${2:id}');
-]]></content>
-  <tabTrigger>j-gid</tabTrigger>
-  <description>j - getElementById</description>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:document}.getAttribute('${2:attr}');
-]]></content>
-  <tabTrigger>j-gattr</tabTrigger>
-  <description>j - getAttribute</description>
-</snippet>

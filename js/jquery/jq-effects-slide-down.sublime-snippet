@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$("div")}.slideDown(${2:duration}${3:,easing}${4:,complete});
-]]></content>
-  <tabTrigger>jq-s</tabTrigger>
-  <description>jq - slideDown</description>
-</snippet>

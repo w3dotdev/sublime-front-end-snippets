@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-setInterval(function() {
-  ${2}
-}, ${1:delay});
-]]></content>
-  <tabTrigger>j-si</tabTrigger>
-  <description>j - setInterval</description>
-</snippet>

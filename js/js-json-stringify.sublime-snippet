@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-JSON.stringify(${1:obj});
-]]></content>
-  <tabTrigger>j-js</tabTrigger>
-  <description>j - JSON.stringify</description>
-</snippet>

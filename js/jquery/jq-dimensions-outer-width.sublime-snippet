@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$(document)}.outerWidth(${2:includeMargin});
-]]></content>
-  <tabTrigger>jq-a</tabTrigger>
-  <description>jq - outerWidth</description>
-</snippet>

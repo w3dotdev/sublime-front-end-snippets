@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:methodName}.apply(${2:context}, [${3:arguments}])
-]]></content>
-  <tabTrigger>j-apply</tabTrigger>
-  <description>j - Function apply</description>
-</snippet>

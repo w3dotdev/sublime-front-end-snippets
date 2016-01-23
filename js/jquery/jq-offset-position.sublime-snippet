@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$(this)}.position();
-]]></content>
-  <tabTrigger>jq-a</tabTrigger>
-  <description>jq - position</description>
-</snippet>

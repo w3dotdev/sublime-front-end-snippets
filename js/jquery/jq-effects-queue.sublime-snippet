@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$("div")}.queue(${2:queueName});
-]]></content>
-  <tabTrigger>jq-d</tabTrigger>
-  <description>jq - queue</description>
-</snippet>

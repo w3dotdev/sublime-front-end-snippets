@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-expect(${1}).toEqual(${2});
-]]></content>
-  <tabTrigger>b-e</tabTrigger>
-  <description>b - Expect toEqual</description>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-setTimeout(function() {
-    ${2}
-}, ${1:delay});
-]]></content>
-  <tabTrigger>j-st</tabTrigger>
-  <description>j - setTimeout</description>
-</snippet>

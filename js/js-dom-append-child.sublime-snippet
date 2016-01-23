@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:document}.appendChild(${2:element});
-]]></content>
-  <tabTrigger>j-ac</tabTrigger>
-  <description>j - appendChild</description>
-</snippet>

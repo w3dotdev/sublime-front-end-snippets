@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-expect(${1}).toBeCloseTo(${2}, ${3});
-]]></content>
-  <tabTrigger>b-bect</tabTrigger>
-  <description>b - Expect toBeCloseTo</description>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$.fn}.jquery;
-]]></content>
-  <tabTrigger>jq-a</tabTrigger>
-  <description>jq - jquery</description>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-console.error(${1:obj});
-]]></content>
-  <tabTrigger>j-ce</tabTrigger>
-  <description>j - console.error</description>
-</snippet>

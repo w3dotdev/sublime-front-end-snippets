@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-expect(${1}).toBeTruthy();
-]]></content>
-  <tabTrigger>b-bet</tabTrigger>
-  <description>b - Expect toBeTruthy</description>
-</snippet>

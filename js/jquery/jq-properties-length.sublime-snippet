@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$([])}.length;
-]]></content>
-  <tabTrigger>jq-d</tabTrigger>
-  <description>jq - length</description>
-</snippet>

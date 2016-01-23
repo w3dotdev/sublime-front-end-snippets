@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$("div")}.animate(${2:properties}${3:,duration}${4:,easing}${5:,complete});
-]]></content>
-  <tabTrigger>jq-a</tabTrigger>
-  <description>jq - animate</description>
-</snippet>
