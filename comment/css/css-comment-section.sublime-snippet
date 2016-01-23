@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+/* ==========================================================================
+   ${1:Section}
+   ========================================================================== */
+]]></content>
+  <tabTrigger>cc-section</tabTrigger>
+  <description>Section Comment</description>
+</snippet>

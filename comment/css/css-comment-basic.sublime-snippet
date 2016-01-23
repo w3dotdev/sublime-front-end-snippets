@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+/* ${1:Basic comment} */
+]]></content>
+  <tabTrigger>cc-basic</tabTrigger>
+  <description>Basic Comment</description>
+</snippet>
