@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * @method ${1:Method name}
+ * ${2:Documentation for the method}
+ * @param {${3:String}} ${4:Description of the param}
+ * @return {${5:String}} ${6:Description of the return}
+ */
+]]></content>
+  <tabTrigger>jc-method</tabTrigger>
+  <description>Method Comment</description>
+</snippet>

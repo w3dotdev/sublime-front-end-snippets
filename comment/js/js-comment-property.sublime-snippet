@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * @property {${1:Boolean}} ${2:[property=false]}
+ * ${3:Description}
+ */
+]]></content>
+  <tabTrigger>jc-property</tabTrigger>
+  <description>Property Comment</description>
+</snippet>
