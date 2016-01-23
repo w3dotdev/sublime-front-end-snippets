@@ -9,6 +9,8 @@ If you already have the [Package Control](http://wbond.net/sublime_packages/pack
 
 You can manually download the package and place it within your `Packages` directory. It will work, but will not be updated automatically.
 
+You can see all installed snippets in `Tools > Snippets...`, in the sublime text.
+
 ## Snippets and prefixes
 
 - [HTML - h-*](html/)
