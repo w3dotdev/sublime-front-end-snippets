@@ -13,9 +13,13 @@ You can manually download the package and place it within your `Packages` direct
 
 - [HTML](html/README.md)
 - [CSS](css/README.md)
-- [JavaScript](javascript/README.md)
+- [JavaScript](js/README.md)
 - [Schema.org](schema/README.md)
 - [External](external/README.md)
+- Comment
+  - [HTML](comment/html/README.md)
+  - [CSS](comment/css/README.md)
+  - [JavaScript](comment/js/README.md)
 
 ## Scopes
 
