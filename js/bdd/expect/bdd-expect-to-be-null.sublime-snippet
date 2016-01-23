@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toBeNull();
+]]></content>
+  <tabTrigger>b-ben</tabTrigger>
+  <description>b - Expect toBeNull</description>
+</snippet>

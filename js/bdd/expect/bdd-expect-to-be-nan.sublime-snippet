@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toBeNaN();
+]]></content>
+  <tabTrigger>b-benan</tabTrigger>
+  <description>b - Expect toBeNaN</description>
+</snippet>
