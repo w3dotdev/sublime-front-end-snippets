@@ -2,7 +2,7 @@
 
 ## Font
 
-### [cssff] @font-face
+### [c-ff] @font-face
 
 ```css
 @font-face {
@@ -30,7 +30,7 @@
 
 ## Media Querie
 
-### [cssmq] @media
+### [c-mq] @media
 
 ```css
 @media ${1:all} and (${2:min-width}: ${3:768px}) {
@@ -40,7 +40,7 @@
 
 ## Keyframes
 
-### [cssk] @keyframes
+### [c-k] @keyframes
 
 ```css
 @-webkit-keyframes ${1:[animation-name]} {
