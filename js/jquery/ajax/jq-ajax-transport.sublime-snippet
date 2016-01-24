@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.ajaxTransport(${2:dataType}, ${3:handlerv});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-at</tabTrigger>
   <description>jq - ajaxTransport</description>
 </snippet>

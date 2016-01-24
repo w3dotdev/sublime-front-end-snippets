@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.addClass(${2:className});
+]]></content>
+  <tabTrigger>jq-aac</tabTrigger>
+  <description>jq - addClass</description>
+</snippet>

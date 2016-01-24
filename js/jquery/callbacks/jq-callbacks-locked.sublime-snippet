@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.locked();
+]]></content>
+  <tabTrigger>jq-clo</tabTrigger>
+  <description>jq - locked</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.removeProp(${2:propertyName});
+]]></content>
+  <tabTrigger>jq-arc</tabTrigger>
+  <description>jq - removeProp</description>
+</snippet>

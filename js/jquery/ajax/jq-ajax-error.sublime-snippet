@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.ajaxError(${2:handler});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-ae</tabTrigger>
   <description>jq - ajaxError</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.blur(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-fb</tabTrigger>
   <description>jq - blur</description>
 </snippet>

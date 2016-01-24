@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.remove(${4:callbacks});
+]]></content>
+  <tabTrigger>jq-cr</tabTrigger>
+  <description>jq - remove</description>
+</snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.change(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-fc</tabTrigger>
   <description>jq - change</description>
 </snippet>

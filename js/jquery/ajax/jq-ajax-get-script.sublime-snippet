@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.getScript(${2:url}${3:, success});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-ags</tabTrigger>
   <description>jq - getScript</description>
 </snippet>

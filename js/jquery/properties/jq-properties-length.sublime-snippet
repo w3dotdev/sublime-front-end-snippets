@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$([])}.length;
 ]]></content>
-  <tabTrigger>jq-d</tabTrigger>
+  <tabTrigger>jq-pl</tabTrigger>
   <description>jq - length</description>
 </snippet>

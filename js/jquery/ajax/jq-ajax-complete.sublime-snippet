@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.ajaxComplete(${2:handler});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-ac</tabTrigger>
   <description>jq - ajaxComplete</description>
 </snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.fireWith(${4:context}${5:, args});
+]]></content>
+  <tabTrigger>jq-cfw</tabTrigger>
+  <description>jq - fireWith</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.hasClass(${2:className});
+]]></content>
+  <tabTrigger>jq-ahc</tabTrigger>
+  <description>jq - hasClass</description>
+</snippet>

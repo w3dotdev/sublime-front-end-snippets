@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.ajaxSend(${2:handler});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-asend</tabTrigger>
   <description>jq - ajaxSend</description>
 </snippet>

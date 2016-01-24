@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.scrollTop();
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-ost</tabTrigger>
   <description>jq - scrollTop</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$("div")}.finish(${2:queue});
 ]]></content>
-  <tabTrigger>jq-d</tabTrigger>
+  <tabTrigger>jq-ef</tabTrigger>
   <description>jq - finish</description>
 </snippet>

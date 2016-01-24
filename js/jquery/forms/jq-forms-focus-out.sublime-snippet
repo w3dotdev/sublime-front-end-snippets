@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.focusout(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-ffo</tabTrigger>
   <description>jq - focusout</description>
 </snippet>

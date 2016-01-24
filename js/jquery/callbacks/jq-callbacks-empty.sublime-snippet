@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.empty();
+]]></content>
+  <tabTrigger>jq-ce</tabTrigger>
+  <description>jq - empty</description>
+</snippet>

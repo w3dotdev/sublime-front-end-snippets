@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.val();
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-fv</tabTrigger>
   <description>jq - val</description>
 </snippet>

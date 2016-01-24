@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.removeAttr(${2:attributeName});
+]]></content>
+  <tabTrigger>jq-ara</tabTrigger>
+  <description>jq - removeAttr</description>
+</snippet>

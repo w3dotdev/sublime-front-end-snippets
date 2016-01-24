@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.serialize();
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-fser</tabTrigger>
   <description>jq - serialize</description>
 </snippet>

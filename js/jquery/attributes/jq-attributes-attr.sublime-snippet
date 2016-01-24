@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.attr(${2:attributeName}${3:, value});
+]]></content>
+  <tabTrigger>jq-aat</tabTrigger>
+  <description>jq - attr</description>
+</snippet>

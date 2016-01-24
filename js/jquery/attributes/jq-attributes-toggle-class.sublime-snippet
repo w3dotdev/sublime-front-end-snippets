@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.toggleClass(${2:className}${2:, state});
+]]></content>
+  <tabTrigger>jq-atc</tabTrigger>
+  <description>jq - toggleClass</description>
+</snippet>
