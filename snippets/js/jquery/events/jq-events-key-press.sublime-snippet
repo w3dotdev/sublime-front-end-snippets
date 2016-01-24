@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.keypress(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jq-ekp</tabTrigger>
+  <tabTrigger>jqkpress</tabTrigger>
   <description>jq - keypress</description>
 </snippet>

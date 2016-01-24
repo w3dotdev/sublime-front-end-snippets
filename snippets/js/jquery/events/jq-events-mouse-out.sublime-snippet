@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.mouseout(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jq-emo</tabTrigger>
+  <tabTrigger>jqmout</tabTrigger>
   <description>jq - mouseout</description>
 </snippet>

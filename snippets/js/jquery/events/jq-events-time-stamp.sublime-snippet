@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.timeStamp;
 ]]></content>
-  <tabTrigger>jq-ets</tabTrigger>
+  <tabTrigger>jqtstamp</tabTrigger>
   <description>jq - timeStamp</description>
 </snippet>

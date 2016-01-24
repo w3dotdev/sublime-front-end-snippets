@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.triggerHandler(${2:eventType}${3:, extraParameters});
 ]]></content>
-  <tabTrigger>jq-etrigh</tabTrigger>
+  <tabTrigger>jqthandler</tabTrigger>
   <description>jq - triggerHandler</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.preventDefault();
 ]]></content>
-  <tabTrigger>jq-epd</tabTrigger>
+  <tabTrigger>jqpd</tabTrigger>
   <description>jq - preventDefault</description>
 </snippet>

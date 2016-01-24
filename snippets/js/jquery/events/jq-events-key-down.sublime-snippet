@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.keydown(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jq-ekd</tabTrigger>
+  <tabTrigger>jqkdown</tabTrigger>
   <description>jq - keydown</description>
 </snippet>

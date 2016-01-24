@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.click(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jq-ec</tabTrigger>
+  <tabTrigger>jqclick</tabTrigger>
   <description>jq - click</description>
 </snippet>

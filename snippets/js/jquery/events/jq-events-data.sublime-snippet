@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.data;
 ]]></content>
-  <tabTrigger>jq-edat</tabTrigger>
-  <description>jq - data</description>
+  <tabTrigger>jqedata</tabTrigger>
+  <description>jq - Event data</description>
 </snippet>

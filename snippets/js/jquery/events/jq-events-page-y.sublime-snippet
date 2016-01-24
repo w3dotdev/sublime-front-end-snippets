@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.pageY;
 ]]></content>
-  <tabTrigger>jq-epy</tabTrigger>
+  <tabTrigger>jqpy</tabTrigger>
   <description>jq - pageY</description>
 </snippet>

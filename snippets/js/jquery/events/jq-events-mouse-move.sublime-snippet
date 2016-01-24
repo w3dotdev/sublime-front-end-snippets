@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.mousemove(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jq-emm</tabTrigger>
+  <tabTrigger>jqmmove</tabTrigger>
   <description>jq - mousemove</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.delegate(${2:selector}${3:,eventType}${4:,handler});
 ]]></content>
-  <tabTrigger>jq-ed</tabTrigger>
+  <tabTrigger>jqdelegate</tabTrigger>
   <description>jq - delegate</description>
 </snippet>

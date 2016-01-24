@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.unbind(${2:eventType}${3:, handler});
 ]]></content>
-  <tabTrigger>jq-eub</tabTrigger>
+  <tabTrigger>jqunbind</tabTrigger>
   <description>jq - unbind</description>
 </snippet>

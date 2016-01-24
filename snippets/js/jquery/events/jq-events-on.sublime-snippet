@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.on(${2:events}${3:, selector}${4:, data}${5:, handler});
 ]]></content>
-  <tabTrigger>jq-eon</tabTrigger>
+  <tabTrigger>jqon</tabTrigger>
   <description>jq - on</description>
 </snippet>

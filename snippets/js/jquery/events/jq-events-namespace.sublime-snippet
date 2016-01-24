@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.namespace;
 ]]></content>
-  <tabTrigger>jq-ens</tabTrigger>
+  <tabTrigger>jqns</tabTrigger>
   <description>jq - namespace</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.off(${2:events}${3:, selector}${4:, handler});
 ]]></content>
-  <tabTrigger>jq-eof</tabTrigger>
+  <tabTrigger>jqoff</tabTrigger>
   <description>jq - off</description>
 </snippet>

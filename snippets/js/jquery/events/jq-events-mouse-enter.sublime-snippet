@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.mouseenter(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jq-eme</tabTrigger>
+  <tabTrigger>jqmenter</tabTrigger>
   <description>jq - mouseenter</description>
 </snippet>
