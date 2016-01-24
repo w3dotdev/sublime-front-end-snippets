@@ -13,18 +13,18 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
 
 ## Snippets and prefixes
 
-- [HTML - h-*](html/)
-  - [Schema - hs-*](html/schema/)
-- [CSS - c-*](css/) 
-- [JavaScript - j-*](js/)
-  - [BDD - b-*](js/bdd)
-  - [jQuery - jq-*](js/jquery)
-- [Schema.org - s-*](schema/)
-- [External - e-*](external/)
-- [Comment](comment/)
-  - [HTML - hc-*](comment/html)
-  - [CSS - cc-*](comment/css)
-  - [JavaScript - jc-*](comment/js)
+- [HTML - h-*](snippets/html/)
+  - [Schema - hs-*](snippets/html/schema/)
+- [CSS - c-*](snippets/css/) 
+- [JavaScript - j-*](snippets/js/)
+  - [BDD - b-*](snippets/js/bdd)
+  - [jQuery - jq-*](snippets/js/jquery)
+- [Schema.org - s-*](snippets/schema/)
+- [External - e-*](snippets/external/)
+- [Comment](snippets/comment/)
+  - [HTML - hc-*](snippets/comment/html)
+  - [CSS - cc-*](snippets/comment/css)
+  - [JavaScript - jc-*](snippets/comment/js)
 
 ## Scopes
 
