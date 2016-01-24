@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.prop(${2:propertyName}${3:, value});
 ]]></content>
-  <tabTrigger>jq-ap</tabTrigger>
+  <tabTrigger>jqprop</tabTrigger>
   <description>jq - prop</description>
 </snippet>

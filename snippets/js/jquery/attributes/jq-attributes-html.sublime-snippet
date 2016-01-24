@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.html(${2:htmlString});
 ]]></content>
-  <tabTrigger>jq-ah</tabTrigger>
+  <tabTrigger>jqhtml</tabTrigger>
   <description>jq - html</description>
 </snippet>
