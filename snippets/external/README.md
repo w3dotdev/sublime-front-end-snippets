@@ -1,10 +1,10 @@
 # External Snippets
 
-Prefix `e-*`
+Prefix `e*`
 
 ## Analytics
 
-### [e-ga] Google Analytics Object
+### [ega] Google Analytics Object
 
 ```html
 <script>
