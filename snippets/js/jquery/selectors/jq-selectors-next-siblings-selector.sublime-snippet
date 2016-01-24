@@ -3,5 +3,5 @@
 ${1:\$}("${2:prev} ~ ${3:siblings}");
 ]]></content>
   <tabTrigger>jq-snss</tabTrigger>
-  <description>jq - Next Siblings Selector</description>
+  <description>jq - Next Siblings</description>
 </snippet>

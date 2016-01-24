@@ -3,5 +3,5 @@
 ${1:\$}("*");
 ]]></content>
   <tabTrigger>jq-sa</tabTrigger>
-  <description>jq - All</description>
+  <description>jq - all</description>
 </snippet>

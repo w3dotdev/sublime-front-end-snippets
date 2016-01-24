@@ -3,5 +3,5 @@
 ${1:\$}("${2}");
 ]]></content>
   <tabTrigger>jq-se</tabTrigger>
-  <description>jq - Element</description>
+  <description>jq - element</description>
 </snippet>

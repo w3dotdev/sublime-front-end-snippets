@@ -3,5 +3,5 @@
 ${1:\$}("${2:prev} + ${3:next}");
 ]]></content>
   <tabTrigger>jq-snas</tabTrigger>
-  <description>jq - Next Adjacent Selector</description>
+  <description>jq - Next Adjacent</description>
 </snippet>

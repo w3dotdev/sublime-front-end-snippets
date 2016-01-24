@@ -3,5 +3,5 @@
 ${1:\event}.isPropagationStopped();
 ]]></content>
   <tabTrigger>jq-eips</tabTrigger>
-  <description>jq - isPropagationStopped()</description>
+  <description>jq - isPropagationStopped</description>
 </snippet>

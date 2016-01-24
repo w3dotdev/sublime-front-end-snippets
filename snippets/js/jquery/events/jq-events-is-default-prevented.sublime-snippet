@@ -3,5 +3,5 @@
 ${1:\event}.isDefaultPrevented();
 ]]></content>
   <tabTrigger>jq-eidp</tabTrigger>
-  <description>jq - isDefaultPrevented()</description>
+  <description>jq - isDefaultPrevented</description>
 </snippet>

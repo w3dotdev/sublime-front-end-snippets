@@ -3,5 +3,5 @@
 ${1:\$}("${2}[${3:attribute}]");
 ]]></content>
   <tabTrigger>jq-sh</tabTrigger>
-  <description>jq - Has Attribute Selector</description>
+  <description>jq - Has Attribute</description>
 </snippet>

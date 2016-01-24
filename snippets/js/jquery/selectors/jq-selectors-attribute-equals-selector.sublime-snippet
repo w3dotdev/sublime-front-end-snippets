@@ -3,5 +3,5 @@
 ${1:\$}("${2}[${3:attribute}='${4:value}']");
 ]]></content>
   <tabTrigger>jq-saes</tabTrigger>
-  <description>jq - Attribute Equals Selector</description>
+  <description>jq - Attribute Equals</description>
 </snippet>

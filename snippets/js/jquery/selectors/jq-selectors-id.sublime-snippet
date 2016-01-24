@@ -3,5 +3,5 @@
 ${1:\$}("#${2}");
 ]]></content>
   <tabTrigger>jq-si</tabTrigger>
-  <description>jq - ID</description>
+  <description>jq - id</description>
 </snippet>

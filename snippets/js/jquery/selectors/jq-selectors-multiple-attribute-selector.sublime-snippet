@@ -3,5 +3,5 @@
 ${1:\$}("${2}[${3}][${4}]");
 ]]></content>
   <tabTrigger>jq-sm</tabTrigger>
-  <description>jq - Multiple Attribute Selector</description>
+  <description>jq - Multiple Attribute</description>
 </snippet>

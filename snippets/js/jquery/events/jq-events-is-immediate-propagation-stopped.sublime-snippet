@@ -3,5 +3,5 @@
 ${1:\event}.isImmediatePropagationStopped();
 ]]></content>
   <tabTrigger>jq-eiips</tabTrigger>
-  <description>jq - isImmediatePropagationStopped()</description>
+  <description>jq - isImmediatePropagationStopped</description>
 </snippet>

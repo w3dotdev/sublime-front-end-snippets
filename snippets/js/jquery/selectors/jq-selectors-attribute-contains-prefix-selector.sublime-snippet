@@ -3,5 +3,5 @@
 ${1:\$}("${2}[${3:attribute}|='${4:value}']");
 ]]></content>
   <tabTrigger>jq-sacps</tabTrigger>
-  <description>jq - Attribute Contains Prefix Selector</description>
+  <description>jq - Attribute Contains Prefix</description>
 </snippet>

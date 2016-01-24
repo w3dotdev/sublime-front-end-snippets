@@ -3,5 +3,5 @@
 ${1:\event}.preventDefault();
 ]]></content>
   <tabTrigger>jq-epd</tabTrigger>
-  <description>jq - preventDefault()</description>
+  <description>jq - preventDefault</description>
 </snippet>

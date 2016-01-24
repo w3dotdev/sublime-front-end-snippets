@@ -3,5 +3,5 @@
 ${1:\$}("${2:ancestor} ${3:descendant}");
 ]]></content>
   <tabTrigger>jq-sd</tabTrigger>
-  <description>jq - Descendant</description>
+  <description>jq - descendant</description>
 </snippet>

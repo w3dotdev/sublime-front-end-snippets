@@ -3,5 +3,5 @@
 ${1:\$}("${2:selector1}, ${3:selector2}, ${3:selectorN}");
 ]]></content>
   <tabTrigger>jq-smu</tabTrigger>
-  <description>jq - Multiple Selector</description>
+  <description>jq - Multiple</description>
 </snippet>
