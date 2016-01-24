@@ -1,36 +1,36 @@
 ## Dimensions
 
-### [jq-cd] height
+### [jqheight] height
 
 ```javascript
 ${1:\$(document)}.height();
 ```
 
-### [jq-cd] innerHeight
+### [jqiheight] innerHeight
 
 ```javascript
 ${1:\$(document)}.innerHeight();
 ```
 
-### [jq-cd] innerWidth
+### [jqiwidth] innerWidth
 
 ```javascript
 ${1:\$(document)}.innerWidth();
 ```
 
-### [jq-cd] outerHeight
+### [jqoheight] outerHeight
 
 ```javascript
 ${1:\$(document)}.outerHeight(${2:includeMargin});
 ```
 
-### [jq-cd] outerWidth
+### [jqowidth] outerWidth
 
 ```javascript
 ${1:\$(document)}.outerWidth(${2:includeMargin});
 ```
 
-### [jq-cd] width
+### [jqwidth] width
 
 ```javascript
 ${1:\$(document)}.width();

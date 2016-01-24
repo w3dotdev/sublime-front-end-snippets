@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.innerHeight();
 ]]></content>
-  <tabTrigger>jq-dih</tabTrigger>
+  <tabTrigger>jqiheight</tabTrigger>
   <description>jq - innerHeight</description>
 </snippet>
