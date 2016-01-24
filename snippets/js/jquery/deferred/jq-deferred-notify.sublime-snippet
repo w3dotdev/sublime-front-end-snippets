@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.then()}.notify(${2:args});
 ]]></content>
-  <tabTrigger>jq-den</tabTrigger>
+  <tabTrigger>jqnotify</tabTrigger>
   <description>jq - notify</description>
 </snippet>

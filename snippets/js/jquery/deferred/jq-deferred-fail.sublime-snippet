@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.get("")}.fail(${2:failCallbacks}${3:,failCallbacks});
 ]]></content>
-  <tabTrigger>jq-def</tabTrigger>
+  <tabTrigger>jqfail</tabTrigger>
   <description>jq - fail</description>
 </snippet>

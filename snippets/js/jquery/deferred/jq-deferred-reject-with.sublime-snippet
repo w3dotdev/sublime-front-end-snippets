@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.then()}.rejectWith(${2:context}${3:, args});
 ]]></content>
-  <tabTrigger>jq-derw</tabTrigger>
+  <tabTrigger>jqrejectwith</tabTrigger>
   <description>jq - rejectWith</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.get("")}.always(${2:alwaysCallbacks}${3:,alwaysCallbacks});
 ]]></content>
-  <tabTrigger>jq-dea</tabTrigger>
+  <tabTrigger>jqalways</tabTrigger>
   <description>jq - always</description>
 </snippet>
