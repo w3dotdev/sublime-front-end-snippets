@@ -4,6 +4,6 @@ setTimeout(function() {
     ${2}
 }, ${1:delay});
 ]]></content>
-  <tabTrigger>j-st</tabTrigger>
+  <tabTrigger>jstimeout</tabTrigger>
   <description>j - setTimeout</description>
 </snippet>

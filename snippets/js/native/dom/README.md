@@ -1,6 +1,6 @@
 ## JavaScript DOM Snippets
 
-### [j-ael] addEventListener
+### [jael] addEventListener
 
 ```javascript
 ${1:document}.addEventListener('${2:event}', function(event) {
@@ -8,103 +8,103 @@ ${1:document}.addEventListener('${2:event}', function(event) {
 });
 ```
 
-### [j-ac] appendChild
+### [jac] appendChild
 
 ```javascript
 ${1:document}.appendChild(${2:element});
 ```
 
-### [j-cla] classList.add
+### [jcla] classList.add
 
 ```javascript
 ${1:document}.classList.add('${2:class}');
 ```
 
-### [j-clr] classList.remove
+### [jclr] classList.remove
 
 ```javascript
 ${1:document}.classList.remove('${2:class}');
 ```
 
-### [j-clt] classList.toggle
+### [jclt] classList.toggle
 
 ```javascript
 ${1:document}.classList.toggle('${2:class}');
 ```
 
-### [j-cdf] createDocumentFragment
+### [jcdf] createDocumentFragment
 
 ```javascript
 ${1:document}.createDocumentFragment(${2:element});
 ```
 
-### [j-cel] createElement
+### [jcel] createElement
 
 ```javascript
 ${1:document}.createElement(${2:element});
 ```
 
-### [j-gattr] getAttribute
+### [jgattr] getAttribute
 
 ```javascript
 ${1:document}.getAttribute('${2:attr}');
 ```
 
-### [j-gid] getElementById
+### [jgid] getElementById
 
 ```javascript
 ${1:document}.getElementById('${2:id}');
 ```
 
-### [j-gclass] getElementsByClassName
+### [jgclass] getElementsByClassName
 
 ```javascript
 ${1:document}.getElementsByClassName('${2:class}');
 ```
 
-### [j-gtag] getElementsByTagName
+### [jgtag] getElementsByTagName
 
 ```javascript
 ${1:document}.getElementsByTagName('${2:tag}');
 ```
 
-### [j-ih] innerHTML
+### [jih] innerHTML
 
 ```javascript
 ${1:document}.innerHTML = '${2:elem}';
 ```
 
-### [j-qsa] querySelectorAll
+### [jqsa] querySelectorAll
 
 ```javascript
 ${1:document}.querySelectorAll('${2:selector}');
 ```
 
-### [j-qs] querySelector
+### [jqs] querySelector
 
 ```javascript
 ${1:document}.querySelector('${2:selector}');
 ```
 
-### [j-rattr] removeAttribute
+### [jrattr] removeAttribute
 
 ```javascript
 ${1:document}.removeAttribute('${2:attr}');
 ```
 
-### [j-rc] removeChild
+### [jrc] removeChild
 
 ```javascript
 ${1:document}.removeChild(${2:element});
 ```
 
-### [j-sattr] setAttribute
+### [jsattr] setAttribute
 
 ```javascript
 ${1:document}.setAttribute('${2:attr}', ${3:value});
 ```
 
-### [j-tc] textContent
+### [jtc] textContent
 
 ```javascript
 ${1:document}.textContent = '${2:content}';

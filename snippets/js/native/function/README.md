@@ -1,6 +1,6 @@
 ## JavaScript Function Snippets
 
-### [j-fna] Anonymous Function
+### [jafn] Anonymous Function
 
 ```javascript
 function(${1:arguments}) {
@@ -8,19 +8,19 @@ function(${1:arguments}) {
 }
 ```
 
-### [j-apply] Function apply
+### [japply] Function apply
 
 ```javascript
 ${1:methodName}.apply(${2:context}, [${3:arguments}])
 ```
 
-### [j-call] Function call
+### [jcall] Function call
 
 ```javascript
 ${1:methodName}.call(${2:context}, ${3:arguments})
 ```
 
-### [j-iife] Immediately-invoked function expression
+### [jiife] Immediately-invoked function expression
 
 ```javascript
 (function(window, document, undefined) {
@@ -28,7 +28,7 @@ ${1:methodName}.call(${2:context}, ${3:arguments})
 })(window, document);
 ```
 
-### [j-prot] Prototype
+### [jprot] Prototype
 
 ```javascript
 ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
@@ -36,7 +36,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 }
 ```
 
-### [j-fn] Function
+### [jfn] Function
 
 ```javascript
 function ${1:methodName}(${2:arguments}) {

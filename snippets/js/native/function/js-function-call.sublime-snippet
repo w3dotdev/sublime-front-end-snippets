@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:methodName}.call(${2:context}, ${3:arguments})
 ]]></content>
-  <tabTrigger>j-call</tabTrigger>
+  <tabTrigger>jcall</tabTrigger>
   <description>j - Function call</description>
 </snippet>

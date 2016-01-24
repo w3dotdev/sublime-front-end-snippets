@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.setAttribute('${2:attr}', ${3:value});
 ]]></content>
-  <tabTrigger>j-sattr</tabTrigger>
+  <tabTrigger>jsattr</tabTrigger>
   <description>j - setAttribute</description>
 </snippet>

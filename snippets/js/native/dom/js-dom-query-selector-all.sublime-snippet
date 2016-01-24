@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.querySelectorAll('${2:selector}');
 ]]></content>
-  <tabTrigger>j-qsa</tabTrigger>
+  <tabTrigger>jqsa</tabTrigger>
   <description>j - querySelectorAll</description>
 </snippet>

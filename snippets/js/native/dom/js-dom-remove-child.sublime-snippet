@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.removeChild(${2:element});
 ]]></content>
-  <tabTrigger>j-rc</tabTrigger>
+  <tabTrigger>jrc</tabTrigger>
   <description>j - removeChild</description>
 </snippet>

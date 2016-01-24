@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.classList.add('${2:class}');
 ]]></content>
-  <tabTrigger>j-cla</tabTrigger>
+  <tabTrigger>jcla</tabTrigger>
   <description>j - classList.add</description>
 </snippet>

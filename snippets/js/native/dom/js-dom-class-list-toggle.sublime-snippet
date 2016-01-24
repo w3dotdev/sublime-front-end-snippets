@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.classList.toggle('${2:class}');
 ]]></content>
-  <tabTrigger>j-clt</tabTrigger>
+  <tabTrigger>jclt</tabTrigger>
   <description>j - classList.toggle</description>
 </snippet>

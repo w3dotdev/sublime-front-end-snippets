@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.innerHTML = '${2:elem}';
 ]]></content>
-  <tabTrigger>j-ih</tabTrigger>
+  <tabTrigger>jih</tabTrigger>
   <description>j - innerHTML</description>
 </snippet>

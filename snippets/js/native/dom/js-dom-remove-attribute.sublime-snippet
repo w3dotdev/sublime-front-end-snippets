@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.removeAttribute('${2:attr}');
 ]]></content>
-  <tabTrigger>j-rattr</tabTrigger>
+  <tabTrigger>jrattr</tabTrigger>
   <description>j - removeAttribute</description>
 </snippet>

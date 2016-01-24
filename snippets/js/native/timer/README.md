@@ -1,6 +1,6 @@
 ## JavaScript Timer Snippets
 
-### [j-si] setInterval
+### [jsinterval] setInterval
 
 ```javascript
 setInterval(function() {
@@ -8,7 +8,7 @@ setInterval(function() {
 }, ${1:delay});
 ```
 
-### [j-st] setTimeout
+### [jstimeout] setTimeout
 
 ```javascript
 setTimeout(function() {

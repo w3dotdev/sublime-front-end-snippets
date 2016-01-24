@@ -1,30 +1,30 @@
 ## JavaScript Console Snippets
 
-### [j-cd] console.dir
+### [jcd] console.dir
 
 ```javascript
 console.dir(${1:obj});
 ```
 
-### [j-ce] console.error
+### [jce] console.error
 
 ```javascript
 console.error(${1:obj});
 ```
 
-### [j-ci] console.info
+### [jci] console.info
 
 ```javascript
 console.info(${1:obj});
 ```
 
-### [j-cl] console.log
+### [jcl] console.log
 
 ```javascript
 console.log(${1:obj});
 ```
 
-### [j-cw] console.warn
+### [jcw] console.warn
 
 ```javascript
 console.warn(${1:obj});

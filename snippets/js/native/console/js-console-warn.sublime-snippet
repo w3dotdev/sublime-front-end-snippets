@@ -2,6 +2,6 @@
   <content><![CDATA[
 console.warn(${1:obj});
 ]]></content>
-  <tabTrigger>j-cw</tabTrigger>
+  <tabTrigger>jcw</tabTrigger>
   <description>j - console.warn</description>
 </snippet>

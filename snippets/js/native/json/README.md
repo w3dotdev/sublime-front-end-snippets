@@ -1,12 +1,12 @@
 ## JavaScript JSON Snippets
 
-### [j-jp] JSON.parse
+### [jjsonp] JSON.parse
 
 ```javascript
 JSON.parse(${1:obj});
 ```
 
-### [j-js] JSON.stringify
+### [jjsons] JSON.stringify
 
 ```javascript
 JSON.stringify(${1:obj});

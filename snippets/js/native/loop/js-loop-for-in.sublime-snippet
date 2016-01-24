@@ -6,6 +6,6 @@ for (${1:prop} in ${2:obj}) {
   }
 }
 ]]></content>
-  <tabTrigger>j-fori</tabTrigger>
+  <tabTrigger>jfori</tabTrigger>
   <description>j - for in</description>
 </snippet>

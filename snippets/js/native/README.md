@@ -1,6 +1,6 @@
 # JavaScript Snippets
 
-## Prefix `j-*`
+## Prefix `j*`
 
 - [Console](console/)
   - console.dir

@@ -1,6 +1,6 @@
 ## JavaScript Loop Snippets
 
-### [j-fore] forEach
+### [jfore] forEach
 
 ```javascript
 ${1:myArray}.forEach(function(${2:element}) {
@@ -8,7 +8,7 @@ ${1:myArray}.forEach(function(${2:element}) {
 });
 ```
 
-### [j-fori] for in
+### [jfori] for in
 
 ```javascript
 for (${1:prop} in ${2:obj}) {
@@ -18,7 +18,7 @@ for (${1:prop} in ${2:obj}) {
 }
 ```
 
-### [j-for] for
+### [jfor] for
 
 ```javascript
 for (var i = ${1:0}, len = ${2:10}; i ${3:<=} len; i${4:++} ) {
