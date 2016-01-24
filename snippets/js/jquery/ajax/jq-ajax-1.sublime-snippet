@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.ajax(${2:{settings}});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jqa</tabTrigger>
   <description>jq - ajax</description>
 </snippet>

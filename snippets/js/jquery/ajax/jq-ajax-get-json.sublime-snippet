@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.getJSON(${2:url}${3:, data}${4:, success});
 ]]></content>
-  <tabTrigger>jq-agj</tabTrigger>
+  <tabTrigger>jqgjson</tabTrigger>
   <description>jq - getJSON</description>
 </snippet>

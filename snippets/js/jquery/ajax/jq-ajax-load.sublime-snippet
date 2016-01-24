@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.load(${2:url}${3:, data}${4:, complete});
 ]]></content>
-  <tabTrigger>jq-al</tabTrigger>
+  <tabTrigger>jqload</tabTrigger>
   <description>jq - load</description>
 </snippet>

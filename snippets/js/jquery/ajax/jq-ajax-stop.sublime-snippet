@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.ajaxStop(${2:handler});
 ]]></content>
-  <tabTrigger>jq-astop</tabTrigger>
+  <tabTrigger>jqastop</tabTrigger>
   <description>jq - ajaxStop</description>
 </snippet>

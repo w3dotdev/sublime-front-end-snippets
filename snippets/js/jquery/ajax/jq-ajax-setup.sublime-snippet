@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.ajaxSetup(${2:options});
 ]]></content>
-  <tabTrigger>jq-asetup</tabTrigger>
+  <tabTrigger>jqasetup</tabTrigger>
   <description>jq - ajaxSetup</description>
 </snippet>
