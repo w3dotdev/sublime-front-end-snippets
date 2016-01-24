@@ -34,6 +34,6 @@
 <!-- canonical -->
 <link rel="canonical" href="${4:Url}">
 ]]></content>
-  <tabTrigger>h-head-tags</tabTrigger>
+  <tabTrigger>hhtags</tabTrigger>
   <description>h - Head tags</description>
 </snippet>

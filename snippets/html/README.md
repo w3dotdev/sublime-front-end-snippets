@@ -1,10 +1,10 @@
 # HTML Snippets
 
-Prefix `h-*`
+Prefix `h*`
 
 ## Structure
 
-### [h-doc] html document
+### [hdoc] html document
 
 ```html
 <!DOCTYPE html>
@@ -26,7 +26,7 @@ Prefix `h-*`
 </html>
 ```
 
-### [h-head-tags] head tags
+### [hhtags] head tags
 
 ```html
 <meta name="format-detection" content="telephone=no">

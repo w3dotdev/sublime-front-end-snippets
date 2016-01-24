@@ -2,9 +2,9 @@
 
 ## Schema
 
-Prefix `hs-*`
+Prefix `hs*`
 
-### [hs-sne] http://www.schema.org/SiteNavigationElement
+### [hssitenav] http://www.schema.org/SiteNavigationElement
 
 ```html
 <ul itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
