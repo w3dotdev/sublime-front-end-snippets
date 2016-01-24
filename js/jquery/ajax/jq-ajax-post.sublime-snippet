@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-${1:\$(document)}.load(${2:url}${3:, data}${4:, complete});
+${1:\$}.post(${2:url}${3:, data}${4:, success}${5:, dataType});
 ]]></content>
   <tabTrigger>jq-a</tabTrigger>
-  <description>jq - load</description>
+  <description>jq - post</description>
 </snippet>

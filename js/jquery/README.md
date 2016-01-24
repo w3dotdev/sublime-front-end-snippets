@@ -1,3 +1,95 @@
 # JQuery Snippets
 
 ## Prefix `jq-*`
+
+- [Ajax](ajax/)
+  - ajaxComplete
+  - ajaxError
+  - getJSON
+  - getScript
+  - get
+  - load
+  - post
+  - ajaxPrefilter
+  - ajaxSend
+  - ajaxSetup
+  - ajaxStart
+  - ajaxStop
+  - ajaxSuccess
+  - ajaxTransport
+  - ajax
+- [Attributes](attributes/)
+  - 
+- [Callbacks](callbacks/)
+  - 
+- [Core](core/)
+  - 
+- [CSS](css/)
+  - 
+- [Data](data/)
+  - 
+- [Deferred](deferred/)
+  - 
+- [Dimensions](dimensions/)
+  - height
+  - innerHeight
+  - innerWidth
+  - outerHeight
+  - outerWidth
+  - width
+- [Effects](effects/)
+  - animate
+  - clearQueue
+  - delay
+  - dequeue
+  - fadeIn
+  - fadeOut
+  - fadeToggle
+  - fadeTo
+  - finish
+  - hide
+  - queue
+  - show
+  - slideDown
+  - slideToggle
+  - slideUp
+  - stop
+  - toggle
+- [Events](events/)
+  - 
+- [Forms](forms/)
+  - blur
+  - change
+  - focusin
+  - focusout
+  - focus
+  - param
+  - select
+  - serializeArray
+  - serialize
+  - submit
+  - val
+- [Internals](internals/)
+  - error
+  - pushStack
+- [Manipulation](manipulation/)
+  - 
+- [Miscellaneous](miscellaneous/)
+  - 
+- [Offset](offset/)
+  - offsetParent
+  - position
+  - scrollLeft
+  - scrollTop
+  - offset
+- [Properties](properties/)
+  - fx.interval
+  - fx.off
+  - jquery
+  - length
+- [Selectors](selectors/)
+  - 
+- [Traversing](traversing/)
+  - 
+- [Utilities](utilities/)
+  - 

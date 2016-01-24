@@ -30,6 +30,12 @@ ${1:\$}.getScript(${2:url}${3:, success});
 ${1:\$}.get(${2:url}${3:, data}${4:, success}${5:, dataType});
 ```
 
+### [jq-cd] post
+
+```javascript
+${1:\$}.post(${2:url}${3:, data}${4:, success}${5:, dataType});
+```
+
 ### [jq-cd] load
 
 ```javascript
