@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.offsetParent();
 ]]></content>
-  <tabTrigger>jq-op</tabTrigger>
+  <tabTrigger>jqoparent</tabTrigger>
   <description>jq - offsetParent</description>
 </snippet>
