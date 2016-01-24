@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.isEmptyObject(${2:object});
+]]></content>
+  <tabTrigger>jq-uieo</tabTrigger>
+  <description>jq - isEmptyObject</description>
+</snippet>

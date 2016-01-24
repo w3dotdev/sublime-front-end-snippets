@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.isWindow(${2:object});
+]]></content>
+  <tabTrigger>jq-uiw</tabTrigger>
+  <description>jq - isWindow</description>
+</snippet>

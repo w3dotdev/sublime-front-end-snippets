@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.inArray(${2:value}${3:, array}${4:, fromIndex});
+]]></content>
+  <tabTrigger>jq-uia</tabTrigger>
+  <description>jq - inArray</description>
+</snippet>

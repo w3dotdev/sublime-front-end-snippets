@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.map(${2:object}${3:, callback});
+]]></content>
+  <tabTrigger>jq-um</tabTrigger>
+  <description>jq - map</description>
+</snippet>

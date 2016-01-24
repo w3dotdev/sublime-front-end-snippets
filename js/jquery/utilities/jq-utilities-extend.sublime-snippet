@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.extend(${2:deep}${3:, target}${4:, object1}${5:, objectN});
+]]></content>
+  <tabTrigger>jq-uex</tabTrigger>
+  <description>jq - extend</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.isFunction(${2:object});
+]]></content>
+  <tabTrigger>jq-uif</tabTrigger>
+  <description>jq - isFunction</description>
+</snippet>

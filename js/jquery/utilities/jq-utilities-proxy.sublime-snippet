@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.proxy(${2:context}${3:, name}${4:, additionalArguments});
+]]></content>
+  <tabTrigger>jq-upr</tabTrigger>
+  <description>jq - proxy</description>
+</snippet>

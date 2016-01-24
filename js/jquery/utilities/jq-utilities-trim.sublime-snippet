@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.trim(${2:str});
+]]></content>
+  <tabTrigger>jq-ut</tabTrigger>
+  <description>jq - trim</description>
+</snippet>

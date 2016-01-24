@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.now();
+]]></content>
+  <tabTrigger>jq-uno</tabTrigger>
+  <description>jq - now</description>
+</snippet>

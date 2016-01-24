@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.isNumeric(${2:value});
+]]></content>
+  <tabTrigger>jq-uin</tabTrigger>
+  <description>jq - isNumeric</description>
+</snippet>
