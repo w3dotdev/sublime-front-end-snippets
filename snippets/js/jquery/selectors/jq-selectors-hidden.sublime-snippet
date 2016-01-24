@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:hidden");
 ]]></content>
-  <tabTrigger>jq-shi</tabTrigger>
+  <tabTrigger>jq:hi</tabTrigger>
   <description>jq - :hidden</description>
 </snippet>

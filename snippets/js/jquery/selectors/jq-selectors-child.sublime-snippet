@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2:parent} > ${3:child}");
 ]]></content>
-  <tabTrigger>jq-schi</tabTrigger>
+  <tabTrigger>jq:chi</tabTrigger>
   <description>jq - :child</description>
 </snippet>

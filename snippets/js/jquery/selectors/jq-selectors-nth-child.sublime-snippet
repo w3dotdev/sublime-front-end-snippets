@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:nth-child(${3:index})");
 ]]></content>
-  <tabTrigger>jq-snc</tabTrigger>
+  <tabTrigger>jq:nc</tabTrigger>
   <description>jq - :nth-child</description>
 </snippet>

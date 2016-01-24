@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:first-child");
 ]]></content>
-  <tabTrigger>jq-sfc</tabTrigger>
+  <tabTrigger>jq:fc</tabTrigger>
   <description>jq - :first-child</description>
 </snippet>

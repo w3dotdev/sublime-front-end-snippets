@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:last");
 ]]></content>
-  <tabTrigger>jq-sla</tabTrigger>
+  <tabTrigger>jq:la</tabTrigger>
   <description>jq - :last</description>
 </snippet>

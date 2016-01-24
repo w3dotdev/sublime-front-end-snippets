@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:animated");
 ]]></content>
-  <tabTrigger>jq-san</tabTrigger>
+  <tabTrigger>jq:a</tabTrigger>
   <description>jq - :animated</description>
 </snippet>

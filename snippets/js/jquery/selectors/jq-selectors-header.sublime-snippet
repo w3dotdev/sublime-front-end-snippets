@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}(":header");
 ]]></content>
-  <tabTrigger>jq-she</tabTrigger>
+  <tabTrigger>jq:he</tabTrigger>
   <description>jq - :header</description>
 </snippet>

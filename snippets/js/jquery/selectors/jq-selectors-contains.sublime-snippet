@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:contains('${3:text}')");
 ]]></content>
-  <tabTrigger>jq-sco</tabTrigger>
+  <tabTrigger>jq:co</tabTrigger>
   <description>jq - :contains</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("*");
 ]]></content>
-  <tabTrigger>jq-sa</tabTrigger>
+  <tabTrigger>jqall</tabTrigger>
   <description>jq - all</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:nth-last-child(${3:index})");
 ]]></content>
-  <tabTrigger>jq-snlc</tabTrigger>
+  <tabTrigger>jq:nlc</tabTrigger>
   <description>jq - :nth-last-child</description>
 </snippet>

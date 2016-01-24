@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:empty");
 ]]></content>
-  <tabTrigger>jq-sem</tabTrigger>
+  <tabTrigger>jq:e</tabTrigger>
   <description>jq - :empty</description>
 </snippet>

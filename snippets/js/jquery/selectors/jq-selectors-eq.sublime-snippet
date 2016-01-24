@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:eq(${3:indexFromEnd})");
 ]]></content>
-  <tabTrigger>jq-seq</tabTrigger>
+  <tabTrigger>jq:eq</tabTrigger>
   <description>jq - :eq</description>
 </snippet>

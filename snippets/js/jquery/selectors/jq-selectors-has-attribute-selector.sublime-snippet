@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}[${3:attribute}]");
 ]]></content>
-  <tabTrigger>jq-sh</tabTrigger>
+  <tabTrigger>jq[]</tabTrigger>
   <description>jq - Has Attribute</description>
 </snippet>

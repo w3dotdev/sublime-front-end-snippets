@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2:prev} + ${3:next}");
 ]]></content>
-  <tabTrigger>jq-snas</tabTrigger>
+  <tabTrigger>jq+</tabTrigger>
   <description>jq - Next Adjacent</description>
 </snippet>

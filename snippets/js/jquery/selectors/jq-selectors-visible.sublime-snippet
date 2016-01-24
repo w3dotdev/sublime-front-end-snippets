@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:visible");
 ]]></content>
-  <tabTrigger>jq-sv</tabTrigger>
+  <tabTrigger>jq:v</tabTrigger>
   <description>jq - :visible</description>
 </snippet>

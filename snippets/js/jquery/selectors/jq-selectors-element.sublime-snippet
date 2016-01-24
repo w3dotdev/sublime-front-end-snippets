@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}");
 ]]></content>
-  <tabTrigger>jq-se</tabTrigger>
+  <tabTrigger>jq$</tabTrigger>
   <description>jq - element</description>
 </snippet>

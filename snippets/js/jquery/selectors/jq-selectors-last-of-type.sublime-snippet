@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:last-of-type");
 ]]></content>
-  <tabTrigger>jq-slot</tabTrigger>
+  <tabTrigger>jq:lt</tabTrigger>
   <description>jq - :last-of-type</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2:ancestor} ${3:descendant}");
 ]]></content>
-  <tabTrigger>jq-sd</tabTrigger>
+  <tabTrigger>jqdes</tabTrigger>
   <description>jq - descendant</description>
 </snippet>

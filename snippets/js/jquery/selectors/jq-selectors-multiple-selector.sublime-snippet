@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2:selector1}, ${3:selector2}, ${3:selectorN}");
 ]]></content>
-  <tabTrigger>jq-smu</tabTrigger>
+  <tabTrigger>jq,</tabTrigger>
   <description>jq - Multiple</description>
 </snippet>

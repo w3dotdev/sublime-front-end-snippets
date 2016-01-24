@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:only-child");
 ]]></content>
-  <tabTrigger>jq-soc</tabTrigger>
+  <tabTrigger>jq:oc</tabTrigger>
   <description>jq - :only-child</description>
 </snippet>

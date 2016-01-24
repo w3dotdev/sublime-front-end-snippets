@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:file");
 ]]></content>
-  <tabTrigger>jq-sf</tabTrigger>
+  <tabTrigger>jq:f</tabTrigger>
   <description>jq - :file</description>
 </snippet>

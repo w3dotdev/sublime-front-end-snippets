@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:radio");
 ]]></content>
-  <tabTrigger>jq-sr</tabTrigger>
+  <tabTrigger>jq:r</tabTrigger>
   <description>jq - :radio</description>
 </snippet>
