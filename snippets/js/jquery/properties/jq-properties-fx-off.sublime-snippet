@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.fx.off = ${2:true};
 ]]></content>
-  <tabTrigger>jq-pfo</tabTrigger>
+  <tabTrigger>jqfxo</tabTrigger>
   <description>jq - fx.off</description>
 </snippet>
