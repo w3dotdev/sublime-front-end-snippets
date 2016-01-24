@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.prevAll(${2:selector});
 ]]></content>
-  <tabTrigger>jq-tpra</tabTrigger>
+  <tabTrigger>jqprevall</tabTrigger>
   <description>jq - prevAll</description>
 </snippet>

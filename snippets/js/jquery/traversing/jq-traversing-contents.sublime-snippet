@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.contents();
 ]]></content>
-  <tabTrigger>jq-tco</tabTrigger>
+  <tabTrigger>jqcontents</tabTrigger>
   <description>jq - contents</description>
 </snippet>

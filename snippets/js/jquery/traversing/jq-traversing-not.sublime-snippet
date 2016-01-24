@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.not(${2:selection});
 ]]></content>
-  <tabTrigger>jq-tno</tabTrigger>
+  <tabTrigger>jqnot</tabTrigger>
   <description>jq - not</description>
 </snippet>

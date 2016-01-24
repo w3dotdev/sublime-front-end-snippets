@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.nextAll(${2:selector});
 ]]></content>
-  <tabTrigger>jq-tna</tabTrigger>
+  <tabTrigger>jqnextall</tabTrigger>
   <description>jq - nextAll</description>
 </snippet>

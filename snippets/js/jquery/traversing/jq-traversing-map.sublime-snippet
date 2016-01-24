@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.map(${2:callback});
 ]]></content>
-  <tabTrigger>jq-tm</tabTrigger>
+  <tabTrigger>jqmap</tabTrigger>
   <description>jq - map</description>
 </snippet>

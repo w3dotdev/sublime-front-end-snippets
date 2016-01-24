@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.is(${2:selector});
 ]]></content>
-  <tabTrigger>jq-ti</tabTrigger>
+  <tabTrigger>jqis</tabTrigger>
   <description>jq - is</description>
 </snippet>

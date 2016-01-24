@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.first();
 ]]></content>
-  <tabTrigger>jq-tfir</tabTrigger>
+  <tabTrigger>jqfirst</tabTrigger>
   <description>jq - first</description>
 </snippet>
