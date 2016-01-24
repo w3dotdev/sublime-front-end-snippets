@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}(${2:selector}${3:, context});
 ]]></content>
-  <tabTrigger>jq-cj</tabTrigger>
+  <tabTrigger>jqjq</tabTrigger>
   <description>jq - jQuery</description>
 </snippet>

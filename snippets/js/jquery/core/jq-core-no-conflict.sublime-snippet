@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.noConflict(${2:removeAll});
 ]]></content>
-  <tabTrigger>jq-cnc</tabTrigger>
+  <tabTrigger>jqnoc</tabTrigger>
   <description>jq - noConflict</description>
 </snippet>

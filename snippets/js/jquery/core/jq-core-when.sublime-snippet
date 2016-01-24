@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.when(${2:deferreds});
 ]]></content>
-  <tabTrigger>jq-cw</tabTrigger>
+  <tabTrigger>jqwhen</tabTrigger>
   <description>jq - when</description>
 </snippet>
