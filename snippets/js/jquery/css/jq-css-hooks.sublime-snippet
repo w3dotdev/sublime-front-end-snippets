@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.cssHooks;
 ]]></content>
-  <tabTrigger>jq-cssh</tabTrigger>
+  <tabTrigger>jqcssh</tabTrigger>
   <description>jq - cssHooks</description>
 </snippet>

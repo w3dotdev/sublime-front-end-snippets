@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.css(${2:{propertyName}});
 ]]></content>
-  <tabTrigger>jq-css</tabTrigger>
+  <tabTrigger>jqcss</tabTrigger>
   <description>jq - css</description>
 </snippet>
