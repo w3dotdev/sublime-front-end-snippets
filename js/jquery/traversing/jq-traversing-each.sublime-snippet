@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.each(${2:function});
+]]></content>
+  <tabTrigger>jq-te</tabTrigger>
+  <description>jq - each</description>
+</snippet>

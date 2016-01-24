@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.children(${2:selector});
+]]></content>
+  <tabTrigger>jq-tc</tabTrigger>
+  <description>jq - children</description>
+</snippet>

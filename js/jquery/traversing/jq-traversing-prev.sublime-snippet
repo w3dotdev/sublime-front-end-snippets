@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.prev(${2:selector});
+]]></content>
+  <tabTrigger>jq-tpr</tabTrigger>
+  <description>jq - prev</description>
+</snippet>

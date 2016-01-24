@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.parentsUntil(${2:selector}${3:, selector});
+]]></content>
+  <tabTrigger>jq-tpau</tabTrigger>
+  <description>jq - parentsUntil</description>
+</snippet>

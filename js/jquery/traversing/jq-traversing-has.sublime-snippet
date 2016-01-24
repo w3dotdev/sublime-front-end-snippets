@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.has(${2:selector});
+]]></content>
+  <tabTrigger>jq-th</tabTrigger>
+  <description>jq - has</description>
+</snippet>

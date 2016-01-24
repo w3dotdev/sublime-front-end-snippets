@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.next(${2:selector});
+]]></content>
+  <tabTrigger>jq-tn</tabTrigger>
+  <description>jq - next</description>
+</snippet>

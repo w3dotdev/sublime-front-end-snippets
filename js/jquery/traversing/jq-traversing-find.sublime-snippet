@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.find(${2:element});
+]]></content>
+  <tabTrigger>jq-tfi</tabTrigger>
+  <description>jq - find</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.not(${2:selection});
+]]></content>
+  <tabTrigger>jq-tno</tabTrigger>
+  <description>jq - not</description>
+</snippet>

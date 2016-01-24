@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.contents();
+]]></content>
+  <tabTrigger>jq-tco</tabTrigger>
+  <description>jq - contents</description>
+</snippet>

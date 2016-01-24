@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.siblings(${2:selector});
+]]></content>
+  <tabTrigger>jq-ts</tabTrigger>
+  <description>jq - siblings</description>
+</snippet>

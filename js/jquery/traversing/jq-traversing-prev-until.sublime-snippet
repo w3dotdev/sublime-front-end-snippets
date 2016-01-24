@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.prevUntil(${2:selector}${3:, filter});
+]]></content>
+  <tabTrigger>jq-tpru</tabTrigger>
+  <description>jq - prevUntil</description>
+</snippet>

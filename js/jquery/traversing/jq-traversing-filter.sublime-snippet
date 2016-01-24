@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.filter(${2:elements});
+]]></content>
+  <tabTrigger>jq-tf</tabTrigger>
+  <description>jq - filter</description>
+</snippet>

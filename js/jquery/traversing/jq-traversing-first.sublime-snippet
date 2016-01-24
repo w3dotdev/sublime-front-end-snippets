@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.first();
+]]></content>
+  <tabTrigger>jq-tfir</tabTrigger>
+  <description>jq - first</description>
+</snippet>
