@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toThrowError(${2});
 ]]></content>
-  <tabTrigger>b-te</tabTrigger>
+  <tabTrigger>bthrowerror</tabTrigger>
   <description>b - Expect toThrowError</description>
 </snippet>

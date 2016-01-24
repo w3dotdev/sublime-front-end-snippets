@@ -1,6 +1,6 @@
 ## BDD structure Snippets
 
-### [b-aeach] afterEach
+### [baftereach] afterEach
 
 ```javascript
 afterEach(function() {
@@ -8,7 +8,7 @@ afterEach(function() {
 });
 ```
 
-### [b-beach] beforeEach
+### [bbeforeeach] beforeEach
 
 ```javascript
 beforeEach(function() {
@@ -16,7 +16,7 @@ beforeEach(function() {
 });
 ```
 
-### [b-desc] describe
+### [bdescribe] describe
 
 ```javascript
 describe("$1", function() {
@@ -24,7 +24,7 @@ describe("$1", function() {
 });
 ```
 
-### [b-it] it
+### [bit] it
 
 ```javascript
 it("${1}", function() {

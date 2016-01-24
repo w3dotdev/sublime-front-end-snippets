@@ -1,108 +1,108 @@
 ## BDD Expect Snippets
 
-### [b-bect] toBeCloseTo
+### [bcloseto] toBeCloseTo
 
 ```javascript
 expect(${1}).toBeCloseTo(${2}, ${3});
 ```
 
-### [b-bec] toBeContain
+### [bcontain] toBeContain
 
 ```javascript
 expect(${1}).toBeContain(${2});
 ```
 
-### [b-bed] toBeDefined
+### [bdefined] toBeDefined
 
 ```javascript
 expect(${1}).toBeDefined();
 ```
 
-### [b-bef] toBeFalsy
+### [bfalsy] toBeFalsy
 
 ```javascript
 expect(${1}).toBeFalsy();
 ```
 
-### [b-begt] toBeGreaterThan
+### [bgreaterthan] toBeGreaterThan
 
 ```javascript
 expect(${1}).toBeGreaterThan(${2});
 ```
 
-### [b-belt] toBeLessThan
+### [blessthan] toBeLessThan
 
 ```javascript
 expect(${1}).toBeLessThan(${2});
 ```
 
-### [b-benan] toBeNaN
+### [bnan] toBeNaN
 
 ```javascript
 expect(${1}).toBeNaN();
 ```
 
-### [b-ben] toBeNull
+### [bnull] toBeNull
 
 ```javascript
 expect(${1}).toBeNull();
 ```
 
-### [b-bet] toBeTruthy
+### [btruthy] toBeTruthy
 
 ```javascript
 expect(${1}).toBeTruthy();
 ```
 
-### [b-beu] toBeUndefined
+### [bundefined] toBeUndefined
 
 ```javascript
 expect(${1}).toBeUndefined();
 ```
 
-### [b-be] toBe
+### [btobe] toBe
 
 ```javascript
 expect(${1}).toBe(${2});
 ```
 
-### [b-e] toEqual
+### [bequal] toEqual
 
 ```javascript
 expect(${1}).toEqual(${2});
 ```
 
-### [b-hbct] toHaveBeenCalledTimes
+### [bhbctimes] toHaveBeenCalledTimes
 
 ```javascript
 expect(${1}).toHaveBeenCalledTimes(${2});
 ```
 
-### [b-hbcw] toHaveBeenCalledWith
+### [bhbcwith] toHaveBeenCalledWith
 
 ```javascript
 expect(${1}).toHaveBeenCalledWith(${2}, ${3});
 ```
 
-### [b-hbc] toHaveBeenCalled
+### [bhbc] toHaveBeenCalled
 
 ```javascript
 expect(${1}).toHaveBeenCalled();
 ```
 
-### [b-m] toMatch
+### [bmatch] toMatch
 
 ```javascript
 expect(${1}).toMatch(${2});
 ```
 
-### [b-te] toThrowError
+### [bthrowerror] toThrowError
 
 ```javascript
 expect(${1}).toThrowError(${2});
 ```
 
-### [b-t] toThrow
+### [bthrow] toThrow
 
 ```javascript
 expect(${1}).toThrow(${2});

@@ -4,6 +4,6 @@ it("${1}", function() {
   ${2}
 });
 ]]></content>
-  <tabTrigger>b-it</tabTrigger>
+  <tabTrigger>bit</tabTrigger>
   <description>b - it</description>
 </snippet>

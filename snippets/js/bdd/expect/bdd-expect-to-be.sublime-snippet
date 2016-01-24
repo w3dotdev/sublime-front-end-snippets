@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBe(${2});
 ]]></content>
-  <tabTrigger>b-be</tabTrigger>
+  <tabTrigger>btobe</tabTrigger>
   <description>b - Expect toBe</description>
 </snippet>

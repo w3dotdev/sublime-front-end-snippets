@@ -1,6 +1,6 @@
 # BDD JavaScript Snippets
 
-## Prefix `b-*`
+## Prefix `b*`
 
 - [Structure](structure/)
   - afterEach

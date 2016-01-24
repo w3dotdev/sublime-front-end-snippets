@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBeDefined();
 ]]></content>
-  <tabTrigger>b-bed</tabTrigger>
+  <tabTrigger>bdefined</tabTrigger>
   <description>b - Expect toBeDefined</description>
 </snippet>

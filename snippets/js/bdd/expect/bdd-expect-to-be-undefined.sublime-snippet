@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBeUndefined();
 ]]></content>
-  <tabTrigger>b-beu</tabTrigger>
+  <tabTrigger>bundefined</tabTrigger>
   <description>b - Expect toBeUndefined</description>
 </snippet>

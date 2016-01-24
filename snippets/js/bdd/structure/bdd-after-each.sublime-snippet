@@ -4,6 +4,6 @@ afterEach(function() {
   ${1}
 });
 ]]></content>
-  <tabTrigger>b-aeach</tabTrigger>
+  <tabTrigger>baftereach</tabTrigger>
   <description>b - afterEach</description>
 </snippet>
