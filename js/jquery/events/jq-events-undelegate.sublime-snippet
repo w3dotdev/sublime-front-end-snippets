@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.undelegate(${2:selector}${3:, eventType}${4:, handler});
+]]></content>
+  <tabTrigger>jq-eud</tabTrigger>
+  <description>jq - undelegate</description>
+</snippet>

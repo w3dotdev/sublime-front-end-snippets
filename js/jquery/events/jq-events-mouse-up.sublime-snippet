@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.mouseup(${2:eventData}${3:, handler});
+]]></content>
+  <tabTrigger>jq-emu</tabTrigger>
+  <description>jq - mouseup</description>
+</snippet>

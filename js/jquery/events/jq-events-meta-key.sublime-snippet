@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\event}.metaKey;
+]]></content>
+  <tabTrigger>jq-emk</tabTrigger>
+  <description>jq - metaKey</description>
+</snippet>

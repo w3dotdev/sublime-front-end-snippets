@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.ready(${2:handler});
+]]></content>
+  <tabTrigger>jq-erea</tabTrigger>
+  <description>jq - ready</description>
+</snippet>

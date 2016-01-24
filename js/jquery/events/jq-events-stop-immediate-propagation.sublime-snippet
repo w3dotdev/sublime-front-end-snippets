@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\event}.stopImmediatePropagation();
+]]></content>
+  <tabTrigger>jq-esip</tabTrigger>
+  <description>jq - stopImmediatePropagation</description>
+</snippet>

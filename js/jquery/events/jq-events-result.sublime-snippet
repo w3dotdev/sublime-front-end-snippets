@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\event}.result;
+]]></content>
+  <tabTrigger>jq-er</tabTrigger>
+  <description>jq - result</description>
+</snippet>

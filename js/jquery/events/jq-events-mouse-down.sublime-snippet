@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.mousedown(${2:eventData}${3:, handler});
+]]></content>
+  <tabTrigger>jq-emd</tabTrigger>
+  <description>jq - mousedown</description>
+</snippet>

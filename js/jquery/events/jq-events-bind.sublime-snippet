@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.bind(${2:eventType}${3:,eventData}${4:,handler});
 ]]></content>
-  <tabTrigger>jq-a</tabTrigger>
+  <tabTrigger>jq-eb</tabTrigger>
   <description>jq - bind</description>
 </snippet>

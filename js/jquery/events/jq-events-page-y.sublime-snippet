@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\event}.pageY;
+]]></content>
+  <tabTrigger>jq-epy</tabTrigger>
+  <description>jq - pageY</description>
+</snippet>

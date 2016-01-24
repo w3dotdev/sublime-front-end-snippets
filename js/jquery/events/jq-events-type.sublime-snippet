@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\event}.type;
+]]></content>
+  <tabTrigger>jq-ety</tabTrigger>
+  <description>jq - type</description>
+</snippet>

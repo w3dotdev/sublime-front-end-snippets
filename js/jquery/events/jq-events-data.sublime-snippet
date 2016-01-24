@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\event}.data;
+]]></content>
+  <tabTrigger>jq-edat</tabTrigger>
+  <description>jq - data</description>
+</snippet>

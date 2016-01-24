@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\event}.stopPropagation();
+]]></content>
+  <tabTrigger>jq-esp</tabTrigger>
+  <description>jq - stopPropagation</description>
+</snippet>

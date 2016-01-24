@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\event}.isDefaultPrevented();
+]]></content>
+  <tabTrigger>jq-eidp</tabTrigger>
+  <description>jq - isDefaultPrevented()</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.mouseover(${2:eventData}${3:, handler});
+]]></content>
+  <tabTrigger>jq-emov</tabTrigger>
+  <description>jq - mouseover</description>
+</snippet>
