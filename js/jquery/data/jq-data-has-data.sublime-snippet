@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.hasData(${2:element});
+]]></content>
+  <tabTrigger>jq-dhd</tabTrigger>
+  <description>jq - hasData</description>
+</snippet>

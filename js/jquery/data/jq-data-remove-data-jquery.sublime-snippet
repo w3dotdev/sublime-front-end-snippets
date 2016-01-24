@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.removeData(${2:element}${3:, name});
+]]></content>
+  <tabTrigger>jq-drdj</tabTrigger>
+  <description>jq - jQuery removeData</description>
+</snippet>
