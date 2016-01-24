@@ -7,6 +7,6 @@
  * @return {${5:String}} ${6:Description of the return}
  */
 ]]></content>
-  <tabTrigger>jc-m</tabTrigger>
+  <tabTrigger>jcmethod</tabTrigger>
   <description>jc - Method Comment</description>
 </snippet>

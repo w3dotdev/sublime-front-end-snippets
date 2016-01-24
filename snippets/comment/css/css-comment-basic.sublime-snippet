@@ -2,6 +2,6 @@
   <content><![CDATA[
 /* ${1:Basic comment} */
 ]]></content>
-  <tabTrigger>cc-basic</tabTrigger>
+  <tabTrigger>ccbasic</tabTrigger>
   <description>cc - Basic Comment</description>
 </snippet>

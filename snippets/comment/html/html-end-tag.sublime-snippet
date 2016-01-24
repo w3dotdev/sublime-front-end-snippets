@@ -2,6 +2,6 @@
   <content><![CDATA[
 <!-- // ${1:div} -->
 ]]></content>
-  <tabTrigger>hc-end-tag</tabTrigger>
+  <tabTrigger>hcend</tabTrigger>
   <description>hc - End Tag Comment</description>
 </snippet>

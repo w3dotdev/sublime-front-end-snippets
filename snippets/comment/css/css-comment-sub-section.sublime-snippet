@@ -3,6 +3,6 @@
 /* ${1:Sub-section}
    ========================================================================== */
 ]]></content>
-  <tabTrigger>cc-sub-section</tabTrigger>
+  <tabTrigger>ccsubsection</tabTrigger>
   <description>cc - Sub-section Comment</description>
 </snippet>

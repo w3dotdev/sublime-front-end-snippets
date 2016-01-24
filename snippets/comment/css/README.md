@@ -1,14 +1,14 @@
 # CSS Comments Snippets
 
-Prefix `cc-*`
+Prefix `cc*`
 
-### [cc-basic] basic
+### [ccbasic] basic
 
 ```css
 /* ${1:Basic comment} */
 ```
 
-### [cc-block] block
+### [ccblock] block
 
 ```css
 /**
@@ -17,7 +17,7 @@ Prefix `cc-*`
  */
 ```
 
-### [cc-section] section
+### [ccsection] section
 
 ```css
 /* ==========================================================================
@@ -25,7 +25,7 @@ Prefix `cc-*`
    ========================================================================== */
 ```
 
-### [cc-sub-section] sub-section
+### [ccsubsection] sub-section
 
 ```css
 /* ${1:Sub-section}
