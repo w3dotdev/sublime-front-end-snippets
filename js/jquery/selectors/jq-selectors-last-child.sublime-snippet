@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:last-child");
+]]></content>
+  <tabTrigger>jq-slc</tabTrigger>
+  <description>jq - :last-child</description>
+</snippet>

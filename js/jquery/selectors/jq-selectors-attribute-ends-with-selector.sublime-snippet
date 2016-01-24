@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}[${3:attribute}$='${4:value}']");
+]]></content>
+  <tabTrigger>jq-saews</tabTrigger>
+  <description>jq - Attribute Ends With Selector</description>
+</snippet>

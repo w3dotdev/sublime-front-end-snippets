@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:disabled");
+]]></content>
+  <tabTrigger>jq-sdi</tabTrigger>
+  <description>jq - :disabled</description>
+</snippet>

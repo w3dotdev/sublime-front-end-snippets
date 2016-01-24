@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}(":header");
+]]></content>
+  <tabTrigger>jq-she</tabTrigger>
+  <description>jq - :header</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}(":button");
+]]></content>
+  <tabTrigger>jq-sb</tabTrigger>
+  <description>jq - :button</description>
+</snippet>

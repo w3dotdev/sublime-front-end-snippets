@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:target");
+]]></content>
+  <tabTrigger>jq-st</tabTrigger>
+  <description>jq - :target</description>
+</snippet>

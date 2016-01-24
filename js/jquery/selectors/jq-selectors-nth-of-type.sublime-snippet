@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:nth-of-type(${3:index})");
+]]></content>
+  <tabTrigger>jq-snot</tabTrigger>
+  <description>jq - :nth-of-type</description>
+</snippet>

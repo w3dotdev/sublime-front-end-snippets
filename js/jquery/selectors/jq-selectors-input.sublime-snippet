@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:input");
+]]></content>
+  <tabTrigger>jq-sin</tabTrigger>
+  <description>jq - :input</description>
+</snippet>

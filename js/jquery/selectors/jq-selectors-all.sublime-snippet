@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("*");
+]]></content>
+  <tabTrigger>jq-sa</tabTrigger>
+  <description>jq - All</description>
+</snippet>

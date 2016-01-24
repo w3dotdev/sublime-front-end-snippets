@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:even");
+]]></content>
+  <tabTrigger>jq-sev</tabTrigger>
+  <description>jq - :even</description>
+</snippet>

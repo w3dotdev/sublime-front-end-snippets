@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:gt(${3:indexFromEnd})");
+]]></content>
+  <tabTrigger>jq-sgt</tabTrigger>
+  <description>jq - :gt</description>
+</snippet>

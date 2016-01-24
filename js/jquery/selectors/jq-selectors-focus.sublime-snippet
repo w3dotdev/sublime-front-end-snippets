@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:focus");
+]]></content>
+  <tabTrigger>jq-sfo</tabTrigger>
+  <description>jq - :focus</description>
+</snippet>

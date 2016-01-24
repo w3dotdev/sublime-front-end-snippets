@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:submit");
+]]></content>
+  <tabTrigger>jq-ssu</tabTrigger>
+  <description>jq - :submit</description>
+</snippet>

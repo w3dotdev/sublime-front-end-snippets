@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:checked");
+]]></content>
+  <tabTrigger>jq-sch</tabTrigger>
+  <description>jq - :checked</description>
+</snippet>

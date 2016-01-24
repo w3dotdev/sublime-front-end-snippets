@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2:prev} ~ ${3:siblings}");
+]]></content>
+  <tabTrigger>jq-snss</tabTrigger>
+  <description>jq - Next Siblings Selector</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:parent");
+]]></content>
+  <tabTrigger>jq-sp</tabTrigger>
+  <description>jq - :parent</description>
+</snippet>

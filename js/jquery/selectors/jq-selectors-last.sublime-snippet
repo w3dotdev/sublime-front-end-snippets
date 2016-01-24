@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:last");
+]]></content>
+  <tabTrigger>jq-sla</tabTrigger>
+  <description>jq - :last</description>
+</snippet>

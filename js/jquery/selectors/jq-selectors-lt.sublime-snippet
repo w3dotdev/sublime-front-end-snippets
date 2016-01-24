@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:lt(${3:indexFromEnd})");
+]]></content>
+  <tabTrigger>jq-slt</tabTrigger>
+  <description>jq - :lt</description>
+</snippet>

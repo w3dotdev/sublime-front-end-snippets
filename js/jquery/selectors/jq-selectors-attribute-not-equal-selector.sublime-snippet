@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}[${3:attribute}!='${4:value}']");
+]]></content>
+  <tabTrigger>jq-sanes</tabTrigger>
+  <description>jq - Attribute Not Equal Selector</description>
+</snippet>

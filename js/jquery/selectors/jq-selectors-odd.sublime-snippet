@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:odd(${3:index})");
+]]></content>
+  <tabTrigger>jq-so</tabTrigger>
+  <description>jq - :odd</description>
+</snippet>

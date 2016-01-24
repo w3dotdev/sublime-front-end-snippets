@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:only-of-type");
+]]></content>
+  <tabTrigger>jq-soft</tabTrigger>
+  <description>jq - :only-of-type</description>
+</snippet>

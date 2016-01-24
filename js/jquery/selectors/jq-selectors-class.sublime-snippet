@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}(".${2:class}");
+]]></content>
+  <tabTrigger>jq-scl</tabTrigger>
+  <description>jq - class</description>
+</snippet>

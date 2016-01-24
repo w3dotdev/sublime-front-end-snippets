@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:selected");
+]]></content>
+  <tabTrigger>jq-ss</tabTrigger>
+  <description>jq - :selected</description>
+</snippet>

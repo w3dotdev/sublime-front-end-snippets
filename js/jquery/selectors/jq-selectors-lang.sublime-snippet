@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:lang(${3:language})");
+]]></content>
+  <tabTrigger>jq-sl</tabTrigger>
+  <description>jq - :lang</description>
+</snippet>

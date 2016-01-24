@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}("${2}:checkbox");
+]]></content>
+  <tabTrigger>jq-sc</tabTrigger>
+  <description>jq - :checkbox</description>
+</snippet>
