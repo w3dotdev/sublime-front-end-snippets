@@ -2,6 +2,6 @@ v<snippet>
   <content><![CDATA[
 ${1:\$("div")}.clearQueue(${2:queueName});
 ]]></content>
-  <tabTrigger>jq-ecq</tabTrigger>
+  <tabTrigger>jqcqueue</tabTrigger>
   <description>jq - clearQueue</description>
 </snippet>

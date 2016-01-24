@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$("div")}.delay(${2:duration}${3:,queueName});
 ]]></content>
-  <tabTrigger>jq-ed</tabTrigger>
+  <tabTrigger>jqdelay</tabTrigger>
   <description>jq - delay</description>
 </snippet>

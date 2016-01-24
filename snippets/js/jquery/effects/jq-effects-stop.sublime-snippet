@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$("div")}.stop(${2:queue}${3:,clearQueue}${4:,jumpToEnd});
 ]]></content>
-  <tabTrigger>jq-estop</tabTrigger>
+  <tabTrigger>jqstop</tabTrigger>
   <description>jq - stop</description>
 </snippet>
