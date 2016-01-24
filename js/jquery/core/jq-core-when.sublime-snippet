@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.when(${2:deferreds});
+]]></content>
+  <tabTrigger>jq-cw</tabTrigger>
+  <description>jq - when</description>
+</snippet>

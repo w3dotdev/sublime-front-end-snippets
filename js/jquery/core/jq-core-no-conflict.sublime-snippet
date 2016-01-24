@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.noConflict(${2:removeAll});
+]]></content>
+  <tabTrigger>jq-cnc</tabTrigger>
+  <description>jq - noConflict</description>
+</snippet>
