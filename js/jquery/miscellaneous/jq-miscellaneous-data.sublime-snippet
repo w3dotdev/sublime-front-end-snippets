@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:\$(this)}.data(${2:key}${3:,value});
-]]></content>
-  <tabTrigger>jq-a</tabTrigger>
-  <description>jq - data</description>
-</snippet>

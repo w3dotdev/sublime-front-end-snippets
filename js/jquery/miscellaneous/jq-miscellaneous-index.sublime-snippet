@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.index(${2:selector});
+]]></content>
+  <tabTrigger>jq-min</tabTrigger>
+  <description>jq - index</description>
+</snippet>
