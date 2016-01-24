@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.empty();
+]]></content>
+  <tabTrigger>jq-me</tabTrigger>
+  <description>jq - empty</description>
+</snippet>

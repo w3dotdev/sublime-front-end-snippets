@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.prependTo(${2:target});
+]]></content>
+  <tabTrigger>jq-mpt</tabTrigger>
+  <description>jq - prependTo</description>
+</snippet>

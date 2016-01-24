@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.wrap(${2:wrappingElement});
+]]></content>
+  <tabTrigger>jq-mw</tabTrigger>
+  <description>jq - wrap</description>
+</snippet>

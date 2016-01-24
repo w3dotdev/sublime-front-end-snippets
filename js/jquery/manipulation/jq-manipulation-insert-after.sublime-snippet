@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.insertAfter(${2:target});
+]]></content>
+  <tabTrigger>jq-mia</tabTrigger>
+  <description>jq - insertAfter</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.detach(${2:selector});
+]]></content>
+  <tabTrigger>jq-md</tabTrigger>
+  <description>jq - detach</description>
+</snippet>

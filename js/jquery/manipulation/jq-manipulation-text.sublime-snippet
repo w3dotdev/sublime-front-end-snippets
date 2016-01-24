@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.text();
+]]></content>
+  <tabTrigger>jq-mt</tabTrigger>
+  <description>jq - text</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.appendTo(${2:content}${3:,content});
+]]></content>
+  <tabTrigger>jq-mapt</tabTrigger>
+  <description>jq - appendTo</description>
+</snippet>

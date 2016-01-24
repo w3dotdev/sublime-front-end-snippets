@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.replaceAll(${2:target});
+]]></content>
+  <tabTrigger>jq-mra</tabTrigger>
+  <description>jq - replaceAll</description>
+</snippet>

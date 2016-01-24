@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(this)}.clone(${2:withDataAndEvents}${3:,deepWithDataAndEvents});
+]]></content>
+  <tabTrigger>jq-mc</tabTrigger>
+  <description>jq - clone</description>
+</snippet>
