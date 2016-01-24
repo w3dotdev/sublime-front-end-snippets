@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$.then()}.progress(${2:progressCallbacks}${3:, progressCallbacks});
+]]></content>
+  <tabTrigger>jq-dep</tabTrigger>
+  <description>jq - progress</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$.then()}.notifyWith(${2:context}${3:, args});
+]]></content>
+  <tabTrigger>jq-denw</tabTrigger>
+  <description>jq - notifyWith</description>
+</snippet>

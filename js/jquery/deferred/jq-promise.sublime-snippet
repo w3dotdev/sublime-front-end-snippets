@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$(document)}.promise(${2:type}${3:, target});
+]]></content>
+  <tabTrigger>jq-prom</tabTrigger>
+  <description>jq - promise</description>
+</snippet>

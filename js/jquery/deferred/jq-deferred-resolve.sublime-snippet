@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$.then()}.resolve(${2:args});
+]]></content>
+  <tabTrigger>jq-dere</tabTrigger>
+  <description>jq - resolve</description>
+</snippet>

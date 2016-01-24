@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$.then()}.resolveWith(${2:context}${3:, args});
+]]></content>
+  <tabTrigger>jq-derew</tabTrigger>
+  <description>jq - resolveWith</description>
+</snippet>

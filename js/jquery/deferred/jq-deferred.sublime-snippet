@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.Deferred(${2:beforeStart});
+]]></content>
+  <tabTrigger>jq-de</tabTrigger>
+  <description>jq - Deferred</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$.get()}.then(${2:doneFilter}${3:, failFilter}${4:, progressFilter});
+]]></content>
+  <tabTrigger>jq-det</tabTrigger>
+  <description>jq - then</description>
+</snippet>
