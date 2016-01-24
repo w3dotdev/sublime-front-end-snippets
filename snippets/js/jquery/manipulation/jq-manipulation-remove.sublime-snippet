@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.remove(${2:selector});
 ]]></content>
-  <tabTrigger>jq-mr</tabTrigger>
+  <tabTrigger>jqremove</tabTrigger>
   <description>jq - remove</description>
 </snippet>

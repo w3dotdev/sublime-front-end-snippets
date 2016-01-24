@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.prepend(${2:content}${3:,content});
 ]]></content>
-  <tabTrigger>jq-mp</tabTrigger>
+  <tabTrigger>jqprepend</tabTrigger>
   <description>jq - prepend</description>
 </snippet>

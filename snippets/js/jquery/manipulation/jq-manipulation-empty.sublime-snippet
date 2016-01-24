@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.empty();
 ]]></content>
-  <tabTrigger>jq-me</tabTrigger>
+  <tabTrigger>jqempty</tabTrigger>
   <description>jq - empty</description>
 </snippet>

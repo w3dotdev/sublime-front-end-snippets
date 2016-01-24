@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.insertAfter(${2:target});
 ]]></content>
-  <tabTrigger>jq-mia</tabTrigger>
+  <tabTrigger>jqiafter</tabTrigger>
   <description>jq - insertAfter</description>
 </snippet>

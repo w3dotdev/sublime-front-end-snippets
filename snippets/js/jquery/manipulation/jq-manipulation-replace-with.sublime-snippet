@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.replaceWith(${2:newContent});
 ]]></content>
-  <tabTrigger>jq-mrw</tabTrigger>
+  <tabTrigger>jqreplacewith</tabTrigger>
   <description>jq - replaceWith</description>
 </snippet>

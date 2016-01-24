@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.before(${2:content}${3:,content});
 ]]></content>
-  <tabTrigger>jq-mb</tabTrigger>
+  <tabTrigger>jqbefore</tabTrigger>
   <description>jq - before</description>
 </snippet>
