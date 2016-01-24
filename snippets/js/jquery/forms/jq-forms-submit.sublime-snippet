@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.submit(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jq-fsub</tabTrigger>
+  <tabTrigger>jqsubmit</tabTrigger>
   <description>jq - submit</description>
 </snippet>

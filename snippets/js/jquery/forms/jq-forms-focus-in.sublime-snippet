@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.focusin(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jq-ffi</tabTrigger>
+  <tabTrigger>jqfocusin</tabTrigger>
   <description>jq - focusin</description>
 </snippet>
