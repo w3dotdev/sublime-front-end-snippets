@@ -1,6 +1,6 @@
 # JQuery Snippets
 
-## Prefix `jq-*`
+## Prefix `jq*`
 
 - [Ajax](ajax/)
   - ajaxComplete
