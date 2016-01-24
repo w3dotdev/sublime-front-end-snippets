@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:\$}.cssNumber.${2:widows} = ${3};
+]]></content>
+  <tabTrigger>jq-cssn</tabTrigger>
+  <description>jq - cssNumber</description>
+</snippet>
