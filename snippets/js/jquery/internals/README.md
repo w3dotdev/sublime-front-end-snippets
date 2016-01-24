@@ -1,12 +1,12 @@
 ## Internals
 
-### [jq-cd] error
+### [jqerror] error
 
 ```javascript
 ${1:\$}.error(${2:message});
 ```
 
-### [jq-cd] pushStack
+### [jqpstack] pushStack
 
 ```javascript
 ${1:\$([])}.pushStack(${2:elements}${3:,name}${4:,arguments});

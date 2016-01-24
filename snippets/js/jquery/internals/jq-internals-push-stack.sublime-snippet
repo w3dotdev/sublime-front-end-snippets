@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$([])}.pushStack(${2:elements}${3:,name}${4:,arguments});
 ]]></content>
-  <tabTrigger>jq-ips</tabTrigger>
+  <tabTrigger>jqpstack</tabTrigger>
   <description>jq - pushStack</description>
 </snippet>
