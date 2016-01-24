@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.toArray();
 ]]></content>
-  <tabTrigger>jq-mta</tabTrigger>
+  <tabTrigger>jqtoarray</tabTrigger>
   <description>jq - toArray</description>
 </snippet>

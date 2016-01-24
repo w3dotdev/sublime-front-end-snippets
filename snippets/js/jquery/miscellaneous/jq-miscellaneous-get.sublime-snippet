@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.get(${2:index});
 ]]></content>
-  <tabTrigger>jq-mi</tabTrigger>
+  <tabTrigger>jqget</tabTrigger>
   <description>jq - get</description>
 </snippet>

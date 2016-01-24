@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.index(${2:selector});
 ]]></content>
-  <tabTrigger>jq-min</tabTrigger>
+  <tabTrigger>jqindex</tabTrigger>
   <description>jq - index</description>
 </snippet>
