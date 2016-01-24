@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.each(${2:array}${3:, callback});
 ]]></content>
-  <tabTrigger>jq-ue</tabTrigger>
-  <description>jq - each</description>
+  <tabTrigger>jqjeach</tabTrigger>
+  <description>jq - jQuery each</description>
 </snippet>

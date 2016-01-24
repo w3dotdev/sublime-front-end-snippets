@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.makeArray(${2:obj});
 ]]></content>
-  <tabTrigger>jq-uma</tabTrigger>
+  <tabTrigger>jqmarray</tabTrigger>
   <description>jq - makeArray</description>
 </snippet>

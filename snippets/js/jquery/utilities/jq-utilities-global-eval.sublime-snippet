@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.globalEval(${2:code});
 ]]></content>
-  <tabTrigger>jq-uge</tabTrigger>
+  <tabTrigger>jqgeval</tabTrigger>
   <description>jq - globalEval</description>
 </snippet>

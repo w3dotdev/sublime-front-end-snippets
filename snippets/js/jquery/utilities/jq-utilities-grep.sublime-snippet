@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.grep(${2:array}${3:, function}${4:, invert});
 ]]></content>
-  <tabTrigger>jq-ug</tabTrigger>
+  <tabTrigger>jqgrep</tabTrigger>
   <description>jq - grep</description>
 </snippet>

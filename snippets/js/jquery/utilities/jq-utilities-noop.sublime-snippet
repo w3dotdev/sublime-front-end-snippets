@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.noop();
 ]]></content>
-  <tabTrigger>jq-un</tabTrigger>
+  <tabTrigger>jqnoop</tabTrigger>
   <description>jq - noop</description>
 </snippet>

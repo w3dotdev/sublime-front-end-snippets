@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.inArray(${2:value}${3:, array}${4:, fromIndex});
 ]]></content>
-  <tabTrigger>jq-uia</tabTrigger>
+  <tabTrigger>jqinarray</tabTrigger>
   <description>jq - inArray</description>
 </snippet>

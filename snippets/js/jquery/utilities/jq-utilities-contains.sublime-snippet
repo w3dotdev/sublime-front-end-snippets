@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.contains(${2:container}${3:, contained});
 ]]></content>
-  <tabTrigger>jq-uc</tabTrigger>
+  <tabTrigger>jqcontains</tabTrigger>
   <description>jq - contains</description>
 </snippet>

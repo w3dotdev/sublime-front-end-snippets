@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.parseHTML(${2:data}${3:, context}${4:, keepScripts});
 ]]></content>
-  <tabTrigger>jq-uph</tabTrigger>
+  <tabTrigger>jqparse</tabTrigger>
   <description>jq - parseHTML</description>
 </snippet>

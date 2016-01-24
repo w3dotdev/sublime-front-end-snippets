@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.isPlainObject(${2:object});
 ]]></content>
-  <tabTrigger>jq-uipo</tabTrigger>
+  <tabTrigger>jqipobject</tabTrigger>
   <description>jq - isPlainObject</description>
 </snippet>
