@@ -17,6 +17,6 @@
   100% { ${3} }
 }
 ]]></content>
-	<tabTrigger>c-k</tabTrigger>
+	<tabTrigger>ck</tabTrigger>
   <description>c - Keyframes</description>
 </snippet>
