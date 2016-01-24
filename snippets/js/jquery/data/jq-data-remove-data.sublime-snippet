@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.removeData(${2:name});
 ]]></content>
-  <tabTrigger>jq-drd</tabTrigger>
+  <tabTrigger>jqrdata</tabTrigger>
   <description>jq - removeData</description>
 </snippet>
