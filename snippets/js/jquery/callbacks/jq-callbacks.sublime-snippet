@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.Callbacks(${2:flags});
 ]]></content>
-  <tabTrigger>jq-c</tabTrigger>
-  <description>jq - Callbacks</description>
+  <tabTrigger>jqcb</tabTrigger>
+  <description>jq - callbacks</description>
 </snippet>
