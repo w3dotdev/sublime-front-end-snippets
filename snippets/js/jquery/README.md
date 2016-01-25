@@ -310,3 +310,5 @@
   - trim
   - type
   - unique
+- [Others](zothers/)
+  - jQuery Boilerplate
