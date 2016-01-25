@@ -3,7 +3,7 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/LICENSE.md)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/sublime-front-end-snippets.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/issues)
 
-![animation](https://cloud.githubusercontent.com/assets/1963897/12556266/3a0effa0-c36c-11e5-999b-4f5568bffc0f.gif)
+![animation](https://cloud.githubusercontent.com/assets/1963897/12556266/3a0effa0-c36c-11e5-999b-4f5568bffc0f.gif | width=797)
 
 ## Install
 
