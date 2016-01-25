@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<!--[if ${1:IE} ${2:8}]>
+  ${3}
+<![endif]-->
+]]></content>
+  <tabTrigger>xhcond</tabTrigger>
+  <description>xh - Conditional Comment</description>
+</snippet>
