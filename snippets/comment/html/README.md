@@ -1,8 +1,8 @@
 # HTML Comments Snippets
 
-Prefix `hc*`
+Prefix `xh*`
 
-### [hcend] end tag
+### [xhend] end tag
 
 ```html
 <!-- // ${1:div} -->
