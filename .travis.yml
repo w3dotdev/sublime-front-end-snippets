@@ -3,4 +3,4 @@ python:
   - "3.3"
 
 #run tests
-script: python -m unittest
+#script: python -m unittest
