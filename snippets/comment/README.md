@@ -1,6 +1,9 @@
 # Comment Snippets
 
 - [HTML](html/)
+  - Basic
+  - Block
+  - Conditional
   - End Tag
 - [CSS](css/)
   - Basic
