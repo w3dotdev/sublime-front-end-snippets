@@ -15,6 +15,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
 
 - [HTML - h*](snippets/html/)
   - [Microdata - hm.*](snippets/html/schema/microdata)
+  - [WAI-ARIA - hw.*](snippets/html/wai-aria)
 - [CSS - c*](snippets/css/) 
 - [JavaScript - j*](snippets/js/vanilla)
   - [BDD - b*](snippets/js/bdd)
