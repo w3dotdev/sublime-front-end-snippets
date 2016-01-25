@@ -2,7 +2,7 @@
 
 import os
 import fnmatch
-from json import dumps, load
+from json import dumps
 
 def writeJson(data, filename):
   try:
