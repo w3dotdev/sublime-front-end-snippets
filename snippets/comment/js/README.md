@@ -1,8 +1,8 @@
 # JavaScript Comments Snippets
 
-Prefix `jc*`
+Prefix `xj*`
 
-### [jcmethod] method comment
+### [xjmethod] method comment
 
 ```javascript
 /**
@@ -13,7 +13,7 @@ Prefix `jc*`
  */
 ```
 
-### [jcproperty] property comment
+### [xjproperty] property comment
 
 ```javascript
 /**
