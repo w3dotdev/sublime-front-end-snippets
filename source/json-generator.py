@@ -23,13 +23,13 @@ def getDir(path, ext):
 
 
 result = []
-for file in getDir('../snippets/', '*.sublime-snippet'):
+for count, file in enumerate(getDir('../snippets/', '*.sublime-snippet'), start=1):
   line        = open(file)
   content     = line.read()
   trigger     = content.split('<tabTrigger>')[1].split('</tabTrigger>')[0]
   description = content.split('<description>')[1].split('</description>')[0]
 
-  result.append({'trigger':trigger, 'description':description})
+  result.append({'id':count, 'trigger':trigger, 'description':description})
 
 writeJson(result, "../snippets.json")
 
