@@ -1,4 +1,4 @@
-# Schema Snippets
+# Microdata Snippets
 
 Prefix `m*`
 
