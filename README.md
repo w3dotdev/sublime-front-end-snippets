@@ -14,7 +14,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
 ## Snippets and prefixes/keys
 
 - [HTML - h*](snippets/html/)
-  - [Microdata - hm*](snippets/html/schema/microdata)
+  - [Microdata - hm.*](snippets/html/schema/microdata)
 - [CSS - c*](snippets/css/) 
 - [JavaScript - j*](snippets/js/)
   - [BDD - b*](snippets/js/bdd)

@@ -2,9 +2,9 @@
 
 ## Microdata
 
-Prefix `hm*`
+Prefix `hm.*`
 
-### [hmsitenav] http://www.schema.org/SiteNavigationElement
+### [hm.sitenav] http://www.schema.org/SiteNavigationElement
 
 ```html
 <ul itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
