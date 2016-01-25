@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<!-- ${1:div} -->
+]]></content>
+  <tabTrigger>xhbasic</tabTrigger>
+  <description>xh - Basic Comment</description>
+</snippet>
