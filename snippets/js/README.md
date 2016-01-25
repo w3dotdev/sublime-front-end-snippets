@@ -1,5 +1,5 @@
 # JavaScript Snippets
 
-- [Native Javascript](native/)
+- [Native Javascript](vanilla/)
 - [jQuery](jquery/)
 - [BDD](bdd/)

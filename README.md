@@ -16,7 +16,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
 - [HTML - h*](snippets/html/)
   - [Microdata - hm.*](snippets/html/schema/microdata)
 - [CSS - c*](snippets/css/) 
-- [JavaScript - j*](snippets/js/)
+- [JavaScript - j*](snippets/js/vanilla)
   - [BDD - b*](snippets/js/bdd)
   - [jQuery - jq*](snippets/js/jquery)
 - Schema.org
@@ -41,7 +41,6 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
   [https://github.com/joshnh/CSS-Snippets](https://github.com/joshnh/CSS-Snippets)
 * [@joshnh](https://github.com/joshnh) (Joshua Hibbert)
   [https://github.com/joshnh/HTML-Snippets](https://github.com/joshnh/HTML-Snippets)
-
 * [http://schema.org/](http://schema.org/)
 * [https://api.jquery.com/](https://api.jquery.com/)
 
