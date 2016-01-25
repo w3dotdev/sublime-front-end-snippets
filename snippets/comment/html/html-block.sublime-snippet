@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<!-- ${1:title}
+${2:description}
+-->
+]]></content>
+  <tabTrigger>xhblock</tabTrigger>
+  <description>xh - Block Comment</description>
+</snippet>
