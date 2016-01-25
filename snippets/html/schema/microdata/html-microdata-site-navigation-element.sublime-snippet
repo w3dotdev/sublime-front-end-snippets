@@ -1,15 +1,11 @@
-# HTML Snippets
-
-## Schema
-
-Prefix `hs*`
-
-### [hssitenav] http://www.schema.org/SiteNavigationElement
-
-```html
+<snippet>
+  <content><![CDATA[
 <ul itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
   <li itemprop="name">
     <a itemprop="url" href="${1:#}">$2</a>
   </li>
 </ul>
-```
+]]></content>
+  <tabTrigger>hmsitenav</tabTrigger>
+  <description>hm - HTML with SiteNavigationElement</description>
+</snippet>

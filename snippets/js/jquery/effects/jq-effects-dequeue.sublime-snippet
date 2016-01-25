@@ -1,4 +1,4 @@
-v<snippet>
+<snippet>
   <content><![CDATA[
 ${1:\$("div")}.dequeue(${2:queueName});
 ]]></content>

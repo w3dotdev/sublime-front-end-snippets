@@ -11,10 +11,10 @@ You can manually download the package and place it within your `Packages` direct
 
 You can see all installed snippets in `Tools > Snippets...`, in the sublime text.
 
-## Snippets and prefixes
+## Snippets and prefixes/keys
 
 - [HTML - h*](snippets/html/)
-  - [Schema - hs*](snippets/html/schema/)
+  - [Microdata - hm*](snippets/html/schema/microdata)
 - [CSS - c*](snippets/css/) 
 - [JavaScript - j*](snippets/js/)
   - [BDD - b*](snippets/js/bdd)
@@ -22,13 +22,13 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
 - [Schema.org - s*](snippets/schema/)
 - [External - e*](snippets/external/)
 - [Comment](snippets/comment/)
-  - [HTML - xc*](snippets/comment/html)
+  - [HTML - xh*](snippets/comment/html)
   - [CSS - xc*](snippets/comment/css)
-  - [JavaScript - xc*](snippets/comment/js)
+  - [JavaScript - xj*](snippets/comment/js)
 - [Structure data](snippets/structured-data) (***examples***)
-  - [Schema](snippets/structured-data/schema)
-  - [JSON-LD](snippets/structured-data/json-ld)
-  - [RDFa](snippets/structured-data/rdfa)
+  - [Microdata - zmicrodata](snippets/structured-data/microdata)
+  - [JSON-LD - zjsonld](snippets/structured-data/json-ld)
+  - [RDFa - zrdfa](snippets/structured-data/rdfa)
 
 ## References
 
@@ -40,6 +40,9 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
   [https://github.com/joshnh/CSS-Snippets](https://github.com/joshnh/CSS-Snippets)
 * [@joshnh](https://github.com/joshnh) (Joshua Hibbert)
   [https://github.com/joshnh/HTML-Snippets](https://github.com/joshnh/HTML-Snippets)
+
+* [http://schema.org/](http://schema.org/)
+* [https://api.jquery.com/](https://api.jquery.com/)
 
 ## Contributing
 

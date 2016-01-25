@@ -1,10 +1,5 @@
-# Schema (microdata)
-
-key: `dataschema`
-
-### Organization
-
-```html
+<snippet>
+	<content><![CDATA[
 <div itemscope itemtype="http://schema.org/Organization">
   <span itemprop="name">Google.org (GOOG)</span>
 Contact Details:
@@ -30,4 +25,7 @@ List of Alumni:
  </span>,
 History:
 </div>
-```
+]]></content>
+	<tabTrigger>zmicrodata</tabTrigger>
+  <description>Organization</description>
+</snippet>

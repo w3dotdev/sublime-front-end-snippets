@@ -2,6 +2,6 @@
 	<content><![CDATA[
 itemscope="itemscope" itemtype="http://schema.org/Organization"
 ]]></content>
-	<tabTrigger>sorg</tabTrigger>
-  <description>s - Organization</description>
+	<tabTrigger>morg</tabTrigger>
+  <description>m - Organization</description>
 </snippet>

@@ -1,6 +1,6 @@
 # RDFa
 
-key: `datardfa`
+key: `zrdfa`
 
 ### Breadcrumb
 
