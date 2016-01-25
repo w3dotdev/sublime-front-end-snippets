@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.type(${2:obj});
 ]]></content>
-  <tabTrigger>jqtype</tabTrigger>
-  <description>jq - type</description>
+  <tabTrigger>jqjtype</tabTrigger>
+  <description>jq - jQuery type</description>
 </snippet>

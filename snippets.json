@@ -1267,7 +1267,7 @@
   {
     "description": "jq - :last-of-type", 
     "id": 254, 
-    "trigger": "jq:lt"
+    "trigger": "jq:lty"
   }, 
   {
     "description": "jq - :last", 
@@ -1617,17 +1617,17 @@
   {
     "description": "jq - parseHTML", 
     "id": 324, 
-    "trigger": "jqparse"
+    "trigger": "zjqp"
   }, 
   {
     "description": "jq - parseJSON", 
     "id": 325, 
-    "trigger": "jqparse"
+    "trigger": "zjqp"
   }, 
   {
     "description": "jq - parseXML", 
     "id": 326, 
-    "trigger": "jqparse"
+    "trigger": "zjqp"
   }, 
   {
     "description": "jq - proxy", 
@@ -1640,9 +1640,9 @@
     "trigger": "jqtrim"
   }, 
   {
-    "description": "jq - type", 
+    "description": "jq - jQuery type", 
     "id": 329, 
-    "trigger": "jqtype"
+    "trigger": "jqjtype"
   }, 
   {
     "description": "jq - unique", 

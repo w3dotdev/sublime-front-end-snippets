@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.parseJSON(${2:json});
 ]]></content>
-  <tabTrigger>jqparse</tabTrigger>
+  <tabTrigger>zjqp</tabTrigger>
   <description>jq - parseJSON</description>
 </snippet>

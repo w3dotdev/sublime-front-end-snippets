@@ -108,19 +108,19 @@ ${1:\$}.noop();
 ${1:\$}.now();
 ```
 
-### [jqparse] parseHTML
+### [zjqp] parseHTML
 
 ```javascript
 ${1:\$}.parseHTML(${2:data}${3:, context}${4:, keepScripts});
 ```
 
-### [jqparse] parseJSON
+### [zjqp] parseJSON
 
 ```javascript
 ${1:\$}.parseJSON(${2:json});
 ```
 
-### [jqparse] parseXML
+### [zjqp] parseXML
 
 ```javascript
 ${1:\$}.parseXML(${2:data});
@@ -138,7 +138,7 @@ ${1:\$}.proxy(${2:context}${3:, name}${4:, additionalArguments});
 ${1:\$}.trim(${2:str});
 ```
 
-### [jqtype] type
+### [jqjtype] jQuery type
 
 ```javascript
 ${1:\$}.type(${2:obj});

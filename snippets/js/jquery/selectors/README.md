@@ -222,7 +222,7 @@ ${1:\$}("${2}:lang(${3:language})");
 ${1:\$}("${2}:last-child");
 ```
 
-### [jq:lt] :last-of-type
+### [jq:lty] :last-of-type
 
 ```javascript
 ${1:\$}("${2}:last-of-type");
