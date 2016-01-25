@@ -25,6 +25,10 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
   - [HTML - hc*](snippets/comment/html)
   - [CSS - cc*](snippets/comment/css)
   - [JavaScript - jc*](snippets/comment/js)
+- [Structure data](snippets/structured-data) ***examples***
+  - [Schema](snippets/structured-data/schema)
+  - [JSON-LD](snippets/structured-data/json-ld)
+  - [RDFa](snippets/structured-data/rdfa)
 
 ## References
 

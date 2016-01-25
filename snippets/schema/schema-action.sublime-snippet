@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+itemscope="itemscope" itemtype="http://schema.org/Action"
+]]></content>
+	<tabTrigger>saction</tabTrigger>
+  <description>s - Action</description>
+</snippet>
