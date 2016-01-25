@@ -3,6 +3,8 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/LICENSE.md)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/sublime-front-end-snippets.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/issues)
 
+![animation](https://cloud.githubusercontent.com/assets/1963897/12556266/3a0effa0-c36c-11e5-999b-4f5568bffc0f.gif)
+
 ## Install
 
 If you already have the [Package Control](http://wbond.net/sublime_packages/package_control) installed , just search for ***Front-end Project Snippets***. If you have not installed in the sublime, you can do it [here](http://wbond.net/sublime_packages/package_control/installation).
