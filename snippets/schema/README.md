@@ -1,6 +1,6 @@
 # Schema Snippets
 
-Prefix `s-*`
+Prefix `s*`
 
 ## Organization
 
