@@ -39,10 +39,10 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
   [https://github.com/zenorocha/sublime-javascript-snippets](https://github.com/zenorocha/sublime-javascript-snippets)
 * [@joshnh](https://github.com/joshnh) (Joshua Hibbert)
   [https://github.com/joshnh/CSS-Snippets](https://github.com/joshnh/CSS-Snippets)
-* [@joshnh](https://github.com/joshnh) (Joshua Hibbert)
-  [https://github.com/joshnh/HTML-Snippets](https://github.com/joshnh/HTML-Snippets)
-* [http://schema.org/](http://schema.org/)
-* [https://api.jquery.com/](https://api.jquery.com/)
+* (Schema.org) [http://schema.org/](http://schema.org/)
+* (jQuery) [https://api.jquery.com/](https://api.jquery.com/)
+* (jQuery Boilerplate)[https://jqueryboilerplate.com/](https://jqueryboilerplate.com/)
+* (JSDuck) [https://github.com/senchalabs/jsduck](https://github.com/senchalabs/jsduck)
 
 ## Contributing
 
