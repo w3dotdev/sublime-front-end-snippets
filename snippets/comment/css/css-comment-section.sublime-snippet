@@ -4,6 +4,6 @@
    ${1:Section}
    ========================================================================== */
 ]]></content>
-  <tabTrigger>ccsection</tabTrigger>
-  <description>cc - Section Comment</description>
+  <tabTrigger>xcsection</tabTrigger>
+  <description>xc - Section Comment</description>
 </snippet>
