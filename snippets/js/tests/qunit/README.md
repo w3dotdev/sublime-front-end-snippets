@@ -1,8 +1,8 @@
 # QUnit JavaScript Snippets
 
-## Prefix `tb.*`
+## Prefix `tq.*`
 
-### [tt.dequal] deepEqual
+### [tq.] 
 
 ```javascript
 

@@ -5,6 +5,7 @@
   - [jQuery](jquery/)
 - [Patterns](patterns/)
   - [Design Patterns](patterns/design-patterns/)
+  - [UMD](patterns/umd/)
 - [Tests](tests/)
   - [Common](common/)
   - [Chai](chai/)

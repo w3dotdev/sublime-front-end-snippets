@@ -1,8 +1,8 @@
 # Sinon JavaScript Snippets
 
-## Prefix `tb.*`
+## Prefix `ts.*`
 
-### [tt.dequal] deepEqual
+### [ts.] 
 
 ```javascript
 

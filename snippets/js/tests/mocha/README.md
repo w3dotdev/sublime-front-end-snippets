@@ -1,8 +1,8 @@
 # Mocha JavaScript Snippets
 
-## Prefix `tb.*`
+## Prefix `tm.*`
 
-### [tt.dequal] deepEqual
+### [tm.] 
 
 ```javascript
 
