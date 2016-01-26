@@ -4,6 +4,21 @@ Prefix `h*`
 
 ## Structure
 
+### [hb] html basic
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>${1:Document}</title>
+  </head>
+  <body>
+    $2
+  </body>
+</html>
+```
+
 ### [hdoc] html document
 
 ```html
