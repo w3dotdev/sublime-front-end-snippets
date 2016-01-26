@@ -47,6 +47,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
 * (jQuery Boilerplate)[https://jqueryboilerplate.com/](https://jqueryboilerplate.com/)
 * (JSDuck) [https://github.com/senchalabs/jsduck](https://github.com/senchalabs/jsduck)
 * (idiomatic CSS) [https://github.com/necolas/idiomatic-css](https://github.com/necolas/idiomatic-css)
+* (JS Design Patterns) [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Contributing
 
