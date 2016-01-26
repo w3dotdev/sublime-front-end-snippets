@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert(${1:true}${2:, message});
 ]]></content>
-  <tabTrigger>tt.a</tabTrigger>
-  <description>tt - Assert</description>
+  <tabTrigger>tn.a</tabTrigger>
+  <description>tn - Assert</description>
 </snippet>

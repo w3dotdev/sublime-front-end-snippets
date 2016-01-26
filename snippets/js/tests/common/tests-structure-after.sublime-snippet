@@ -4,6 +4,6 @@ after(function() {
   ${1}
 });
 ]]></content>
-  <tabTrigger>ts.after</tabTrigger>
-  <description>ts - after</description>
+  <tabTrigger>t.after</tabTrigger>
+  <description>t - after</description>
 </snippet>

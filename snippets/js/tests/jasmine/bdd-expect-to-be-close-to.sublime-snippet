@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBeCloseTo(${2}, ${3});
 ]]></content>
-  <tabTrigger>tb.closeto</tabTrigger>
-  <description>tb - Expect toBeCloseTo</description>
+  <tabTrigger>tj.closeto</tabTrigger>
+  <description>tj - Expect toBeCloseTo</description>
 </snippet>

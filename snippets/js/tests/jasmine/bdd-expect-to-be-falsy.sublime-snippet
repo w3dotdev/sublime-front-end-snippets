@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBeFalsy();
 ]]></content>
-  <tabTrigger>tb.falsy</tabTrigger>
-  <description>tb - Expect toBeFalsy</description>
+  <tabTrigger>tj.falsy</tabTrigger>
+  <description>tj - Expect toBeFalsy</description>
 </snippet>

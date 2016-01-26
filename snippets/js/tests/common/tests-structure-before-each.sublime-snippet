@@ -4,6 +4,6 @@ beforeEach(${1:'some description', }function${2: namedFun}() {
   ${3:beforeEach hook}
 });
 ]]></content>
-  <tabTrigger>ts.beforeeach</tabTrigger>
-  <description>ts - beforeEach</description>
+  <tabTrigger>t.beforeeach</tabTrigger>
+  <description>t - beforeEach</description>
 </snippet>

@@ -4,6 +4,6 @@ describe("$1", function() {
   $2
 });
 ]]></content>
-  <tabTrigger>ts.describe</tabTrigger>
-  <description>ts - describe</description>
+  <tabTrigger>t.describe</tabTrigger>
+  <description>t - describe</description>
 </snippet>

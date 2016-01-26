@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert.ok(${1:value}${2:, message});
 ]]></content>
-  <tabTrigger>tt.ok</tabTrigger>
-  <description>tt - Assert ok</description>
+  <tabTrigger>tn.ok</tabTrigger>
+  <description>tn - Assert ok</description>
 </snippet>

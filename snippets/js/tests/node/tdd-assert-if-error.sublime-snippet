@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert.ifError(${1:value});
 ]]></content>
-  <tabTrigger>tt.iferror</tabTrigger>
-  <description>tt - Assert ifError</description>
+  <tabTrigger>tn.iferror</tabTrigger>
+  <description>tn - Assert ifError</description>
 </snippet>

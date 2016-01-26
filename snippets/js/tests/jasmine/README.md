@@ -1,110 +1,110 @@
 # Jasmine JavaScript Snippets
 
-## Prefix `tb.*`
+## Prefix `tj.*`
 
-### [tb.closeto] toBeCloseTo
+### [tj.closeto] toBeCloseTo
 
 ```javascript
 expect(${1}).toBeCloseTo(${2}, ${3});
 ```
 
-### [tb.contain] toBeContain
+### [tj.contain] toBeContain
 
 ```javascript
 expect(${1}).toBeContain(${2});
 ```
 
-### [tb.defined] toBeDefined
+### [tj.defined] toBeDefined
 
 ```javascript
 expect(${1}).toBeDefined();
 ```
 
-### [tb.falsy] toBeFalsy
+### [tj.falsy] toBeFalsy
 
 ```javascript
 expect(${1}).toBeFalsy();
 ```
 
-### [tb.greaterthan] toBeGreaterThan
+### [tj.greaterthan] toBeGreaterThan
 
 ```javascript
 expect(${1}).toBeGreaterThan(${2});
 ```
 
-### [tb.lessthan] toBeLessThan
+### [tj.lessthan] toBeLessThan
 
 ```javascript
 expect(${1}).toBeLessThan(${2});
 ```
 
-### [tb.nan] toBeNaN
+### [tj.nan] toBeNaN
 
 ```javascript
 expect(${1}).toBeNaN();
 ```
 
-### [tb.null] toBeNull
+### [tj.null] toBeNull
 
 ```javascript
 expect(${1}).toBeNull();
 ```
 
-### [tb.truthy] toBeTruthy
+### [tj.truthy] toBeTruthy
 
 ```javascript
 expect(${1}).toBeTruthy();
 ```
 
-### [tb.undefined] toBeUndefined
+### [tj.undefined] toBeUndefined
 
 ```javascript
 expect(${1}).toBeUndefined();
 ```
 
-### [tb.tobe] toBe
+### [tj.tobe] toBe
 
 ```javascript
 expect(${1}).toBe(${2});
 ```
 
-### [tb.equal] toEqual
+### [tj.equal] toEqual
 
 ```javascript
 expect(${1}).toEqual(${2});
 ```
 
-### [tb.hbctimes] toHaveBeenCalledTimes
+### [tj.hbctimes] toHaveBeenCalledTimes
 
 ```javascript
 expect(${1}).toHaveBeenCalledTimes(${2});
 ```
 
-### [tb.hbcwith] toHaveBeenCalledWith
+### [tj.hbcwith] toHaveBeenCalledWith
 
 ```javascript
 expect(${1}).toHaveBeenCalledWith(${2}, ${3});
 ```
 
-### [tb.hbc] toHaveBeenCalled
+### [tj.hbc] toHaveBeenCalled
 
 ```javascript
 expect(${1}).toHaveBeenCalled();
 ```
 
-### [tb.match] toMatch
+### [tj.match] toMatch
 
 ```javascript
 expect(${1}).toMatch(${2});
 ```
 
-### [tb.throwerror] toThrowError
+### [tj.throwerror] toThrowError
 
 ```javascript
 expect(${1}).toThrowError(${2});
 ```
 
-### [tb.throw] toThrow
+### [tj.throw] toThrow
 
 ```javascript
 expect(${1}).toThrow(${2});

@@ -4,6 +4,6 @@ before(function() {
   ${1}
 });
 ]]></content>
-  <tabTrigger>ts.before</tabTrigger>
-  <description>ts - before</description>
+  <tabTrigger>t.before</tabTrigger>
+  <description>t - before</description>
 </snippet>

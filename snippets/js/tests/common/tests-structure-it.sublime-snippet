@@ -4,6 +4,6 @@ it("${1}", function() {
   ${2}
 });
 ]]></content>
-  <tabTrigger>ts.it</tabTrigger>
-  <description>ts - it</description>
+  <tabTrigger>t.it</tabTrigger>
+  <description>t - it</description>
 </snippet>

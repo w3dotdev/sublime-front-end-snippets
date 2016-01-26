@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBeNull();
 ]]></content>
-  <tabTrigger>tb.null</tabTrigger>
-  <description>tb - Expect toBeNull</description>
+  <tabTrigger>tj.null</tabTrigger>
+  <description>tj - Expect toBeNull</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert.equal(${1:actual}, ${1:expected} ${2:, message});
 ]]></content>
-  <tabTrigger>tt.equal</tabTrigger>
-  <description>tt - Assert equal</description>
+  <tabTrigger>tc.equal</tabTrigger>
+  <description>tc - Assert equal</description>
 </snippet>

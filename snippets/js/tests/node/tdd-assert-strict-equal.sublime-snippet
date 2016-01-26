@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert.strictEqual(${1:actual}, ${1:expected} ${2:, message});
 ]]></content>
-  <tabTrigger>tt.sequal</tabTrigger>
-  <description>tt - Assert strictEqual</description>
+  <tabTrigger>tn.sequal</tabTrigger>
+  <description>tn - Assert strictEqual</description>
 </snippet>

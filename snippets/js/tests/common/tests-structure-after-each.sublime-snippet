@@ -4,6 +4,6 @@ afterEach(function() {
   ${1}
 });
 ]]></content>
-  <tabTrigger>ts.aftereach</tabTrigger>
-  <description>ts - afterEach</description>
+  <tabTrigger>t.aftereach</tabTrigger>
+  <description>t - afterEach</description>
 </snippet>

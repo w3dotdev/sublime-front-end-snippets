@@ -2,7 +2,7 @@
 
 ## Prefix `t.*`
 
-### [ts.aftereach] afterEach
+### [t.aftereach] afterEach
 
 ```javascript
 afterEach(function() {
@@ -10,7 +10,7 @@ afterEach(function() {
 });
 ```
 
-### [ts.after] after
+### [t.after] after
 
 ```javascript
 after(function() {
@@ -18,7 +18,7 @@ after(function() {
 });
 ```
 
-### [ts.beforeeach] beforeEach
+### [t.beforeeach] beforeEach
 
 ```javascript
 beforeEach(${1:'some description', }function${2: namedFun}() {
@@ -26,7 +26,7 @@ beforeEach(${1:'some description', }function${2: namedFun}() {
 });
 ```
 
-### [ts.before] before
+### [t.before] before
 
 ```javascript
 before(function() {
@@ -34,7 +34,7 @@ before(function() {
 });
 ```
 
-### [ts.describe] describe
+### [t.describe] describe
 
 ```javascript
 describe("$1", function() {
@@ -42,7 +42,7 @@ describe("$1", function() {
 });
 ```
 
-### [ts.it] it
+### [t.it] it
 
 ```javascript
 it("${1}", function() {

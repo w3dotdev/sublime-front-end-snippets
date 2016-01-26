@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toMatch(${2});
 ]]></content>
-  <tabTrigger>tb.match</tabTrigger>
-  <description>tb - Expect toMatch</description>
+  <tabTrigger>tj.match</tabTrigger>
+  <description>tj - Expect toMatch</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert.notDeepStrictEqual(${1:actual}, ${1:expected} ${2:, message});
 ]]></content>
-  <tabTrigger>tt.ndsequal</tabTrigger>
-  <description>tt - Assert notDeepStrictEqual</description>
+  <tabTrigger>tn.ndsequal</tabTrigger>
+  <description>tn - Assert notDeepStrictEqual</description>
 </snippet>

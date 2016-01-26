@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert.fail(${1:actual}, ${2:expected}, ${3:message}, ${4:operator});
 ]]></content>
-  <tabTrigger>tt.fail</tabTrigger>
-  <description>tt - Assert fail</description>
+  <tabTrigger>tn.fail</tabTrigger>
+  <description>tn - Assert fail</description>
 </snippet>

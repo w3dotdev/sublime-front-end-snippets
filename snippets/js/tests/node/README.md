@@ -1,86 +1,86 @@
 # Node.js JavaScript Snippets
 
-## Prefix `tb.*`
+## Prefix `tn.*`
 
-### [tt.dequal] deepEqual
+### [tn.dequal] deepEqual
 
 ```javascript
 assert.deepEqual(${1:actual}, ${1:expected} ${2:, message});
 ```
 
-### [tt.dsequal] deepStrictEqual
+### [tn.dsequal] deepStrictEqual
 
 ```javascript
 assert.deepStrictEqual(${1:actual}, ${2:expected} ${3:, message});
 ```
 
-### [tt.dnthrow] doesNotThrow
+### [tn.dnthrow] doesNotThrow
 
 ```javascript
 assert.doesNotThrow(${1:block} ${2:, error} ${3:, message});
 ```
 
-### [tt.equal] equal
+### [tn.equal] equal
 
 ```javascript
 assert.equal(${1:actual}, ${2:expected} ${3:, message});
 ```
 
-### [tt.fail] fail
+### [tn.fail] fail
 
 ```javascript
 assert.fail(${1:actual}, ${2:expected}, ${3:message}, ${4:operator});
 ```
 
-### [tt.iferror] ifError
+### [tn.iferror] ifError
 
 ```javascript
 assert.ifError(${1:value});
 ```
 
-### [tt.ndequal] notDeepEqual
+### [tn.ndequal] notDeepEqual
 
 ```javascript
 assert.notDeepEqual(${1:actual}, ${1:expected} ${2:, message});
 ```
 
-### [tt.ndsequal] notDeepStrictEqual
+### [tn.ndsequal] notDeepStrictEqual
 
 ```javascript
 assert.notDeepStrictEqual(${1:actual}, ${1:expected} ${2:, message});
 ```
 
-### [tt.nequal] notEqual
+### [tn.nequal] notEqual
 
 ```javascript
 assert.notEqual(${1:actual}, ${1:expected} ${2:, message});
 ```
 
-### [tt.nsequal] notStrictEqual
+### [tn.nsequal] notStrictEqual
 
 ```javascript
 assert.notStrictEqual(${1:actual}, ${1:expected} ${2:, message});
 ```
 
-### [tt.ok] ok
+### [tn.ok] ok
 
 ```javascript
 assert.ok(${1:value}${2:, message});
 ```
 
-### [tt.sequal] strictEqual
+### [tn.sequal] strictEqual
 
 ```javascript
 assert.strictEqual(${1:actual}, ${1:expected} ${2:, message});
 ```
 
-### [tt.throws] throws
+### [tn.throws] throws
 
 ```javascript
 assert.throws(${1:block}, ${1:error} ${2:, message});
 ```
 
-### [tt.a] Assert
+### [tn.a] Assert
 
 ```javascript
 assert(${1:true}${2:, message});

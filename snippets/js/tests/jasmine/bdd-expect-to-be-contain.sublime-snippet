@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).toBeContain(${2});
 ]]></content>
-  <tabTrigger>tb.contain</tabTrigger>
-  <description>tb - Expect toBeContain</description>
+  <tabTrigger>tj.contain</tabTrigger>
+  <description>tj - Expect toBeContain</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert.doesNotThrow(${1:block} ${2:, error} ${3:, message});
 ]]></content>
-  <tabTrigger>tt.dnthrow</tabTrigger>
-  <description>tt - Assert doesNotThrow</description>
+  <tabTrigger>tn.dnthrow</tabTrigger>
+  <description>tn - Assert doesNotThrow</description>
 </snippet>

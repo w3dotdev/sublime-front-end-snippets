@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert.typeOf(${1:actual}, ${1:expected} ${2:, message});
 ]]></content>
-  <tabTrigger>tt.typeof</tabTrigger>
-  <description>tt - Assert typeOf</description>
+  <tabTrigger>tc.typeof</tabTrigger>
+  <description>tc - Assert typeOf</description>
 </snippet>
