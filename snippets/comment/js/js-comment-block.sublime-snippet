@@ -4,6 +4,6 @@
  * ${1:Description}
  */
 ]]></content>
-  <tabTrigger>jc.property</tabTrigger>
-  <description>jc - Property Comment</description>
+  <tabTrigger>jc.block</tabTrigger>
+  <description>jc - Block Comment</description>
 </snippet>
