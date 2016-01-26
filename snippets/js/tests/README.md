@@ -7,12 +7,54 @@
   - before
   - describe
   - it
-- [BDD](bdd/)
-  - expect
-    - chai
-    - jasmine
-  - should
-    - chai
-- [TDD](tdd/) (assert)
-  - chai
-  - node
+- [Chai](chai/)
+  - Assert
+    - equal
+    - lengthOf
+    - typeOf
+  - Expect
+    - to.be.a
+    - to.equal
+    - to.have.length
+    - to.have.property
+  - Should
+    - be.a
+    - equal
+    - have.length
+    - have.property
+- [Jasmine](jasmine/)
+  - Expect
+    - toBeCloseTo
+    - toBeContain
+    - toBeDefined
+    - toBeFalsy
+    - toBeGreaterThan
+    - toBeLessThan
+    - toBeNaN
+    - toBeNull
+    - toBeTruthy
+    - toBeUndefined
+    - toBe
+    - toEqual
+    - toHaveBeenCalledTimes
+    - toHaveBeenCalledWith
+    - toHaveBeenCalled
+    - toMatch
+    - toThrowError
+    - toThrow
+- [Node](node/)
+  - assert
+  - ok
+  - deepEqual
+  - deepStrictEqual
+  - doesNotThrow
+  - equal
+  - fail
+  - ifError
+  - notDeepEqual
+  - notDeepStrictEqual
+  - notEqual
+  - notStrictEqual
+  - strictEqual
+  - throws
+- [Sinon](sinon/)

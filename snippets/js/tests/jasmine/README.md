@@ -1,4 +1,6 @@
-# Jasmine Expect JavaScript Snippets
+# Jasmine JavaScript Snippets
+
+## Prefix `tb.*`
 
 ### [tb.closeto] toBeCloseTo
 

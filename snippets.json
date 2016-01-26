@@ -1635,428 +1635,493 @@
     "trigger": "jdp.singleton"
   }, 
   {
-    "description": "tb - Expect toBeCloseTo", 
+    "description": "tb - Expect to.be.a", 
     "id": 328, 
+    "trigger": "tb.tobea"
+  }, 
+  {
+    "description": "tb - Expect to.equal", 
+    "id": 329, 
+    "trigger": "tb.toequal"
+  }, 
+  {
+    "description": "tb - Expect to.have.length", 
+    "id": 330, 
+    "trigger": "tb.tohl"
+  }, 
+  {
+    "description": "tb - Expect to.have.property", 
+    "id": 331, 
+    "trigger": "tb.tohp"
+  }, 
+  {
+    "description": "tb - Expect toBeCloseTo", 
+    "id": 332, 
     "trigger": "tb.closeto"
   }, 
   {
     "description": "tb - Expect toBeContain", 
-    "id": 329, 
+    "id": 333, 
     "trigger": "tb.contain"
   }, 
   {
     "description": "tb - Expect toBeDefined", 
-    "id": 330, 
+    "id": 334, 
     "trigger": "tb.defined"
   }, 
   {
     "description": "tb - Expect toBeFalsy", 
-    "id": 331, 
+    "id": 335, 
     "trigger": "tb.falsy"
   }, 
   {
     "description": "tb - Expect toBeGreaterThan", 
-    "id": 332, 
+    "id": 336, 
     "trigger": "tb.greaterthan"
   }, 
   {
     "description": "tb - Expect toBeLessThan", 
-    "id": 333, 
+    "id": 337, 
     "trigger": "tb.lessthan"
   }, 
   {
     "description": "tb - Expect toBeNaN", 
-    "id": 334, 
+    "id": 338, 
     "trigger": "tb.nan"
   }, 
   {
     "description": "tb - Expect toBeNull", 
-    "id": 335, 
+    "id": 339, 
     "trigger": "tb.null"
   }, 
   {
     "description": "tb - Expect toBeTruthy", 
-    "id": 336, 
+    "id": 340, 
     "trigger": "tb.truthy"
   }, 
   {
     "description": "tb - Expect toBeUndefined", 
-    "id": 337, 
+    "id": 341, 
     "trigger": "tb.undefined"
   }, 
   {
     "description": "tb - Expect toBe", 
-    "id": 338, 
+    "id": 342, 
     "trigger": "tb.tobe"
   }, 
   {
     "description": "tb - Expect toEqual", 
-    "id": 339, 
+    "id": 343, 
     "trigger": "tb.equal"
   }, 
   {
     "description": "tb - Expect toHaveBeenCalledTimes", 
-    "id": 340, 
+    "id": 344, 
     "trigger": "tb.hbctimes"
   }, 
   {
     "description": "tb - Expect toHaveBeenCalledWith", 
-    "id": 341, 
+    "id": 345, 
     "trigger": "tb.hbcwith"
   }, 
   {
     "description": "tb - Expect toHaveBeenCalled", 
-    "id": 342, 
+    "id": 346, 
     "trigger": "tb.hbc"
   }, 
   {
     "description": "tb - Expect toMatch", 
-    "id": 343, 
+    "id": 347, 
     "trigger": "tb.match"
   }, 
   {
     "description": "tb - Expect toThrowError", 
-    "id": 344, 
+    "id": 348, 
     "trigger": "tb.throwerror"
   }, 
   {
     "description": "tb - Expect toThrow", 
-    "id": 345, 
+    "id": 349, 
     "trigger": "tb.throw"
   }, 
   {
+    "description": "tb - Should be.a", 
+    "id": 350, 
+    "trigger": "tb.bea"
+  }, 
+  {
+    "description": "tb - Should equal", 
+    "id": 351, 
+    "trigger": "tb.equal"
+  }, 
+  {
+    "description": "tb - Should have.length", 
+    "id": 352, 
+    "trigger": "tb.hlength"
+  }, 
+  {
+    "description": "tb - Should have.property", 
+    "id": 353, 
+    "trigger": "tb.hproperty"
+  }, 
+  {
     "description": "ts - afterEach", 
-    "id": 346, 
+    "id": 354, 
     "trigger": "ts.aftereach"
   }, 
   {
+    "description": "ts - after", 
+    "id": 355, 
+    "trigger": "ts.after"
+  }, 
+  {
     "description": "ts - beforeEach", 
-    "id": 347, 
+    "id": 356, 
     "trigger": "ts.beforeeach"
   }, 
   {
+    "description": "ts - before", 
+    "id": 357, 
+    "trigger": "ts.before"
+  }, 
+  {
     "description": "ts - describe", 
-    "id": 348, 
+    "id": 358, 
     "trigger": "ts.describe"
   }, 
   {
     "description": "ts - it", 
-    "id": 349, 
+    "id": 359, 
     "trigger": "ts.it"
   }, 
   {
+    "description": "tt - Assert equal", 
+    "id": 360, 
+    "trigger": "tt.equal"
+  }, 
+  {
+    "description": "tt - Assert lengthOf", 
+    "id": 361, 
+    "trigger": "tt.lengthof"
+  }, 
+  {
+    "description": "tt - Assert typeOf", 
+    "id": 362, 
+    "trigger": "tt.typeof"
+  }, 
+  {
     "description": "tt - Assert deepEqual", 
-    "id": 350, 
+    "id": 363, 
     "trigger": "tt.dequal"
   }, 
   {
     "description": "tt - Assert deepStrictEqual", 
-    "id": 351, 
+    "id": 364, 
     "trigger": "tt.dsequal"
   }, 
   {
     "description": "tt - Assert doesNotThrow", 
-    "id": 352, 
+    "id": 365, 
     "trigger": "tt.dnthrow"
   }, 
   {
     "description": "tt - Assert equal", 
-    "id": 353, 
+    "id": 366, 
     "trigger": "tt.equal"
   }, 
   {
     "description": "tt - Assert fail", 
-    "id": 354, 
+    "id": 367, 
     "trigger": "tt.fail"
   }, 
   {
     "description": "tt - Assert ifError", 
-    "id": 355, 
+    "id": 368, 
     "trigger": "tt.iferror"
   }, 
   {
     "description": "tt - Assert notDeepEqual", 
-    "id": 356, 
+    "id": 369, 
     "trigger": "tt.ndequal"
   }, 
   {
     "description": "tt - Assert notDeepStrictEqual", 
-    "id": 357, 
+    "id": 370, 
     "trigger": "tt.ndsequal"
   }, 
   {
     "description": "tt - Assert notEqual", 
-    "id": 358, 
+    "id": 371, 
     "trigger": "tt.nequal"
   }, 
   {
     "description": "tt - Assert notStrictEqual", 
-    "id": 359, 
+    "id": 372, 
     "trigger": "tt.nsequal"
   }, 
   {
     "description": "tt - Assert ok", 
-    "id": 360, 
+    "id": 373, 
     "trigger": "tt.ok"
   }, 
   {
     "description": "tt - Assert strictEqual", 
-    "id": 361, 
+    "id": 374, 
     "trigger": "tt.sequal"
   }, 
   {
     "description": "tt - Assert throws", 
-    "id": 362, 
+    "id": 375, 
     "trigger": "tt.throws"
   }, 
   {
     "description": "tt - Assert", 
-    "id": 363, 
+    "id": 376, 
     "trigger": "tt.a"
   }, 
   {
     "description": "j - if else", 
-    "id": 364, 
+    "id": 377, 
     "trigger": "jifelse"
   }, 
   {
     "description": "j - switch", 
-    "id": 365, 
+    "id": 378, 
     "trigger": "jswitch"
   }, 
   {
     "description": "j - console.dir", 
-    "id": 366, 
+    "id": 379, 
     "trigger": "jcd"
   }, 
   {
     "description": "j - console.error", 
-    "id": 367, 
+    "id": 380, 
     "trigger": "jce"
   }, 
   {
     "description": "j - console.info", 
-    "id": 368, 
+    "id": 381, 
     "trigger": "jci"
   }, 
   {
     "description": "j - console.log", 
-    "id": 369, 
+    "id": 382, 
     "trigger": "jcl"
   }, 
   {
     "description": "j - console.warn", 
-    "id": 370, 
+    "id": 383, 
     "trigger": "jcw"
   }, 
   {
     "description": "j - addEventListener", 
-    "id": 371, 
+    "id": 384, 
     "trigger": "j-ael"
   }, 
   {
     "description": "j - appendChild", 
-    "id": 372, 
+    "id": 385, 
     "trigger": "jac"
   }, 
   {
     "description": "j - classList.add", 
-    "id": 373, 
+    "id": 386, 
     "trigger": "jcla"
   }, 
   {
     "description": "j - classList.remove", 
-    "id": 374, 
+    "id": 387, 
     "trigger": "jclr"
   }, 
   {
     "description": "j - classList.toggle", 
-    "id": 375, 
+    "id": 388, 
     "trigger": "jclt"
   }, 
   {
     "description": "j - createDocumentFragment", 
-    "id": 376, 
+    "id": 389, 
     "trigger": "jcdf"
   }, 
   {
     "description": "j - createElement", 
-    "id": 377, 
+    "id": 390, 
     "trigger": "jcel"
   }, 
   {
     "description": "j - getAttribute", 
-    "id": 378, 
+    "id": 391, 
     "trigger": "jgattr"
   }, 
   {
     "description": "j - getElementById", 
-    "id": 379, 
+    "id": 392, 
     "trigger": "jgid"
   }, 
   {
     "description": "j - getElementsByClassName", 
-    "id": 380, 
+    "id": 393, 
     "trigger": "jgclass"
   }, 
   {
     "description": "j - getElementsByTagName", 
-    "id": 381, 
+    "id": 394, 
     "trigger": "jgtag"
   }, 
   {
     "description": "j - innerHTML", 
-    "id": 382, 
+    "id": 395, 
     "trigger": "jih"
   }, 
   {
     "description": "j - querySelectorAll", 
-    "id": 383, 
+    "id": 396, 
     "trigger": "jqsa"
   }, 
   {
     "description": "j - querySelector", 
-    "id": 384, 
+    "id": 397, 
     "trigger": "jqs"
   }, 
   {
     "description": "j - removeAttribute", 
-    "id": 385, 
+    "id": 398, 
     "trigger": "jrattr"
   }, 
   {
     "description": "j - removeChild", 
-    "id": 386, 
+    "id": 399, 
     "trigger": "jrc"
   }, 
   {
     "description": "j - setAttribute", 
-    "id": 387, 
+    "id": 400, 
     "trigger": "jsattr"
   }, 
   {
     "description": "j - textContent", 
-    "id": 388, 
+    "id": 401, 
     "trigger": "jtc"
   }, 
   {
     "description": "j - Anonymous Function", 
-    "id": 389, 
+    "id": 402, 
     "trigger": "jafn"
   }, 
   {
     "description": "j - Function apply", 
-    "id": 390, 
+    "id": 403, 
     "trigger": "japply"
   }, 
   {
     "description": "j - Function call", 
-    "id": 391, 
+    "id": 404, 
     "trigger": "jcall"
   }, 
   {
     "description": "j - Immediately-invoked function expression", 
-    "id": 392, 
+    "id": 405, 
     "trigger": "j-iife"
   }, 
   {
     "description": "j - Prototype", 
-    "id": 393, 
+    "id": 406, 
     "trigger": "jprot"
   }, 
   {
     "description": "j - Function", 
-    "id": 394, 
+    "id": 407, 
     "trigger": "jfn"
   }, 
   {
     "description": "j - JSON.parse", 
-    "id": 395, 
+    "id": 408, 
     "trigger": "jjsonp"
   }, 
   {
     "description": "j - JSON.stringify", 
-    "id": 396, 
+    "id": 409, 
     "trigger": "jjsons"
   }, 
   {
     "description": "j - do while", 
-    "id": 397, 
+    "id": 410, 
     "trigger": "jdowhile"
   }, 
   {
     "description": "j - forEach", 
-    "id": 398, 
+    "id": 411, 
     "trigger": "jfore"
   }, 
   {
     "description": "j - for in", 
-    "id": 399, 
+    "id": 412, 
     "trigger": "jfori"
   }, 
   {
     "description": "j - for", 
-    "id": 400, 
+    "id": 413, 
     "trigger": "jfor"
   }, 
   {
     "description": "j - while", 
-    "id": 401, 
+    "id": 414, 
     "trigger": "jwhile"
   }, 
   {
     "description": "j - setInterval", 
-    "id": 402, 
+    "id": 415, 
     "trigger": "jsinterval"
   }, 
   {
     "description": "j - setTimeout", 
-    "id": 403, 
+    "id": 416, 
     "trigger": "jstimeout"
   }, 
   {
     "description": "m - Action", 
-    "id": 404, 
+    "id": 417, 
     "trigger": "maction"
   }, 
   {
     "description": "m - Organization", 
-    "id": 405, 
+    "id": 418, 
     "trigger": "morg"
   }, 
   {
     "description": "Logotype", 
-    "id": 406, 
+    "id": 419, 
     "trigger": "zjsonld"
   }, 
   {
     "description": "Organization", 
-    "id": 407, 
+    "id": 420, 
     "trigger": "zmicrodata"
   }, 
   {
     "description": "Article", 
-    "id": 408, 
+    "id": 421, 
     "trigger": "zmicrodata"
   }, 
   {
     "description": "Book", 
-    "id": 409, 
+    "id": 422, 
     "trigger": "zmicrodata"
   }, 
   {
     "description": "Game", 
-    "id": 410, 
+    "id": 423, 
     "trigger": "zmicrodata"
   }, 
   {
     "description": "WebPage", 
-    "id": 411, 
+    "id": 424, 
     "trigger": "zmicrodata"
   }, 
   {
     "description": "Breadcrumb", 
-    "id": 412, 
+    "id": 425, 
     "trigger": "zrdfa"
   }
 ]

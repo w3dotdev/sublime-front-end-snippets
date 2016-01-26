@@ -25,9 +25,13 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
   - Patterns
     - [Design Patterns](snippets/js/patterns/design-patterns)
   - Tests
-    - [Structure - ts.*](snippets/js/tests/structure)
-    - [BDD - tb.*](snippets/js/tests/bdd)
-    - [TDD - tt.*](snippets/js/tests/tdd)
+    - [Common - t.*](snippets/js/tests/common)
+    - [Chai - tc.*](snippets/js/tests/chai)
+    - [Jasmine - tj.*](snippets/js/tests/jasmine)
+    - [Mocha - tm.*](snippets/js/tests/mocha)
+    - [Node - tn.*](snippets/js/tests/node)
+    - [QUnit - tq.*](snippets/js/tests/qunit)
+    - [Sinon - ts.*](snippets/js/tests/sinon)
 - Schema.org
   - [Microdata](snippets/schema/microdata)
 - [External - e*](snippets/external/)

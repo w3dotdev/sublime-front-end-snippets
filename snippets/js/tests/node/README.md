@@ -1,4 +1,6 @@
-# Node.js Assert - JavaScript Snippets
+# Node.js JavaScript Snippets
+
+## Prefix `tb.*`
 
 ### [tt.dequal] deepEqual
 
