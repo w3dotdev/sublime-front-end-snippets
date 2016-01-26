@@ -4,7 +4,7 @@ import os
 import fnmatch
 from json import dumps
 
-def writeJson(data, filename):
+def write_json(data, filename):
   try:
     jsondata = dumps(data, indent=2, skipkeys=True, sort_keys=True)
     fd = open(filename, 'w')
@@ -14,16 +14,16 @@ def writeJson(data, filename):
     print 'ERROR writing', filename
     pass
 
-def getDir(path, ext):
+def get_dir(path, ext):
   matches = []
   for root, dirnames, filenames in os.walk(path):
     for filename in fnmatch.filter(filenames, ext):
       matches.append(os.path.join(root, filename))
   return matches
 
-def getJson():
+def get_json():
   result = []
-  for count, file in enumerate(getDir('../snippets/', '*.sublime-snippet'), start=1):
+  for count, file in enumerate(get_dir('../snippets/', '*.sublime-snippet'), start=1):
     line        = open(file)
     content     = line.read()
     trigger     = content.split('<tabTrigger>')[1].split('</tabTrigger>')[0]
@@ -34,5 +34,5 @@ def getJson():
   return result
 
 
-writeJson(getJson(), "../snippets.json")
+write_json(get_json(), "../snippets.json")
 
