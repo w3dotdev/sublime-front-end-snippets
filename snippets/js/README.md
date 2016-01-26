@@ -1,5 +1,12 @@
 # JavaScript Snippets
 
 - [Native Javascript](vanilla/)
-- [jQuery](jquery/)
-- [BDD](bdd/)
+- [Libraries](libraries/)
+  - [jQuery](jquery/)
+- [Patterns](patterns/)
+  - [Design Patterns](patterns/design-patterns/)
+- [Tests](tests/)
+  - [Structure](structure/)
+  - [BDD](bdd/)
+  - [TDD](tdd/)
+
