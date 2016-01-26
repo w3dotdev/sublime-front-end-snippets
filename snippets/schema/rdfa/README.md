@@ -1,6 +1,6 @@
 # RDFa Snippets
 
-Prefix `sr.*`
+## Prefix `sr.*`
 
 ## Organization
 

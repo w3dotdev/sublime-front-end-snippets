@@ -24,6 +24,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
     - [jQuery - jq.*](snippets/js/libraries/jquery)
   - [Patterns](snippets/js/patterns)
     - [Design Patterns - jdp.*](snippets/js/patterns/design-patterns)
+    - [UMD - jumd.*](snippets/js/patterns/umd)
   - [Tests](snippets/js/tests)
     - [Common - t.*](snippets/js/tests/common)
     - [Chai - tc.*](snippets/js/tests/chai)

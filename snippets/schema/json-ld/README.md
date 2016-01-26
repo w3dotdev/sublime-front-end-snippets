@@ -1,6 +1,6 @@
 # JSON-LD Snippets
 
-Prefix `sj.*`
+## Prefix `sj.*`
 
 ## Organization
 

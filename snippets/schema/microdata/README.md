@@ -1,6 +1,6 @@
 # Microdata Snippets
 
-Prefix `sm.*`
+## Prefix `sm.*`
 
 ## Organization
 

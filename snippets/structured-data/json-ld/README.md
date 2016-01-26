@@ -1,6 +1,6 @@
 # JSON-LD
 
-key: `z.jsonld`
+##  key: `z.jsonld`
 
 ### Logotype
 

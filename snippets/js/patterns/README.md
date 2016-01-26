@@ -1,3 +1,26 @@
 # JavaScript Patterns Snippets
 
 - [Design patterns](design-patterns/)
+  - Command
+  - Constructor
+  - Decorator
+  - Facade
+  - Factory
+  - Flyweight
+  - Mediator
+  - Mixin
+  - Module
+  - Observer
+  - Prototype
+  - Revealing Module
+  - Singleton
+- [UMD](umd/)
+  - AMD Web Global
+  - AMD Web
+  - CommonJS Adapter
+  - CommonJS Strict Global
+  - CommonJS Strict
+  - jQuery Plugin
+  - Node Adapter
+  - Return Exports Global
+  - Return Exports

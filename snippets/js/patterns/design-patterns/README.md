@@ -1,4 +1,4 @@
-# JavaScript Patterns Snippets
+# JavaScript Design Patterns Snippets
 
 ## Prefix `jdp.*`
 
