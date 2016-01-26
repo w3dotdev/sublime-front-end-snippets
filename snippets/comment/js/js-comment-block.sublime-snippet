@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * ${1:Description}
+ */
+]]></content>
+  <tabTrigger>xjproperty</tabTrigger>
+  <description>xj - Property Comment</description>
+</snippet>
