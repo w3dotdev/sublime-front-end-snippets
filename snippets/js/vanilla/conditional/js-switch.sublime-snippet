@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+switch (${1:expression}) {
+  case ${2:value1}:
+    ${3:instructions}
+    break;
+  case ${4:value2}:
+    ${5:instructions}
+    break;
+  case ${6:valueN}:
+    ${7:instructions}
+    break;
+  default:
+    ${8:instructions}
+    break;
+}
+]]></content>
+  <tabTrigger>jswitch</tabTrigger>
+  <description>j - switch</description>
+</snippet>

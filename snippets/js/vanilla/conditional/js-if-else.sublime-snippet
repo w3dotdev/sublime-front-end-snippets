@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+if (${1:condition}) {
+  ${2:expression}
+}
+else {
+  ${3:second expression}
+}
+]]></content>
+  <tabTrigger>jifelse</tabTrigger>
+  <description>j - if else</description>
+</snippet>

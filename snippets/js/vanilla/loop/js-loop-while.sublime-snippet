@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+while (${1:condition}) {
+  ${2:expression}
+}
+]]></content>
+  <tabTrigger>jwhile</tabTrigger>
+  <description>j - while</description>
+</snippet>

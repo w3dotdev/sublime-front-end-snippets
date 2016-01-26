@@ -1,5 +1,13 @@
 ## JavaScript Loop Snippets
 
+### [jdowhile] do while
+
+```javascript
+do {
+  ${1:expression}
+} while (${2:condition});
+```
+
 ### [jfore] forEach
 
 ```javascript
@@ -23,5 +31,13 @@ for (${1:prop} in ${2:obj}) {
 ```javascript
 for (var i = ${1:0}, len = ${2:10}; i ${3:<=} len; i${4:++} ) {
   ${5}
+}
+```
+
+### [jwhile] while
+
+```javascript
+while (${1:condition}) {
+  ${2:expression}
 }
 ```
