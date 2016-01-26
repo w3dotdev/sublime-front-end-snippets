@@ -3,7 +3,7 @@
 import sys
 sys.path.append('../source/')
 from json_generator import get_json
-from duplication import list_duplicates
+from duplicates import list_duplicates
 import json
 import re
 import unittest
