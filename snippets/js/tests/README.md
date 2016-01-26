@@ -2,7 +2,9 @@
 
 - [Structure](structure/)
   - afterEach
+  - after
   - beforeEach
+  - before
   - describe
   - it
 - [BDD](bdd/) (expect)

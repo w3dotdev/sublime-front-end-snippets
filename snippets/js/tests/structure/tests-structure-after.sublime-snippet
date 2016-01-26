@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+after(function() {
+  ${1}
+});
+]]></content>
+  <tabTrigger>ts.after</tabTrigger>
+  <description>ts - after</description>
+</snippet>

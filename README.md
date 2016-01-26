@@ -54,6 +54,8 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
 * (JSDuck) [https://github.com/senchalabs/jsduck](https://github.com/senchalabs/jsduck)
 * (idiomatic CSS) [https://github.com/necolas/idiomatic-css](https://github.com/necolas/idiomatic-css)
 * (JS Design Patterns) [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* (Node.js Assert) [https://nodejs.org/api/assert.html](https://nodejs.org/api/assert.html)
+* (Jasmine) [http://jasmine.github.io/2.0/introduction.html](http://jasmine.github.io/2.0/introduction.html)
 
 ## Contributing
 

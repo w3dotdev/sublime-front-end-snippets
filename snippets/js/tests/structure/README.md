@@ -10,10 +10,26 @@ afterEach(function() {
 });
 ```
 
+### [ts.after] after
+
+```javascript
+after(function() {
+  ${1}
+});
+```
+
 ### [ts.beforeeach] beforeEach
 
 ```javascript
 beforeEach(function() {
+  ${1}
+});
+```
+
+### [ts.before] before
+
+```javascript
+before(function() {
   ${1}
 });
 ```
