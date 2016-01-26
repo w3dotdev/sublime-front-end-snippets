@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * @class ${1:Class name}
+ * ${2:Documentation for the class}
+ *
+ * @constructor
+ * ${3:Documentation for the constructor}
+ * @param {${4:String}} ${5:Description of the param}
+ */
+]]></content>
+  <tabTrigger>xjconstructor</tabTrigger>
+  <description>xj - Constructor Comment</description>
+</snippet>
