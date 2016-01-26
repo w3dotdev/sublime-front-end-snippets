@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.parseXML(${2:data});
 ]]></content>
-  <tabTrigger>zjqp</tabTrigger>
+  <tabTrigger>jq.parsex</tabTrigger>
   <description>jq - parseXML</description>
 </snippet>

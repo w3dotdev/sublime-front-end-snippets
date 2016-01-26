@@ -108,19 +108,19 @@ ${1:\$}.noop();
 ${1:\$}.now();
 ```
 
-### [zjqp] parseHTML
+### [jq.parseh] parseHTML
 
 ```javascript
 ${1:\$}.parseHTML(${2:data}${3:, context}${4:, keepScripts});
 ```
 
-### [zjqp] parseJSON
+### [jq.parsej] parseJSON
 
 ```javascript
 ${1:\$}.parseJSON(${2:json});
 ```
 
-### [zjqp] parseXML
+### [jq.parsex] parseXML
 
 ```javascript
 ${1:\$}.parseXML(${2:data});
