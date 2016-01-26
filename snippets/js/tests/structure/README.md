@@ -1,6 +1,6 @@
 # Tests structure Snippets
 
-## Prefix ts.*
+## Prefix `ts.*`
 
 ### [ts.aftereach] afterEach
 
