@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1}.should.be.a(${2});
 ]]></content>
-  <tabTrigger>tc.bea</tabTrigger>
+  <tabTrigger>tc.s.ba</tabTrigger>
   <description>tc - Should be.a</description>
 </snippet>

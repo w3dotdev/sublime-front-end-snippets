@@ -2,6 +2,6 @@
   <content><![CDATA[
 assert.lengthOf(${1:actual}, ${1:expected} ${2:, message});
 ]]></content>
-  <tabTrigger>tc.lengthof</tabTrigger>
+  <tabTrigger>tc.a.lo</tabTrigger>
   <description>tc - Assert lengthOf</description>
 </snippet>

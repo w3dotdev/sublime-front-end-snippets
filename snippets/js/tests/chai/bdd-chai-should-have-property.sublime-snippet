@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1}.should.have.property(${2}).with.length(${3});
 ]]></content>
-  <tabTrigger>tc.hproperty</tabTrigger>
+  <tabTrigger>tc.s.hp</tabTrigger>
   <description>tc - Should have.property</description>
 </snippet>

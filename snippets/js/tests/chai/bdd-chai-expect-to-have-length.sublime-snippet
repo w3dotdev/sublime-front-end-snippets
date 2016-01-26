@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).to.have.length(${2});
 ]]></content>
-  <tabTrigger>tc.tohl</tabTrigger>
+  <tabTrigger>tc.e.thl</tabTrigger>
   <description>tc - Expect to.have.length</description>
 </snippet>

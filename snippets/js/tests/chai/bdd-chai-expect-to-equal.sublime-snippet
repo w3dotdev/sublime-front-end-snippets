@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(${1}).to.equal(${2});
 ]]></content>
-  <tabTrigger>tc.toequal</tabTrigger>
+  <tabTrigger>tc.e.te</tabTrigger>
   <description>tc - Expect to.equal</description>
 </snippet>

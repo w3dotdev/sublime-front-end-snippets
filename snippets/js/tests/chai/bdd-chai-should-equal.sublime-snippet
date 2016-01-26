@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1}.should.equal(${2});
 ]]></content>
-  <tabTrigger>tc.equal</tabTrigger>
+  <tabTrigger>tc.s.e</tabTrigger>
   <description>tc - Should equal</description>
 </snippet>

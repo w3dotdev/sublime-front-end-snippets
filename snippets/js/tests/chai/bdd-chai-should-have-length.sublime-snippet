@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1}.should.have.length(${2});
 ]]></content>
-  <tabTrigger>tc.hlength</tabTrigger>
+  <tabTrigger>tc.s.hl</tabTrigger>
   <description>tc - Should have.length</description>
 </snippet>
