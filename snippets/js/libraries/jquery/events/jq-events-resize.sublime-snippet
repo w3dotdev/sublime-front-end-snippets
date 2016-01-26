@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(window)}.resize(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jqresize</tabTrigger>
+  <tabTrigger>jq.resize</tabTrigger>
   <description>jq - resize</description>
 </snippet>

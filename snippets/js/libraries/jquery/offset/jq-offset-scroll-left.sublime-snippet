@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.scrollLeft();
 ]]></content>
-  <tabTrigger>jqscleft</tabTrigger>
+  <tabTrigger>jq.scleft</tabTrigger>
   <description>jq - scrollLeft</description>
 </snippet>

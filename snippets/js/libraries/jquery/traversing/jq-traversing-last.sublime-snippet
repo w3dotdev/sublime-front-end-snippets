@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.last();
 ]]></content>
-  <tabTrigger>jqlast</tabTrigger>
+  <tabTrigger>jq.last</tabTrigger>
   <description>jq - last</description>
 </snippet>

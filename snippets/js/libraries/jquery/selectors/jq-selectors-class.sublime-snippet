@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}(".${2:class}");
 ]]></content>
-  <tabTrigger>jq:cl</tabTrigger>
+  <tabTrigger>jq.:cl</tabTrigger>
   <description>jq - class</description>
 </snippet>

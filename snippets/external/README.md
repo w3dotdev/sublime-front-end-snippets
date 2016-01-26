@@ -1,10 +1,10 @@
 # External Snippets
 
-Prefix `e*`
+Prefix `e.*`
 
 ## Analytics
 
-### [ega] Google Analytics Object
+### [e.ga] Google Analytics Object
 
 ```html
 <script>
@@ -19,7 +19,7 @@ Prefix `e*`
 </script>$2
 ```
 
-### [egtm] Google Tag Manager
+### [e.gtm] Google Tag Manager
 
 ```html
 <!-- Google Tag Manager -->

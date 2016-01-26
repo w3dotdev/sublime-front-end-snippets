@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.then()}.progress(${2:progressCallbacks}${3:, progressCallbacks});
 ]]></content>
-  <tabTrigger>jqprogress</tabTrigger>
+  <tabTrigger>jq.progress</tabTrigger>
   <description>jq - progress</description>
 </snippet>

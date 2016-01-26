@@ -1,102 +1,102 @@
 ## Effects
 
-### [jqanimate] animate
+### [jq.animate] animate
 
 ```javascript
 ${1:\$("div")}.animate(${2:properties}${3:,duration}${4:,easing}${5:,complete});
 ```
 
-### [jqcqueue] clearQueue
+### [jq.cqueue] clearQueue
 
 ```javascript
 ${1:\$("div")}.clearQueue(${2:queueName});
 ```
 
-### [jqdelay] delay
+### [jq.delay] delay
 
 ```javascript
 ${1:\$("div")}.delay(${2:duration}${3:,queueName});
 ```
 
-### [jqdequeue] dequeue
+### [jq.dequeue] dequeue
 
 ```javascript
 ${1:\$("div")}.dequeue(${2:queueName});
 ```
 
-### [jqfadein] fadeIn
+### [jq.fadein] fadeIn
 
 ```javascript
 ${1:\$("div")}.fadeIn(${2:duration}${3:,easing}${4:,complete});
 ```
 
-### [jqfadeout] fadeOut
+### [jq.fadeout] fadeOut
 
 ```javascript
 ${1:\$("div")}.fadeOut(${2:duration}${3:,easing}${4:,complete});
 ```
 
-### [jqfadetoggle] fadeToggle
+### [jq.fadetoggle] fadeToggle
 
 ```javascript
 ${1:\$("div")}.fadeToggle(${2:duration}${3:,easing}${4:,complete});
 ```
 
-### [jqfadeto] fadeTo
+### [jq.fadeto] fadeTo
 
 ```javascript
 ${1:\$("div")}.fadeTo(${2:duration}, ${3:opacity}${4:,easing}${5:,complete});
 ```
 
-### [jqfinish] finish
+### [jq.finish] finish
 
 ```javascript
 ${1:\$("div")}.finish(${2:queue});
 ```
 
-### [jqhide] hide
+### [jq.hide] hide
 
 ```javascript
 ${1:\$("div")}.hide(${2:duration}${3:,easing}${4:,complete});
 ```
 
-### [jqqueue] queue
+### [jq.queue] queue
 
 ```javascript
 ${1:\$("div")}.queue(${2:queueName});
 ```
 
-### [jqshow] show
+### [jq.show] show
 
 ```javascript
 ${1:\$("div")}.show(${2:duration}${3:,easing}${4:,complete});
 ```
 
-### [jqsdown] slideDown
+### [jq.sdown] slideDown
 
 ```javascript
 ${1:\$("div")}.slideDown(${2:duration}${3:,easing}${4:,complete});
 ```
 
-### [jqstoggle] slideToggle
+### [jq.stoggle] slideToggle
 
 ```javascript
 ${1:\$("div")}.slideToggle(${2:duration}${3:,easing}${4:,complete});
 ```
 
-### [jqsup] slideUp
+### [jq.sup] slideUp
 
 ```javascript
 ${1:\$("div")}.slideUp(${2:duration}${3:,easing}${4:,complete});
 ```
 
-### [jqstop] stop
+### [jq.stop] stop
 
 ```javascript
 ${1:\$("div")}.stop(${2:queue}${3:,clearQueue}${4:,jumpToEnd});
 ```
 
-### [jqtoggle] toggle
+### [jq.toggle] toggle
 
 ```javascript
 ${1:\$("div")}.toggle(${2:duration}${3:,easing}${4:,complete});

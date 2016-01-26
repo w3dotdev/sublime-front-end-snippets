@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.then()}.notifyWith(${2:context}${3:, args});
 ]]></content>
-  <tabTrigger>jqnotifywith</tabTrigger>
+  <tabTrigger>jq.notifywith</tabTrigger>
   <description>jq - notifyWith</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.hover(${2:handlerIn}${3:, handlerOut});
 ]]></content>
-  <tabTrigger>jqhover</tabTrigger>
+  <tabTrigger>jq.hover</tabTrigger>
   <description>jq - hover</description>
 </snippet>

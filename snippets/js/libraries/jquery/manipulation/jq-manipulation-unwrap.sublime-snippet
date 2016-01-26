@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.unwrap();
 ]]></content>
-  <tabTrigger>jqunwrap</tabTrigger>
+  <tabTrigger>jq.unwrap</tabTrigger>
   <description>jq - unwrap</description>
 </snippet>

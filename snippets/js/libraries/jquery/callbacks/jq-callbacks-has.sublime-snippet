@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.has(${4:callback});
 ]]></content>
-  <tabTrigger>jqcbhas</tabTrigger>
+  <tabTrigger>jq.cbhas</tabTrigger>
   <description>jq - has</description>
 </snippet>

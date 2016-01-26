@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:lang(${3:language})");
 ]]></content>
-  <tabTrigger>jq:l</tabTrigger>
+  <tabTrigger>jq.:l</tabTrigger>
   <description>jq - :lang</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:checkbox");
 ]]></content>
-  <tabTrigger>jq:c</tabTrigger>
+  <tabTrigger>jq.:c</tabTrigger>
   <description>jq - :checkbox</description>
 </snippet>

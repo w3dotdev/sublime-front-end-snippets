@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.addClass(${2:className});
 ]]></content>
-  <tabTrigger>jqaddclass</tabTrigger>
+  <tabTrigger>jq.addclass</tabTrigger>
   <description>jq - addClass</description>
 </snippet>

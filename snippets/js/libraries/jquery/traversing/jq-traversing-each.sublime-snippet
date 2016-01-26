@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.each(${2:function});
 ]]></content>
-  <tabTrigger>jqeach</tabTrigger>
+  <tabTrigger>jq.each</tabTrigger>
   <description>jq - each</description>
 </snippet>

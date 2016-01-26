@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(window)}.scroll(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jqscroll</tabTrigger>
+  <tabTrigger>jq.scroll</tabTrigger>
   <description>jq - scroll</description>
 </snippet>

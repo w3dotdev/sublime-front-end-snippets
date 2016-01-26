@@ -1,54 +1,54 @@
 ## Attributes
 
-### [jqaddclass] addClass
+### [jq.addclass] addClass
 
 ```javascript
 ${1:\$(document)}.addClass(${2:className});
 ```
 
-### [jqattr] attr
+### [jq.attr] attr
 
 ```javascript
 ${1:\$(document)}.attr(${2:attributeName}${3:, value});
 ```
 
-### [jqhasclass] hasClass
+### [jq.hasclass] hasClass
 
 ```javascript
 ${1:\$(document)}.hasClass(${2:className});
 ```
 
-### [jqhtml] html
+### [jq.html] html
 
 ```javascript
 ${1:\$(document)}.html(${2:htmlString});
 ```
 
-### [jqprop] prop
+### [jq.prop] prop
 
 ```javascript
 ${1:\$(document)}.prop(${2:propertyName}${3:, value});
 ```
 
-### [jqrattr] removeAttr
+### [jq.rattr] removeAttr
 
 ```javascript
 ${1:\$(document)}.removeAttr(${2:attributeName});
 ```
 
-### [jqrclass] removeClass
+### [jq.rclass] removeClass
 
 ```javascript
 ${1:\$(document)}.removeClass(${2:[className]});
 ```
 
-### [jqrprop] removeProp
+### [jq.rprop] removeProp
 
 ```javascript
 ${1:\$(document)}.removeProp(${2:propertyName});
 ```
 
-### [jqtclass] toggleClass
+### [jq.tclass] toggleClass
 
 ```javascript
 ${1:\$(document)}.toggleClass(${2:className}${2:, state});

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.parentsUntil(${2:selector}${3:, selector});
 ]]></content>
-  <tabTrigger>jqpuntil</tabTrigger>
+  <tabTrigger>jq.puntil</tabTrigger>
   <description>jq - parentsUntil</description>
 </snippet>

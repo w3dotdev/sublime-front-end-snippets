@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:only-of-type");
 ]]></content>
-  <tabTrigger>jq:ot</tabTrigger>
+  <tabTrigger>jq.:ot</tabTrigger>
   <description>jq - :only-of-type</description>
 </snippet>

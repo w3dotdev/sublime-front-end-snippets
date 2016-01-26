@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:disabled");
 ]]></content>
-  <tabTrigger>jq:d</tabTrigger>
+  <tabTrigger>jq.:d</tabTrigger>
   <description>jq - :disabled</description>
 </snippet>

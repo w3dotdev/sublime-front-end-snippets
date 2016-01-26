@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.add(${2:selector}${3:, context});
 ]]></content>
-  <tabTrigger>jqadd</tabTrigger>
+  <tabTrigger>jq.add</tabTrigger>
   <description>jq - add</description>
 </snippet>

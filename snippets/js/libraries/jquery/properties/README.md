@@ -1,24 +1,24 @@
 ## Properties
 
-### [jqfxi] fx.interval
+### [jq.fxi] fx.interval
 
 ```javascript
 ${1:\$}.fx.interval = ${2:500};
 ```
 
-### [jqfxo] fx.off
+### [jq.fxo] fx.off
 
 ```javascript
 ${1:\$}.fx.off = ${2:true};
 ```
 
-### [jqjprop] jquery
+### [jq.jprop] jquery
 
 ```javascript
 ${1:\$.fn}.jquery;
 ```
 
-### [jqlen] length
+### [jq.len] length
 
 ```javascript
 ${1:\$([])}.length;

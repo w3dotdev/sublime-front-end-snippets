@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.contextmenu(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jqjqcmenu</tabTrigger>
+  <tabTrigger>jq.jqcmenu</tabTrigger>
   <description>jq - contextmenu</description>
 </snippet>

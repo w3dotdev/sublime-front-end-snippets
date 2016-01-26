@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.isWindow(${2:object});
 ]]></content>
-  <tabTrigger>jqiwindow</tabTrigger>
+  <tabTrigger>jq.iwindow</tabTrigger>
   <description>jq - isWindow</description>
 </snippet>

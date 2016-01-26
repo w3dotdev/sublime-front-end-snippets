@@ -1,18 +1,18 @@
 ## Miscellaneous
 
-### [jqget] get
+### [jq.get] get
 
 ```javascript
 ${1:\$(this)}.get(${2:index});
 ```
 
-### [jqindex] index
+### [jq.index] index
 
 ```javascript
 ${1:\$(this)}.index(${2:selector});
 ```
 
-### [jqtoarray] toArray
+### [jq.toarray] toArray
 
 ```javascript
 ${1:\$(this)}.toArray();

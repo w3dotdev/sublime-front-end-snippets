@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.children(${2:selector});
 ]]></content>
-  <tabTrigger>jqchildren</tabTrigger>
+  <tabTrigger>jq.children</tabTrigger>
   <description>jq - children</description>
 </snippet>

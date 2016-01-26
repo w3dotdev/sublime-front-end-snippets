@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.param(${2:obj}${3:,traditional});
 ]]></content>
-  <tabTrigger>jqparam</tabTrigger>
+  <tabTrigger>jq.param</tabTrigger>
   <description>jq - param</description>
 </snippet>

@@ -14,6 +14,6 @@
 <span itemprop="minValue">3</span> to <span itemprop="maxValue">5</span>  players </div>.<br/><br/>Ages 8 and up.<br/><br/>Monopoly and all related characters are trademarks of <span itemprop="copyrightHolder">Hasbro</span>.
 </section>
 ]]></content>
-	<tabTrigger>zmicrodata</tabTrigger>
-  <description>Game</description>
+	<tabTrigger>z.microdata</tabTrigger>
+  <description>microdata - Game</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.isEmptyObject(${2:object});
 ]]></content>
-  <tabTrigger>jqieobject</tabTrigger>
+  <tabTrigger>jq.ieobject</tabTrigger>
   <description>jq - isEmptyObject</description>
 </snippet>

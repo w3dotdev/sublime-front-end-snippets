@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:even");
 ]]></content>
-  <tabTrigger>jq:ev</tabTrigger>
+  <tabTrigger>jq.:ev</tabTrigger>
   <description>jq - :even</description>
 </snippet>

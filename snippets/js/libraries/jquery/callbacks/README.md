@@ -1,72 +1,72 @@
 ## Callbacks
 
-### [jqcbadd] add
+### [jq.cbadd] add
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.add(${4:callbacks});
 ```
 
-### [jqcbdisable] disable
+### [jq.cbdisable] disable
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.disable();
 ```
 
-### [jqcbdisabled] disabled
+### [jq.cbdisabled] disabled
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.disabled();
 ```
 
-### [jqcbempty] empty
+### [jq.cbempty] empty
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.empty();
 ```
 
-### [jqcbfirewith] fireWith
+### [jq.cbfirewith] fireWith
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.fireWith(${4:context}${5:, args});
 ```
 
-### [jqcbfire] fire
+### [jq.cbfire] fire
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.fire(${4:arguments});
 ```
 
-### [jqcbfired] fired
+### [jq.cbfired] fired
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.fired();
 ```
 
-### [jqcbhas] has
+### [jq.cbhas] has
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.has(${4:callback});
 ```
 
-### [jqcblock] lock
+### [jq.cblock] lock
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.lock();
 ```
 
-### [jqcblocked] locked
+### [jq.cblocked] locked
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.locked();
 ```
 
-### [jqcbremove] remove
+### [jq.cbremove] remove
 
 ```javascript
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.remove(${4:callbacks});
 ```
 
-### [jqcb] callbacks
+### [jq.cb] callbacks
 
 ```javascript
 ${1:\$}.Callbacks(${2:flags});

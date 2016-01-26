@@ -48,6 +48,6 @@ Reviews:
 ...
 </body>
 ]]></content>
-	<tabTrigger>zmicrodata</tabTrigger>
-  <description>WebPage</description>
+	<tabTrigger>z.microdata</tabTrigger>
+  <description>microdata - WebPage</description>
 </snippet>

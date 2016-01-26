@@ -2,6 +2,6 @@
 	<content><![CDATA[
 itemscope="itemscope" itemtype="http://schema.org/Action"
 ]]></content>
-	<tabTrigger>maction</tabTrigger>
-  <description>m - Action</description>
+	<tabTrigger>sm.action</tabTrigger>
+  <description>sm - Action</description>
 </snippet>

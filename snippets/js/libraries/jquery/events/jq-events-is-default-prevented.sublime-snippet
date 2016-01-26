@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.isDefaultPrevented();
 ]]></content>
-  <tabTrigger>jqidprevented</tabTrigger>
+  <tabTrigger>jq.idprevented</tabTrigger>
   <description>jq - isDefaultPrevented</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.select(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jqselect</tabTrigger>
+  <tabTrigger>jq.select</tabTrigger>
   <description>jq - select</description>
 </snippet>

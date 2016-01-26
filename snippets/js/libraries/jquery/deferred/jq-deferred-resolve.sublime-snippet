@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.then()}.resolve(${2:args});
 ]]></content>
-  <tabTrigger>jqresolve</tabTrigger>
+  <tabTrigger>jq.resolve</tabTrigger>
   <description>jq - resolve</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.ajaxSuccess(${2:handler});
 ]]></content>
-  <tabTrigger>jqasuccess</tabTrigger>
+  <tabTrigger>jq.asuccess</tabTrigger>
   <description>jq - ajaxSuccess</description>
 </snippet>

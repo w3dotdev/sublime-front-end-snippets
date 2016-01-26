@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.isImmediatePropagationStopped();
 ]]></content>
-  <tabTrigger>jqiips</tabTrigger>
+  <tabTrigger>jq.iips</tabTrigger>
   <description>jq - isImmediatePropagationStopped</description>
 </snippet>

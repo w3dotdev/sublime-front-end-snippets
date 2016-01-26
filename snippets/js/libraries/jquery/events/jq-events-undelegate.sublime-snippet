@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.undelegate(${2:selector}${3:, eventType}${4:, handler});
 ]]></content>
-  <tabTrigger>jqundelegate</tabTrigger>
+  <tabTrigger>jq.undelegate</tabTrigger>
   <description>jq - undelegate</description>
 </snippet>

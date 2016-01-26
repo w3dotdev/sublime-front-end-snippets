@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.fx.interval = ${2:500};
 ]]></content>
-  <tabTrigger>jqfxi</tabTrigger>
+  <tabTrigger>jq.fxi</tabTrigger>
   <description>jq - fx.interval</description>
 </snippet>

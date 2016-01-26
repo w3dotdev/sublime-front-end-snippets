@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:selected");
 ]]></content>
-  <tabTrigger>jq:s</tabTrigger>
+  <tabTrigger>jq.:s</tabTrigger>
   <description>jq - :selected</description>
 </snippet>

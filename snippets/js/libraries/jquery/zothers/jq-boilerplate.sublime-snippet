@@ -69,6 +69,6 @@ ${5:// the semi-colon before function invocation is a safety net against concate
 
 })( jQuery, window, document );
 ]]></content>
-  <tabTrigger>jqb</tabTrigger>
+  <tabTrigger>jq.b</tabTrigger>
   <description>jq - jQuery Boilerplate</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.prependTo(${2:target});
 ]]></content>
-  <tabTrigger>jqprependto</tabTrigger>
+  <tabTrigger>jq.prependto</tabTrigger>
   <description>jq - prependTo</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.removeData(${2:element}${3:, name});
 ]]></content>
-  <tabTrigger>jqjrdata</tabTrigger>
+  <tabTrigger>jq.jrdata</tabTrigger>
   <description>jq - jQuery removeData</description>
 </snippet>

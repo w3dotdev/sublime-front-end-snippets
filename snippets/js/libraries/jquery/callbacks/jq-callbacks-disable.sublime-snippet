@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.disable();
 ]]></content>
-  <tabTrigger>jqcbdisable</tabTrigger>
+  <tabTrigger>jq.cbdisable</tabTrigger>
   <description>jq - disable</description>
 </snippet>

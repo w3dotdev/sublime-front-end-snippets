@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.toggleClass(${2:className}${2:, state});
 ]]></content>
-  <tabTrigger>jqtclass</tabTrigger>
+  <tabTrigger>jq.tclass</tabTrigger>
   <description>jq - toggleClass</description>
 </snippet>

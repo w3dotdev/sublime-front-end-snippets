@@ -1,10 +1,10 @@
 # CSS Snippets
 
-Prefix `c*`
+Prefix `c.*`
 
 ## Font
 
-### [cff] @font-face
+### [c.ff] @font-face
 
 ```css
 @font-face {
@@ -32,7 +32,7 @@ Prefix `c*`
 
 ## Media Querie
 
-### [cmq] @media
+### [c.mq] @media
 
 ```css
 @media ${1:all} and (${2:min-width}: ${3:768px}) {
@@ -42,7 +42,7 @@ Prefix `c*`
 
 ## Keyframes
 
-### [ck] @keyframes
+### [c.k] @keyframes
 
 ```css
 @-webkit-keyframes ${1:[animation-name]} {

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.data(${2:key}${3:, value});
 ]]></content>
-  <tabTrigger>jqdata</tabTrigger>
+  <tabTrigger>jq.data</tabTrigger>
   <description>jq - data</description>
 </snippet>

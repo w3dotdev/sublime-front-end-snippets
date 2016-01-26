@@ -1,108 +1,108 @@
 ## Utilities
 
-### [jqcontains] contains
+### [jq.contains] contains
 
 ```javascript
 ${1:\$}.contains(${2:container}${3:, contained});
 ```
 
-### [jqjeach] jQuery each
+### [jq.jeach] jQuery each
 
 ```javascript
 ${1:\$}.each(${2:array}${3:, callback});
 ```
 
-### [jqextend] extend
+### [jq.extend] extend
 
 ```javascript
 ${1:\$}.extend(${2:deep}${3:, target}${4:, object1}${5:, objectN});
 ```
 
-### [jqfnextend] fn.extend
+### [jq.fnextend] fn.extend
 
 ```javascript
 ${1:\$}.fn.extend(${2:object});
 ```
 
-### [jqgeval] globalEval
+### [jq.geval] globalEval
 
 ```javascript
 ${1:\$}.globalEval(${2:code});
 ```
 
-### [jqgrep] grep
+### [jq.grep] grep
 
 ```javascript
 ${1:\$}.grep(${2:array}${3:, function}${4:, invert});
 ```
 
-### [jqinarray] inArray
+### [jq.inarray] inArray
 
 ```javascript
 ${1:\$}.inArray(${2:value}${3:, array}${4:, fromIndex});
 ```
 
-### [jqieobject] isEmptyObject
+### [jq.ieobject] isEmptyObject
 
 ```javascript
 ${1:\$}.isEmptyObject(${2:object});
 ```
 
-### [jqifunction] isFunction
+### [jq.ifunction] isFunction
 
 ```javascript
 ${1:\$}.isFunction(${2:object});
 ```
 
-### [jqinumeric] isNumeric
+### [jq.inumeric] isNumeric
 
 ```javascript
 ${1:\$}.isNumeric(${2:value});
 ```
 
-### [jqipobject] isPlainObject
+### [jq.ipobject] isPlainObject
 
 ```javascript
 ${1:\$}.isPlainObject(${2:object});
 ```
 
-### [jqiwindow] isWindow
+### [jq.iwindow] isWindow
 
 ```javascript
 ${1:\$}.isWindow(${2:object});
 ```
 
-### [jqixmldoc] isXMLDoc
+### [jq.ixmldoc] isXMLDoc
 
 ```javascript
 ${1:\$}.isXMLDoc(${2:node});
 ```
 
-### [jqmarray] makeArray
+### [jq.marray] makeArray
 
 ```javascript
 ${1:\$}.makeArray(${2:obj});
 ```
 
-### [jqjmap] jQuery map
+### [jq.jmap] jQuery map
 
 ```javascript
 ${1:\$}.map(${2:object}${3:, callback});
 ```
 
-### [jqmerge] merge
+### [jq.merge] merge
 
 ```javascript
 ${1:\$}.merge(${2:first}${3:, second});
 ```
 
-### [jqnoop] noop
+### [jq.noop] noop
 
 ```javascript
 ${1:\$}.noop();
 ```
 
-### [jqnow] now
+### [jq.now] now
 
 ```javascript
 ${1:\$}.now();
@@ -126,25 +126,25 @@ ${1:\$}.parseJSON(${2:json});
 ${1:\$}.parseXML(${2:data});
 ```
 
-### [jqproxy] proxy
+### [jq.proxy] proxy
 
 ```javascript
 ${1:\$}.proxy(${2:context}${3:, name}${4:, additionalArguments});
 ```
 
-### [jqtrim] trim
+### [jq.trim] trim
 
 ```javascript
 ${1:\$}.trim(${2:str});
 ```
 
-### [jqjtype] jQuery type
+### [jq.jtype] jQuery type
 
 ```javascript
 ${1:\$}.type(${2:obj});
 ```
 
-### [jqunique] unique
+### [jq.unique] unique
 
 ```javascript
 ${1:\$}.unique(${2:array});

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:root");
 ]]></content>
-  <tabTrigger>jq:ro</tabTrigger>
+  <tabTrigger>jq.:ro</tabTrigger>
   <description>jq - :root</description>
 </snippet>

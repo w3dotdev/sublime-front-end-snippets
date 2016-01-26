@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.closest(${2:selector}${3:, context});
 ]]></content>
-  <tabTrigger>jqclosest</tabTrigger>
+  <tabTrigger>jq.closest</tabTrigger>
   <description>jq - closest</description>
 </snippet>

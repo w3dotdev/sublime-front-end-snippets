@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.type;
 ]]></content>
-  <tabTrigger>jqtype</tabTrigger>
+  <tabTrigger>jq.type</tabTrigger>
   <description>jq - type</description>
 </snippet>

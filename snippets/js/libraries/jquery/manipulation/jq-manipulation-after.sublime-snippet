@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.after(${2:content}${3:,content});
 ]]></content>
-  <tabTrigger>jqafter</tabTrigger>
+  <tabTrigger>jq.after</tabTrigger>
   <description>jq - after</description>
 </snippet>

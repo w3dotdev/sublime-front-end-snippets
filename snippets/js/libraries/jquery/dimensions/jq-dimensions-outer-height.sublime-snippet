@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.outerHeight(${2:includeMargin});
 ]]></content>
-  <tabTrigger>jqoheight</tabTrigger>
+  <tabTrigger>jq.oheight</tabTrigger>
   <description>jq - outerHeight</description>
 </snippet>

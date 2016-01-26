@@ -15,16 +15,16 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
 
 ## Snippets and prefixes/keys
 
-- [HTML - h*](snippets/html/)
+- [HTML - h.*](snippets/html/)
   - [Microdata - hm.*](snippets/html/schema/microdata)
   - [WAI-ARIA - hw.*](snippets/html/wai-aria)
-- [CSS - c*](snippets/css/) 
-- [JavaScript - j*](snippets/js/vanilla)
-  - Libraries
-    - [jQuery - jq*](snippets/js/libraries/jquery)
-  - Patterns
-    - [Design Patterns](snippets/js/patterns/design-patterns)
-  - Tests
+- [CSS - c.*](snippets/css/) 
+- [JavaScript - j.*](snippets/js/vanilla)
+  - [Libraries](snippets/js/libraries)
+    - [jQuery - jq.*](snippets/js/libraries/jquery)
+  - [Patterns](snippets/js/patterns)
+    - [Design Patterns - jdp.*](snippets/js/patterns/design-patterns)
+  - [Tests](snippets/js/tests)
     - [Common - t.*](snippets/js/tests/common)
     - [Chai - tc.*](snippets/js/tests/chai)
     - [Jasmine - tj.*](snippets/js/tests/jasmine)
@@ -32,17 +32,19 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
     - [Node - tn.*](snippets/js/tests/node)
     - [QUnit - tq.*](snippets/js/tests/qunit)
     - [Sinon - ts.*](snippets/js/tests/sinon)
-- Schema.org
-  - [Microdata](snippets/schema/microdata)
-- [External - e*](snippets/external/)
+- [Schema.org](snippets/schema)
+  - [JSON-LD - sj.*](snippets/schema/json-ld)
+  - [Microdata - sm.*](snippets/schema/microdata)
+  - [RDFa - sr.*](snippets/schema/rdfa)
+- [External - e.*](snippets/external/)
 - [Comment](snippets/comment/)
   - [HTML - hc.*](snippets/comment/html)
   - [CSS - cc.*](snippets/comment/css)
   - [JavaScript - jc.*](snippets/comment/js)
 - [Structure data](snippets/structured-data) (***examples***)
-  - [Microdata - zmicrodata](snippets/structured-data/microdata)
-  - [JSON-LD - zjsonld](snippets/structured-data/json-ld)
-  - [RDFa - zrdfa](snippets/structured-data/rdfa)
+  - [Microdata - z.microdata](snippets/structured-data/microdata)
+  - [JSON-LD - z.jsonld](snippets/structured-data/json-ld)
+  - [RDFa - z.rdfa](snippets/structured-data/rdfa)
 
 ## References
 

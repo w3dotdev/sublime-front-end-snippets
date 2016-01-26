@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.delegateTarget;
 ]]></content>
-  <tabTrigger>jqdtarget</tabTrigger>
+  <tabTrigger>jq.dtarget</tabTrigger>
   <description>jq - delegateTarget</description>
 </snippet>

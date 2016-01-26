@@ -1,270 +1,270 @@
 ## Events
 
-### [jqbind] bind
+### [jq.bind] bind
 
 ```javascript
 ${1:\$(document)}.bind(${2:eventType}${3:,eventData}${4:,handler});
 ```
 
-### [jqclick] click
+### [jq.click] click
 
 ```javascript
 ${1:\$(document)}.click(${2:eventData}${3:,handler});
 ```
 
-### [jqcmenu] contextmenu
+### [jq.cmenu] contextmenu
 
 ```javascript
 ${1:\$(document)}.contextmenu(${2:eventData}${3:,handler});
 ```
 
-### [jqctarget] currentTarget
+### [jq.ctarget] currentTarget
 
 ```javascript
 ${1:\event}.currentTarget;
 ```
 
-### [jqedata] data
+### [jq.edata] data
 
 ```javascript
 ${1:\event}.data;
 ```
 
-### [jqdclick] dblclick
+### [jq.dclick] dblclick
 
 ```javascript
 ${1:\$(document)}.dblclick(${2:eventData}${3:,handler});
 ```
 
-### [jqdtarget] delegateTarget
+### [jq.dtarget] delegateTarget
 
 ```javascript
 ${1:\event}.delegateTarget;
 ```
 
-### [jqdelegate] delegate
+### [jq.delegate] delegate
 
 ```javascript
 ${1:\$(document)}.delegate(${2:selector}${3:,eventType}${4:,handler});
 ```
 
-### [jqhover] hover
+### [jq.hover] hover
 
 ```javascript
 ${1:\event}.hover(${2:handlerIn}${3:, handlerOut});
 ```
 
-### [jqidprevented] isDefaultPrevented
+### [jq.idprevented] isDefaultPrevented
 
 ```javascript
 ${1:\event}.isDefaultPrevented();
 ```
 
-### [jqiips] isImmediatePropagationStopped
+### [jq.iips] isImmediatePropagationStopped
 
 ```javascript
 ${1:\event}.isImmediatePropagationStopped();
 ```
 
-### [jqips] isPropagationStopped
+### [jq.ips] isPropagationStopped
 
 ```javascript
 ${1:\event}.isPropagationStopped();
 ```
 
-### [jqkdown] keydown
+### [jq.kdown] keydown
 
 ```javascript
 ${1:\event}.keydown(${2:eventData}${3:, handler});
 ```
 
-### [jqkpress] keypress
+### [jq.kpress] keypress
 
 ```javascript
 ${1:\event}.keypress(${2:eventData}${3:, handler});
 ```
 
-### [jqkup] keyup
+### [jq.kup] keyup
 
 ```javascript
 ${1:\event}.keyup(${2:eventData}${3:, handler});
 ```
 
-### [jqmkey] metaKey
+### [jq.mkey] metaKey
 
 ```javascript
 ${1:\event}.metaKey;
 ```
 
-### [jqmdown] mousedown
+### [jq.mdown] mousedown
 
 ```javascript
 ${1:\$(document)}.mousedown(${2:eventData}${3:, handler});
 ```
 
-### [jqmenter] mouseenter
+### [jq.menter] mouseenter
 
 ```javascript
 ${1:\$(document)}.mouseenter(${2:eventData}${3:, handler});
 ```
 
-### [jqmleave] mouseleave
+### [jq.mleave] mouseleave
 
 ```javascript
 ${1:\$(document)}.mouseleave(${2:eventData}${3:, handler});
 ```
 
-### [jqmmove] mousemove
+### [jq.mmove] mousemove
 
 ```javascript
 ${1:\$(document)}.mousemove(${2:eventData}${3:, handler});
 ```
 
-### [jqmout] mouseout
+### [jq.mout] mouseout
 
 ```javascript
 ${1:\$(document)}.mouseout(${2:eventData}${3:, handler});
 ```
 
-### [jqmover] mouseover
+### [jq.mover] mouseover
 
 ```javascript
 ${1:\$(document)}.mouseover(${2:eventData}${3:, handler});
 ```
 
-### [jqmup] mouseup
+### [jq.mup] mouseup
 
 ```javascript
 ${1:\$(document)}.mouseup(${2:eventData}${3:, handler});
 ```
 
-### [jqns] namespace
+### [jq.ns] namespace
 
 ```javascript
 ${1:\event}.namespace;
 ```
 
-### [jqoff] off
+### [jq.off] off
 
 ```javascript
 ${1:\$(document)}.off(${2:events}${3:, selector}${4:, handler});
 ```
 
-### [jqon] on
+### [jq.on] on
 
 ```javascript
 ${1:\$(document)}.on(${2:events}${3:, selector}${4:, data}${5:, handler});
 ```
 
-### [jqone] one
+### [jq.one] one
 
 ```javascript
 ${1:\$(document)}.one(${2:events}${3:, selector}${4:, data}${5:, handler});
 ```
 
-### [jqpx] pageX
+### [jq.px] pageX
 
 ```javascript
 ${1:\event}.pageX;
 ```
 
-### [jqpy] pageY
+### [jq.py] pageY
 
 ```javascript
 ${1:\event}.pageY;
 ```
 
-### [jqpd] preventDefault
+### [jq.pd] preventDefault
 
 ```javascript
 ${1:\event}.preventDefault();
 ```
 
-### [jqready] ready
+### [jq.ready] ready
 
 ```javascript
 ${1:\$(document)}.ready(${2:handler});
 ```
 
-### [jqrtarget] relatedTarget
+### [jq.rtarget] relatedTarget
 
 ```javascript
 ${1:\event}.relatedTarget;
 ```
 
-### [jqresize] resize
+### [jq.resize] resize
 
 ```javascript
 ${1:\$(window)}.resize(${2:eventData}${3:, handler});
 ```
 
-### [jqresult] result
+### [jq.result] result
 
 ```javascript
 ${1:\event}.result;
 ```
 
-### [jqscroll] scroll
+### [jq.scroll] scroll
 
 ```javascript
 ${1:\$(window)}.scroll(${2:eventData}${3:, handler});
 ```
 
-### [jqsip] stopImmediatePropagation
+### [jq.sip] stopImmediatePropagation
 
 ```javascript
 ${1:\event}.stopImmediatePropagation();
 ```
 
-### [jqsp] stopPropagation
+### [jq.sp] stopPropagation
 
 ```javascript
 ${1:\event}.stopPropagation();
 ```
 
-### [jqtarget] target
+### [jq.target] target
 
 ```javascript
 ${1:\event}.target;
 ```
 
-### [jqtstamp] timeStamp
+### [jq.tstamp] timeStamp
 
 ```javascript
 ${1:\event}.timeStamp;
 ```
 
-### [jqthandler] triggerHandler
+### [jq.thandler] triggerHandler
 
 ```javascript
 ${1:\$(document)}.triggerHandler(${2:eventType}${3:, extraParameters});
 ```
 
-### [jqtrigger] trigger
+### [jq.trigger] trigger
 
 ```javascript
 ${1:\$(document)}.trigger(${2:eventType}${3:, extraParameters});
 ```
 
-### [jqtype] type
+### [jq.type] type
 
 ```javascript
 ${1:\event}.type;
 ```
 
-### [jqunbind] unbind
+### [jq.unbind] unbind
 
 ```javascript
 ${1:\$(document)}.unbind(${2:eventType}${3:, handler});
 ```
 
-### [jqundelegate] undelegate
+### [jq.undelegate] undelegate
 
 ```javascript
 ${1:\$(document)}.undelegate(${2:selector}${3:, eventType}${4:, handler});
 ```
 
-### [jqwhich] which
+### [jq.which] which
 
 ```javascript
 ${1:\event}.which;

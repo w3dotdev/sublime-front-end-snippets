@@ -1,6 +1,6 @@
 # Schema (microdata)
 
-key: `zmicrodata`
+key: `z.microdata`
 
 ### Organization
 

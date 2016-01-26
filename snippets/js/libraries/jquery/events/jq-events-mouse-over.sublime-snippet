@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.mouseover(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jqmover</tabTrigger>
+  <tabTrigger>jq.mover</tabTrigger>
   <description>jq - mouseover</description>
 </snippet>

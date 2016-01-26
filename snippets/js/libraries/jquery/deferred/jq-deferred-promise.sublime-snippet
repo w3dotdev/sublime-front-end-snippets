@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.then()}.promise(${2:target});
 ]]></content>
-  <tabTrigger>jqdpromise</tabTrigger>
+  <tabTrigger>jq.dpromise</tabTrigger>
   <description>jq - promise</description>
 </snippet>

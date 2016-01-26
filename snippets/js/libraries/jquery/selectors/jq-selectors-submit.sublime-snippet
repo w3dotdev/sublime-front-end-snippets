@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:submit");
 ]]></content>
-  <tabTrigger>jq:su</tabTrigger>
+  <tabTrigger>jq.:su</tabTrigger>
   <description>jq - :submit</description>
 </snippet>

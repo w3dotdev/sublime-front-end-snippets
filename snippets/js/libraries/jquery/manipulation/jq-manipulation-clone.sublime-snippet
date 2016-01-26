@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.clone(${2:withDataAndEvents}${3:,deepWithDataAndEvents});
 ]]></content>
-  <tabTrigger>jqclone</tabTrigger>
+  <tabTrigger>jq.clone</tabTrigger>
   <description>jq - clone</description>
 </snippet>

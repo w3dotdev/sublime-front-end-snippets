@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.extend(${2:deep}${3:, target}${4:, object1}${5:, objectN});
 ]]></content>
-  <tabTrigger>jqextend</tabTrigger>
+  <tabTrigger>jq.extend</tabTrigger>
   <description>jq - extend</description>
 </snippet>

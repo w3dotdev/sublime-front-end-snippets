@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.error(${2:message});
 ]]></content>
-  <tabTrigger>jqerror</tabTrigger>
+  <tabTrigger>jq.error</tabTrigger>
   <description>jq - error</description>
 </snippet>

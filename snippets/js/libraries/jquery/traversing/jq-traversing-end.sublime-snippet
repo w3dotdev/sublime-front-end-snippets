@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.end();
 ]]></content>
-  <tabTrigger>jqend</tabTrigger>
+  <tabTrigger>jq.end</tabTrigger>
   <description>jq - end</description>
 </snippet>

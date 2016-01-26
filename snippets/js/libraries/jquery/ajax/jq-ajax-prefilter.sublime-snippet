@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.ajaxPrefilter(${2:dataTypes,}${3:handler});
 ]]></content>
-  <tabTrigger>jqaprefilter</tabTrigger>
+  <tabTrigger>jq.aprefilter</tabTrigger>
   <description>jq - ajaxPrefilter</description>
 </snippet>

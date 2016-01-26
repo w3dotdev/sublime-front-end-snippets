@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$("div")}.dequeue(${2:queueName});
 ]]></content>
-  <tabTrigger>jqdequeue</tabTrigger>
+  <tabTrigger>jq.dequeue</tabTrigger>
   <description>jq - dequeue</description>
 </snippet>

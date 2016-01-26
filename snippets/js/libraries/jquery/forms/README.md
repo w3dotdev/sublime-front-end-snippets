@@ -1,66 +1,66 @@
 ## Forms
 
-### [jqblur] blur
+### [jq.blur] blur
 
 ```javascript
 ${1:\$(document)}.blur(${2:eventData}${3:,handler});
 ```
 
-### [jqchange] change
+### [jq.change] change
 
 ```javascript
 ${1:\$(document)}.change(${2:eventData}${3:,handler});
 ```
 
-### [jqfocusin] focusin
+### [jq.focusin] focusin
 
 ```javascript
 ${1:\$(document)}.focusin(${2:eventData}${3:,handler});
 ```
 
-### [jqfocusout] focusout
+### [jq.focusout] focusout
 
 ```javascript
 ${1:\$(document)}.focusout(${2:eventData}${3:,handler});
 ```
 
-### [jqfocus] focus
+### [jq.focus] focus
 
 ```javascript
 ${1:\$(document)}.focus(${2:eventData}${3:,handler});
 ```
 
-### [jqparam] param
+### [jq.param] param
 
 ```javascript
 ${1:\$}.param(${2:obj}${3:,traditional});
 ```
 
-### [jqselect] select
+### [jq.select] select
 
 ```javascript
 ${1:\$(document)}.select(${2:eventData}${3:,handler});
 ```
 
-### [jqserarray] serializeArray
+### [jq.serarray] serializeArray
 
 ```javascript
 ${1:\$(this)}.serializeArray();
 ```
 
-### [jqser] serialize
+### [jq.ser] serialize
 
 ```javascript
 ${1:\$(this)}.serialize();
 ```
 
-### [jqsubmit] submit
+### [jq.submit] submit
 
 ```javascript
 ${1:\$(document)}.submit(${2:eventData}${3:,handler});
 ```
 
-### [jqval] val
+### [jq.val] val
 
 ```javascript
 ${1:\$(this)}.val();

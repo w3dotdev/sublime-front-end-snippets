@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.proxy(${2:context}${3:, name}${4:, additionalArguments});
 ]]></content>
-  <tabTrigger>jqproxy</tabTrigger>
+  <tabTrigger>jq.proxy</tabTrigger>
   <description>jq - proxy</description>
 </snippet>

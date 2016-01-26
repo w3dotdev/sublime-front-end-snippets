@@ -1,162 +1,162 @@
 ## Traversing
 
-### [jqaddback] addBack
+### [jq.addback] addBack
 
 ```javascript
 ${1:\$(this)}.addBack(${2:selector});
 ```
 
-### [jqadd] add
+### [jq.add] add
 
 ```javascript
 ${1:\$(this)}.add(${2:selector}${3:, context});
 ```
 
-### [jqchildren] children
+### [jq.children] children
 
 ```javascript
 ${1:\$(this)}.children(${2:selector});
 ```
 
-### [jqclosest] closest
+### [jq.closest] closest
 
 ```javascript
 ${1:\$(this)}.closest(${2:selector}${3:, context});
 ```
 
-### [jqcontents] contents
+### [jq.contents] contents
 
 ```javascript
 ${1:\$(this)}.contents();
 ```
 
-### [jqeach] each
+### [jq.each] each
 
 ```javascript
 ${1:\$(this)}.each(${2:function});
 ```
 
-### [jqend] end
+### [jq.end] end
 
 ```javascript
 ${1:\$(this)}.end();
 ```
 
-### [jqeq] eq
+### [jq.eq] eq
 
 ```javascript
 ${1:\$(this)}.eq(${2:indexFromEnd});
 ```
 
-### [jqfilter] filter
+### [jq.filter] filter
 
 ```javascript
 ${1:\$(this)}.filter(${2:elements});
 ```
 
-### [jqfind] find
+### [jq.find] find
 
 ```javascript
 ${1:\$(this)}.find(${2:element});
 ```
 
-### [jqfirst] first
+### [jq.first] first
 
 ```javascript
 ${1:\$(this)}.first();
 ```
 
-### [jqhas] has
+### [jq.has] has
 
 ```javascript
 ${1:\$(this)}.has(${2:selector});
 ```
 
-### [jqis] is
+### [jq.is] is
 
 ```javascript
 ${1:\$(this)}.is(${2:selector});
 ```
 
-### [jqlast] last
+### [jq.last] last
 
 ```javascript
 ${1:\$(this)}.last();
 ```
 
-### [jqmap] map
+### [jq.map] map
 
 ```javascript
 ${1:\$(this)}.map(${2:callback});
 ```
 
-### [jqnextall] nextAll
+### [jq.nextall] nextAll
 
 ```javascript
 ${1:\$(this)}.nextAll(${2:selector});
 ```
 
-### [jqnextuntil] nextUntil
+### [jq.nextuntil] nextUntil
 
 ```javascript
 ${1:\$(this)}.nextUntil(${2:element}${3:, filter});
 ```
 
-### [jqnext] next
+### [jq.next] next
 
 ```javascript
 ${1:\$(this)}.next(${2:selector});
 ```
 
-### [jqnot] not
+### [jq.not] not
 
 ```javascript
 ${1:\$(this)}.not(${2:selection});
 ```
 
-### [jqparent] parent
+### [jq.parent] parent
 
 ```javascript
 ${1:\$(this)}.parent(${2:selector});
 ```
 
-### [jqpuntil] parentsUntil
+### [jq.puntil] parentsUntil
 
 ```javascript
 ${1:\$(this)}.parentsUntil(${2:selector}${3:, selector});
 ```
 
-### [jqparents] parents
+### [jq.parents] parents
 
 ```javascript
 ${1:\$(this)}.parents(${2:selector});
 ```
 
-### [jqprevall] prevAll
+### [jq.prevall] prevAll
 
 ```javascript
 ${1:\$(this)}.prevAll(${2:selector});
 ```
 
-### [jqprevuntil] prevUntil
+### [jq.prevuntil] prevUntil
 
 ```javascript
 ${1:\$(this)}.prevUntil(${2:selector}${3:, filter});
 ```
 
-### [jqprev] prev
+### [jq.prev] prev
 
 ```javascript
 ${1:\$(this)}.prev(${2:selector});
 ```
 
-### [jqsiblings] siblings
+### [jq.siblings] siblings
 
 ```javascript
 ${1:\$(this)}.siblings(${2:selector});
 ```
 
-### [jqslice] slice
+### [jq.slice] slice
 
 ```javascript
 ${1:\$(this)}.slice(${2:start}${3:, end});

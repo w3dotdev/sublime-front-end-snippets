@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.Deferred(${2:beforeStart});
 ]]></content>
-  <tabTrigger>jqd</tabTrigger>
+  <tabTrigger>jq.d</tabTrigger>
   <description>jq - deferred</description>
 </snippet>

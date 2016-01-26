@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:first-of-type");
 ]]></content>
-  <tabTrigger>jq:ft</tabTrigger>
+  <tabTrigger>jq.:ft</tabTrigger>
   <description>jq - :first-of-type</description>
 </snippet>

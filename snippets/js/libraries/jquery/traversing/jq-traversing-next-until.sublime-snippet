@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.nextUntil(${2:element}${3:, filter});
 ]]></content>
-  <tabTrigger>jqnextuntil</tabTrigger>
+  <tabTrigger>jq.nextuntil</tabTrigger>
   <description>jq - nextUntil</description>
 </snippet>

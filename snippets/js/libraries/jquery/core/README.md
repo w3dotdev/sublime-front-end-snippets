@@ -1,24 +1,24 @@
 ## Core
 
-### [jqholdready] holdReady
+### [jq.holdready] holdReady
 
 ```javascript
 ${1:\$}.holdReady(${2:hold});
 ```
 
-### [jqjq] jQuery
+### [jq.jq] jQuery
 
 ```javascript
 ${1:\$}(${2:selector}${3:, context});
 ```
 
-### [jqnoc] noConflict
+### [jq.noc] noConflict
 
 ```javascript
 ${1:\$}.noConflict(${2:removeAll});
 ```
 
-### [jqwhen] when
+### [jq.when] when
 
 ```javascript
 ${1:\$}.when(${2:deferreds});

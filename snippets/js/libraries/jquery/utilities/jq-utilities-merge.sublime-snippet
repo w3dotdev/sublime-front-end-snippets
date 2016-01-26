@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.merge(${2:first}${3:, second});
 ]]></content>
-  <tabTrigger>jqmerge</tabTrigger>
+  <tabTrigger>jq.merge</tabTrigger>
   <description>jq - merge</description>
 </snippet>

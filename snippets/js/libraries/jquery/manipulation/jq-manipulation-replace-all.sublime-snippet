@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.replaceAll(${2:target});
 ]]></content>
-  <tabTrigger>jqreplaceall</tabTrigger>
+  <tabTrigger>jq.replaceall</tabTrigger>
   <description>jq - replaceAll</description>
 </snippet>

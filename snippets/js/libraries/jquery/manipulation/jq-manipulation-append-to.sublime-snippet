@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.appendTo(${2:content}${3:,content});
 ]]></content>
-  <tabTrigger>jqappendto</tabTrigger>
+  <tabTrigger>jq.appendto</tabTrigger>
   <description>jq - appendTo</description>
 </snippet>

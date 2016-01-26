@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.unique(${2:array});
 ]]></content>
-  <tabTrigger>jqunique</tabTrigger>
+  <tabTrigger>jq.unique</tabTrigger>
   <description>jq - unique</description>
 </snippet>

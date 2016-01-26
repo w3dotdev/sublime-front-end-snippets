@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.prevUntil(${2:selector}${3:, filter});
 ]]></content>
-  <tabTrigger>jqprevuntil</tabTrigger>
+  <tabTrigger>jq.prevuntil</tabTrigger>
   <description>jq - prevUntil</description>
 </snippet>

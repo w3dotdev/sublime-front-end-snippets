@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.serializeArray();
 ]]></content>
-  <tabTrigger>jqserarray</tabTrigger>
+  <tabTrigger>jq.serarray</tabTrigger>
   <description>jq - serializeArray</description>
 </snippet>

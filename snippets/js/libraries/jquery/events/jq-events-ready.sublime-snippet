@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.ready(${2:handler});
 ]]></content>
-  <tabTrigger>jqready</tabTrigger>
+  <tabTrigger>jq.ready</tabTrigger>
   <description>jq - ready</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.removeClass(${2:[className]});
 ]]></content>
-  <tabTrigger>jqrclass</tabTrigger>
+  <tabTrigger>jq.rclass</tabTrigger>
   <description>jq - removeClass</description>
 </snippet>

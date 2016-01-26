@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.removeProp(${2:propertyName});
 ]]></content>
-  <tabTrigger>jqrprop</tabTrigger>
+  <tabTrigger>jq.rprop</tabTrigger>
   <description>jq - removeProp</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:var callbacks = \$.Callbacks();}${2}${3:callbacks}.locked();
 ]]></content>
-  <tabTrigger>jqcblocked</tabTrigger>
+  <tabTrigger>jq.cblocked</tabTrigger>
   <description>jq - locked</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.currentTarget;
 ]]></content>
-  <tabTrigger>jqctarget</tabTrigger>
+  <tabTrigger>jq.ctarget</tabTrigger>
   <description>jq - currentTarget</description>
 </snippet>

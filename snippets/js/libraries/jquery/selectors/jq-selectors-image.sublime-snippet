@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:image");
 ]]></content>
-  <tabTrigger>jq:i</tabTrigger>
+  <tabTrigger>jq.:i</tabTrigger>
   <description>jq - :image</description>
 </snippet>

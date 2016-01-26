@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.focus(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jqfocus</tabTrigger>
+  <tabTrigger>jq.focus</tabTrigger>
   <description>jq - focus</description>
 </snippet>

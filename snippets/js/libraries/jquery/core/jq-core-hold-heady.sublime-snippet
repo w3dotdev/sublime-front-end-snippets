@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.holdReady(${2:hold});
 ]]></content>
-  <tabTrigger>jqholdready</tabTrigger>
+  <tabTrigger>jq.holdready</tabTrigger>
   <description>jq - holdReady</description>
 </snippet>

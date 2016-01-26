@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.fn.extend(${2:object});
 ]]></content>
-  <tabTrigger>jqfnextend</tabTrigger>
+  <tabTrigger>jq.fnextend</tabTrigger>
   <description>jq - fn.extend</description>
 </snippet>

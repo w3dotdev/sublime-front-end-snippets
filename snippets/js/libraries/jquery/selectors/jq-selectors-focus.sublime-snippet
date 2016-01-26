@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:focus");
 ]]></content>
-  <tabTrigger>jq:fo</tabTrigger>
+  <tabTrigger>jq.:fo</tabTrigger>
   <description>jq - :focus</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.prev(${2:selector});
 ]]></content>
-  <tabTrigger>jqprev</tabTrigger>
+  <tabTrigger>jq.prev</tabTrigger>
   <description>jq - prev</description>
 </snippet>

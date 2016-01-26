@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.which;
 ]]></content>
-  <tabTrigger>jqwhich</tabTrigger>
+  <tabTrigger>jq.which</tabTrigger>
   <description>jq - which</description>
 </snippet>

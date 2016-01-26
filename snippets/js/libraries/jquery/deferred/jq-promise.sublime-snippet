@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.promise(${2:type}${3:, target});
 ]]></content>
-  <tabTrigger>jqpromise</tabTrigger>
+  <tabTrigger>jq.promise</tabTrigger>
   <description>jq - promise</description>
 </snippet>

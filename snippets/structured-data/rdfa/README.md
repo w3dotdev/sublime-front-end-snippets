@@ -1,6 +1,6 @@
 # RDFa
 
-key: `zrdfa`
+key: `z.rdfa`
 
 ### Breadcrumb
 

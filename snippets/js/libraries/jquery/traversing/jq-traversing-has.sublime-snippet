@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.has(${2:selector});
 ]]></content>
-  <tabTrigger>jqhas</tabTrigger>
+  <tabTrigger>jq.has</tabTrigger>
   <description>jq - has</description>
 </snippet>

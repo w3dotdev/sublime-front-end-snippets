@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.innerWidth();
 ]]></content>
-  <tabTrigger>jqiwidth</tabTrigger>
+  <tabTrigger>jq.iwidth</tabTrigger>
   <description>jq - innerWidth</description>
 </snippet>

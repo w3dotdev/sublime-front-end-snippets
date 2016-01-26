@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.then()}.reject(${2:args});
 ]]></content>
-  <tabTrigger>jqreject</tabTrigger>
+  <tabTrigger>jq.reject</tabTrigger>
   <description>jq - reject</description>
 </snippet>

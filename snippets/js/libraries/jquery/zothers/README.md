@@ -1,6 +1,6 @@
 ## Others
 
-### [jqb] jQuery Boilerplate
+### [jq.b] jQuery Boilerplate
 
 ```javascript
 /**

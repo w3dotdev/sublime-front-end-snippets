@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:reset");
 ]]></content>
-  <tabTrigger>jq:re</tabTrigger>
+  <tabTrigger>jq.:re</tabTrigger>
   <description>jq - :reset</description>
 </snippet>

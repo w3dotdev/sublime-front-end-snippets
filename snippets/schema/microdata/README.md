@@ -1,10 +1,10 @@
 # Microdata Snippets
 
-Prefix `m*`
+Prefix `sm.*`
 
 ## Organization
 
-### [morg] http://schema.org/Organization
+### [sm.org] http://schema.org/Organization
 
 ```html
 itemscope="itemscope" itemtype="http://schema.org/Organization"
@@ -12,7 +12,7 @@ itemscope="itemscope" itemtype="http://schema.org/Organization"
 
 ## Action
 
-### [maction] http://schema.org/Action
+### [sm.action] http://schema.org/Action
 
 ```html
 itemscope="itemscope" itemtype="http://schema.org/Action"

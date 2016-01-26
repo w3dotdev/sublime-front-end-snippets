@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$("div")}.toggle(${2:duration}${3:,easing}${4:,complete});
 ]]></content>
-  <tabTrigger>jqtoggle</tabTrigger>
+  <tabTrigger>jq.toggle</tabTrigger>
   <description>jq - toggle</description>
 </snippet>

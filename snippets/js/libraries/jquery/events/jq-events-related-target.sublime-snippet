@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.relatedTarget;
 ]]></content>
-  <tabTrigger>jqrtarget</tabTrigger>
+  <tabTrigger>jq.rtarget</tabTrigger>
   <description>jq - relatedTarget</description>
 </snippet>

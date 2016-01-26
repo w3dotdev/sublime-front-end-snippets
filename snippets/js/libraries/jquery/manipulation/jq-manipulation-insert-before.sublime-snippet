@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.insertBefore(${2:target});
 ]]></content>
-  <tabTrigger>jqibefore</tabTrigger>
+  <tabTrigger>jq.ibefore</tabTrigger>
   <description>jq - insertBefore</description>
 </snippet>

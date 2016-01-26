@@ -1,30 +1,30 @@
 ## Offset
 
-### [jqoparent] offsetParent
+### [jq.oparent] offsetParent
 
 ```javascript
 ${1:\$(this)}.offsetParent();
 ```
 
-### [jqpos] position
+### [jq.pos] position
 
 ```javascript
 ${1:\$(this)}.position();
 ```
 
-### [jqscleft] scrollLeft
+### [jq.scleft] scrollLeft
 
 ```javascript
 ${1:\$(this)}.scrollLeft();
 ```
 
-### [jqsctop] scrollTop
+### [jq.sctop] scrollTop
 
 ```javascript
 ${1:\$(this)}.scrollTop();
 ```
 
-### [jqoset] offset
+### [jq.oset] offset
 
 ```javascript
 ${1:\$(this)}.offset();

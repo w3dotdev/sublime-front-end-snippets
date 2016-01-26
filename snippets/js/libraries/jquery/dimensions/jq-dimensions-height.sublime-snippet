@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.height();
 ]]></content>
-  <tabTrigger>jqheight</tabTrigger>
+  <tabTrigger>jq.height</tabTrigger>
   <description>jq - height</description>
 </snippet>

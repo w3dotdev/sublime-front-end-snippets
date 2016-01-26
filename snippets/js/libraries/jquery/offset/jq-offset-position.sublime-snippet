@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.position();
 ]]></content>
-  <tabTrigger>jqpos</tabTrigger>
+  <tabTrigger>jq.pos</tabTrigger>
   <description>jq - position</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.get("")}.done(${2:doneCallbacks}${3:,doneCallbacks});
 ]]></content>
-  <tabTrigger>jqdone</tabTrigger>
+  <tabTrigger>jq.done</tabTrigger>
   <description>jq - done</description>
 </snippet>

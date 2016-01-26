@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.fn}.jquery;
 ]]></content>
-  <tabTrigger>jqjprop</tabTrigger>
+  <tabTrigger>jq.jprop</tabTrigger>
   <description>jq - jquery</description>
 </snippet>

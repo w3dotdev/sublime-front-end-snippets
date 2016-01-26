@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.offset();
 ]]></content>
-  <tabTrigger>jqoset</tabTrigger>
+  <tabTrigger>jq.oset</tabTrigger>
   <description>jq - offset</description>
 </snippet>

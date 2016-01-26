@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.outerWidth(${2:includeMargin});
 ]]></content>
-  <tabTrigger>jqowidth</tabTrigger>
+  <tabTrigger>jq.owidth</tabTrigger>
   <description>jq - outerWidth</description>
 </snippet>

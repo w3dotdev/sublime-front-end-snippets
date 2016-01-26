@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.dblclick(${2:eventData}${3:,handler});
 ]]></content>
-  <tabTrigger>jqdclick</tabTrigger>
+  <tabTrigger>jq.dclick</tabTrigger>
   <description>jq - dblclick</description>
 </snippet>

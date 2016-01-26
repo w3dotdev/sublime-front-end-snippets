@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.now();
 ]]></content>
-  <tabTrigger>jqnow</tabTrigger>
+  <tabTrigger>jq.now</tabTrigger>
   <description>jq - now</description>
 </snippet>

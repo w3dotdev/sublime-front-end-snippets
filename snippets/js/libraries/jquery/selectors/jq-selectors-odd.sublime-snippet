@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:odd(${3:index})");
 ]]></content>
-  <tabTrigger>jq:o</tabTrigger>
+  <tabTrigger>jq.:o</tabTrigger>
   <description>jq - :odd</description>
 </snippet>

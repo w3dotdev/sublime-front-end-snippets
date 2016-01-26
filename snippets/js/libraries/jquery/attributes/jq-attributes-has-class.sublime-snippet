@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.hasClass(${2:className});
 ]]></content>
-  <tabTrigger>jqhasclass</tabTrigger>
+  <tabTrigger>jq.hasclass</tabTrigger>
   <description>jq - hasClass</description>
 </snippet>

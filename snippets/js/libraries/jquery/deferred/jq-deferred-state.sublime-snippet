@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$.resolve()}.state();
 ]]></content>
-  <tabTrigger>jqstate</tabTrigger>
+  <tabTrigger>jq.state</tabTrigger>
   <description>jq - state</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}("${2}:nth-of-type(${3:index})");
 ]]></content>
-  <tabTrigger>jq:nt</tabTrigger>
+  <tabTrigger>jq.:nt</tabTrigger>
   <description>jq - :nth-of-type</description>
 </snippet>

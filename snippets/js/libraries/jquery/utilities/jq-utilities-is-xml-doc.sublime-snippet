@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.isXMLDoc(${2:node});
 ]]></content>
-  <tabTrigger>jqixmldoc</tabTrigger>
+  <tabTrigger>jq.ixmldoc</tabTrigger>
   <description>jq - isXMLDoc</description>
 </snippet>

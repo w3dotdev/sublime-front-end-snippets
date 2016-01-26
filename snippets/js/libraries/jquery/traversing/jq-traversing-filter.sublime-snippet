@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.filter(${2:elements});
 ]]></content>
-  <tabTrigger>jqfilter</tabTrigger>
+  <tabTrigger>jq.filter</tabTrigger>
   <description>jq - filter</description>
 </snippet>

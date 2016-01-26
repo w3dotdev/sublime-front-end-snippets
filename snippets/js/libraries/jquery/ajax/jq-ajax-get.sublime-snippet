@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$}.get(${2:url}${3:, data}${4:, success}${5:, dataType});
 ]]></content>
-  <tabTrigger>jqjget</tabTrigger>
+  <tabTrigger>jq.jget</tabTrigger>
   <description>jq - jQuery get</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.mouseleave(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jqmleave</tabTrigger>
+  <tabTrigger>jq.mleave</tabTrigger>
   <description>jq - mouseleave</description>
 </snippet>

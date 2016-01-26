@@ -1,114 +1,114 @@
 ## Manipulation
 
-### [jqafter] after
+### [jq.after] after
 
 ```javascript
 ${1:\$(this)}.after(${2:content}${3:,content});
 ```
 
-### [jqappendto] appendTo
+### [jq.appendto] appendTo
 
 ```javascript
 ${1:\$(this)}.appendTo(${2:content}${3:,content});
 ```
 
-### [jqappend] append
+### [jq.append] append
 
 ```javascript
 ${1:\$(this)}.append(${2:content}${3:,content});
 ```
 
-### [jqbefore] before
+### [jq.before] before
 
 ```javascript
 ${1:\$(this)}.before(${2:content}${3:,content});
 ```
 
-### [jqclone] clone
+### [jq.clone] clone
 
 ```javascript
 ${1:\$(this)}.clone(${2:withDataAndEvents}${3:,deepWithDataAndEvents});
 ```
 
-### [jqdetach] detach
+### [jq.detach] detach
 
 ```javascript
 ${1:\$(this)}.detach(${2:selector});
 ```
 
-### [jqempty] empty
+### [jq.empty] empty
 
 ```javascript
 ${1:\$(this)}.empty();
 ```
 
-### [jqiafter] insertAfter
+### [jq.iafter] insertAfter
 
 ```javascript
 ${1:\$(this)}.insertAfter(${2:target});
 ```
 
-### [jqibefore] insertBefore
+### [jq.ibefore] insertBefore
 
 ```javascript
 ${1:\$(this)}.insertBefore(${2:target});
 ```
 
-### [jqprependto] prependTo
+### [jq.prependto] prependTo
 
 ```javascript
 ${1:\$(this)}.prependTo(${2:target});
 ```
 
-### [jqprepend] prepend
+### [jq.prepend] prepend
 
 ```javascript
 ${1:\$(this)}.prepend(${2:content}${3:,content});
 ```
 
-### [jqremove] remove
+### [jq.remove] remove
 
 ```javascript
 ${1:\$(this)}.remove(${2:selector});
 ```
 
-### [jqreplaceall] replaceAll
+### [jq.replaceall] replaceAll
 
 ```javascript
 ${1:\$(this)}.replaceAll(${2:target});
 ```
 
-### [jqreplacewith] replaceWith
+### [jq.replacewith] replaceWith
 
 ```javascript
 ${1:\$(this)}.replaceWith(${2:newContent});
 ```
 
-### [jqtext] text
+### [jq.text] text
 
 ```javascript
 ${1:\$(this)}.text();
 ```
 
-### [jqunwrap] unwrap
+### [jq.unwrap] unwrap
 
 ```javascript
 ${1:\$(this)}.unwrap();
 ```
 
-### [jqwall] wrapAll
+### [jq.wall] wrapAll
 
 ```javascript
 ${1:\$(this)}.wrapAll(${2:wrappingElement});
 ```
 
-### [jqwinner] wrapInner
+### [jq.winner] wrapInner
 
 ```javascript
 ${1:\$(this)}.wrapInner(${2:wrappingElement});
 ```
 
-### [jqwrap] wrap
+### [jq.wrap] wrap
 
 ```javascript
 ${1:\$(this)}.wrap(${2:wrappingElement});

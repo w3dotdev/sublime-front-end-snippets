@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.pageX;
 ]]></content>
-  <tabTrigger>jqpx</tabTrigger>
+  <tabTrigger>jq.px</tabTrigger>
   <description>jq - pageX</description>
 </snippet>

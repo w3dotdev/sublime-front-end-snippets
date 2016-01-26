@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\event}.metaKey;
 ]]></content>
-  <tabTrigger>jqmkey</tabTrigger>
+  <tabTrigger>jq.mkey</tabTrigger>
   <description>jq - metaKey</description>
 </snippet>

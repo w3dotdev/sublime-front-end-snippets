@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(document)}.mousedown(${2:eventData}${3:, handler});
 ]]></content>
-  <tabTrigger>jqmdown</tabTrigger>
+  <tabTrigger>jq.mdown</tabTrigger>
   <description>jq - mousedown</description>
 </snippet>
