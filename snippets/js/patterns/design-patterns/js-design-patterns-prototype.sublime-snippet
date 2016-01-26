@@ -1,6 +1,13 @@
 <snippet>
   <content><![CDATA[
-
+function ${1:Car}() {
+    // constructor...
+}
+${2:${1:Car}.prototype.${3:drive} = function () \{
+    ${4: // body...}
+\};}
+return ${1:Car};
+${0}
 ]]></content>
   <tabTrigger>jdp.prototype</tabTrigger>
   <description>jdp - Prototype</description>

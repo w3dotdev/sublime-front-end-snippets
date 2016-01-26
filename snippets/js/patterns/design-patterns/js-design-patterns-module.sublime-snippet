@@ -1,6 +1,14 @@
 <snippet>
   <content><![CDATA[
-
+var ${1:moduleName} = (function() {
+  'use strict';
+  var ${1:moduleName} = {
+    init: {
+      $2
+    }
+  };
+  return ${1:moduleName};
+}());
 ]]></content>
   <tabTrigger>jdp.module</tabTrigger>
   <description>jdp - Module</description>

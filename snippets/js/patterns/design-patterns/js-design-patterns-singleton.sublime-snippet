@@ -1,6 +1,16 @@
 <snippet>
   <content><![CDATA[
-
+var ${1:name} = (function() {
+  'use strict';
+  var instance;
+  ${1:name} = function(${2:args}) {
+    if (instance) {
+      return instance;
+    }
+    instance = this;
+    ${3:// your code goes here}
+  };
+  return ${1:name};
 ]]></content>
   <tabTrigger>jdp.singleton</tabTrigger>
   <description>jdp - Singleton</description>
