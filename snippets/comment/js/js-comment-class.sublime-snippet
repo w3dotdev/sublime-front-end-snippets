@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * @class ${1:Class name}
+ * @param {${2:String}} ${3:Description of the param}
+ * @extends ${4:name of the }
+ * ${5:Documentation for the class}
+ */
+]]></content>
+  <tabTrigger>xjclass</tabTrigger>
+  <description>xj - Class Comment</description>
+</snippet>
