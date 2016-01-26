@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+beforeEach(function() {
+  ${1}
+});
+]]></content>
+  <tabTrigger>ts.beforeeach</tabTrigger>
+  <description>ts - beforeEach</description>
+</snippet>

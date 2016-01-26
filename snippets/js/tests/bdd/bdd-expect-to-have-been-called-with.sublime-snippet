@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toHaveBeenCalledWith(${2}, ${3});
+]]></content>
+  <tabTrigger>tb.hbcwith</tabTrigger>
+  <description>tb - Expect toHaveBeenCalledWith</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toThrow(${2});
+]]></content>
+  <tabTrigger>tb.throw</tabTrigger>
+  <description>tb - Expect toThrow</description>
+</snippet>

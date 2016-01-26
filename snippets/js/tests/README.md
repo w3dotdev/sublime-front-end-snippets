@@ -1,0 +1,41 @@
+# Tests JavaScript Snippets
+
+- [Structure](structure/)
+  - afterEach
+  - beforeEach
+  - describe
+  - it
+- [BDD](bdd/) (expect)
+  - toBeCloseTo
+  - toBeContain
+  - toBeDefined
+  - toBeFalsy
+  - toBeGreaterThan
+  - toBeLessThan
+  - toBeNaN
+  - toBeNull
+  - toBeTruthy
+  - toBeUndefined
+  - toBe
+  - toEqual
+  - toHaveBeenCalledTimes
+  - toHaveBeenCalledWith
+  - toHaveBeenCalled
+  - toMatch
+  - toThrowError
+  - toThrow
+- [TDD](tdd/) (assert)
+  - assert
+  - ok
+  - deepEqual
+  - deepStrictEqual
+  - doesNotThrow
+  - equal
+  - fail
+  - ifError
+  - notDeepEqual
+  - notDeepStrictEqual
+  - notEqual
+  - notStrictEqual
+  - strictEqual
+  - throws

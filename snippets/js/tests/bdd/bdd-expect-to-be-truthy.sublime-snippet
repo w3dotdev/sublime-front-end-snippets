@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toBeTruthy();
+]]></content>
+  <tabTrigger>tb.truthy</tabTrigger>
+  <description>tb - Expect toBeTruthy</description>
+</snippet>

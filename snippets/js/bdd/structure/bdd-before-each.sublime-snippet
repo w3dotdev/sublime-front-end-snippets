@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-beforeEach(function() {
-  ${1}
-});
-]]></content>
-  <tabTrigger>bbeforeeach</tabTrigger>
-  <description>b - beforeEach</description>
-</snippet>

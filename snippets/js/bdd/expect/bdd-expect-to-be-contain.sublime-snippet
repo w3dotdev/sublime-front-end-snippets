@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-expect(${1}).toBeContain(${2});
-]]></content>
-  <tabTrigger>bcontain</tabTrigger>
-  <description>b - Expect toBeContain</description>
-</snippet>

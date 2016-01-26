@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).toBeNaN();
+]]></content>
+  <tabTrigger>tb.nan</tabTrigger>
+  <description>tb - Expect toBeNaN</description>
+</snippet>

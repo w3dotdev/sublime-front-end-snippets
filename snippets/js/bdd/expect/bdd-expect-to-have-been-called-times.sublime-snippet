@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-expect(${1}).toHaveBeenCalledTimes(${2});
-]]></content>
-  <tabTrigger>bhbctimes</tabTrigger>
-  <description>b - Expect toHaveBeenCalledTimes</description>
-</snippet>

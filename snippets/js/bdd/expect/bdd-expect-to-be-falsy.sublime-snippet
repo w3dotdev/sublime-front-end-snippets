@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-expect(${1}).toBeFalsy();
-]]></content>
-  <tabTrigger>bfalsy</tabTrigger>
-  <description>b - Expect toBeFalsy</description>
-</snippet>

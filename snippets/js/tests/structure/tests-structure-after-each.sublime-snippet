@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+afterEach(function() {
+  ${1}
+});
+]]></content>
+  <tabTrigger>ts.aftereach</tabTrigger>
+  <description>ts - afterEach</description>
+</snippet>

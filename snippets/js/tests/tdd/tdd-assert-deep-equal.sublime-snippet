@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+assert.deepEqual(${1:actual}, ${1:expected} ${2:, message});
+]]></content>
+  <tabTrigger>tt.dequal</tabTrigger>
+  <description>tt - Assert deepEqual</description>
+</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-expect(${1}).toMatch(${2});
-]]></content>
-  <tabTrigger>bmatch</tabTrigger>
-  <description>b - Expect toMatch</description>
-</snippet>

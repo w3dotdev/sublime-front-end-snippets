@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-expect(${1}).toThrowError(${2});
-]]></content>
-  <tabTrigger>bthrowerror</tabTrigger>
-  <description>b - Expect toThrowError</description>
-</snippet>

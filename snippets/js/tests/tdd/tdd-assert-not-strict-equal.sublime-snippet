@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+assert.notStrictEqual(${1:actual}, ${1:expected} ${2:, message});
+]]></content>
+  <tabTrigger>tt.nsequal</tabTrigger>
+  <description>tt - Assert notStrictEqual</description>
+</snippet>

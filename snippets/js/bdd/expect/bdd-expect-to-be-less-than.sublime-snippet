@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-expect(${1}).toBeLessThan(${2});
-]]></content>
-  <tabTrigger>blessthan</tabTrigger>
-  <description>b - Expect toBeLessThan</description>
-</snippet>
