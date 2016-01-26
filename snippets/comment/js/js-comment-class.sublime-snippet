@@ -7,6 +7,6 @@
  * ${5:Documentation for the class}
  */
 ]]></content>
-  <tabTrigger>xjclass</tabTrigger>
-  <description>xj - Class Comment</description>
+  <tabTrigger>jc.class</tabTrigger>
+  <description>jc - Class Comment</description>
 </snippet>

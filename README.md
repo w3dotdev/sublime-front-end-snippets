@@ -20,15 +20,20 @@ You can see all installed snippets in `Tools > Snippets...`, in the sublime text
   - [WAI-ARIA - hw.*](snippets/html/wai-aria)
 - [CSS - c*](snippets/css/) 
 - [JavaScript - j*](snippets/js/vanilla)
-  - [BDD - b*](snippets/js/bdd)
-  - [jQuery - jq*](snippets/js/jquery)
+  - Libraries
+    - [jQuery - jq*](snippets/js/libraries/jquery)
+  - Patterns
+  - Tests
+    - [Structure - ts.*](snippets/js/tests/structure)
+    - [BDD - tb.*](snippets/js/tests/bdd)
+    - [TDD - tt.*](snippets/js/tests/tdd)
 - Schema.org
   - [Microdata](snippets/schema/microdata)
 - [External - e*](snippets/external/)
 - [Comment](snippets/comment/)
-  - [HTML - xh*](snippets/comment/html)
-  - [CSS - xc*](snippets/comment/css)
-  - [JavaScript - xj*](snippets/comment/js)
+  - [HTML - hc.*](snippets/comment/html)
+  - [CSS - cc.*](snippets/comment/css)
+  - [JavaScript - jc.*](snippets/comment/js)
 - [Structure data](snippets/structured-data) (***examples***)
   - [Microdata - zmicrodata](snippets/structured-data/microdata)
   - [JSON-LD - zjsonld](snippets/structured-data/json-ld)

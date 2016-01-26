@@ -4,6 +4,6 @@
 ${2:description}
 -->
 ]]></content>
-  <tabTrigger>xhblock</tabTrigger>
-  <description>xh - Block Comment</description>
+  <tabTrigger>hc.block</tabTrigger>
+  <description>hc - Block Comment</description>
 </snippet>

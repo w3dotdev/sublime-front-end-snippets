@@ -3,27 +3,6 @@ Front-end Project Snippets
 
 You can see all installed snippets in Tools > Snippets... .
 
-Snippets:
-- HTML
-  - Microdata
-  - WAI-ARIA
-- CSS
-- JavaScript
-  - BDD
-  - jQuery
-- Schema.org
-  - Microdata
-- External
-- Comment
-  - HTML
-  - CSS
-  - JavaScript
-- Structure data (examples)
-  - Microdata
-  - JSON-LD
-  - RDFa
-
-
 To find out more checkout the readme at https://github.com/brazilian-dev/sublime-front-end-snippets
 
 Report issues at https://github.com/brazilian-dev/sublime-front-end-snippets/issues

@@ -2,6 +2,6 @@
   <content><![CDATA[
 <!-- ${1:div} -->
 ]]></content>
-  <tabTrigger>xhbasic</tabTrigger>
-  <description>xh - Basic Comment</description>
+  <tabTrigger>hc.basic</tabTrigger>
+  <description>hc - Basic Comment</description>
 </snippet>

@@ -6,6 +6,6 @@
  * @param {${3:String}} ${4:Description of the param}
  */
 ]]></content>
-  <tabTrigger>xjevent</tabTrigger>
-  <description>xj - Event Comment</description>
+  <tabTrigger>jc.event</tabTrigger>
+  <description>jc - Event Comment</description>
 </snippet>

@@ -9,6 +9,6 @@
  * @param {${4:String}} ${5:Description of the param}
  */
 ]]></content>
-  <tabTrigger>xjconstructor</tabTrigger>
-  <description>xj - Constructor Comment</description>
+  <tabTrigger>jc.constructor</tabTrigger>
+  <description>jc - Constructor Comment</description>
 </snippet>

@@ -1,14 +1,14 @@
 # HTML Comments Snippets
 
-Prefix `xh*`
+Prefix `hc.*`
 
-### [xhbasic] basic
+### [hc.basic] basic
 
 ```html
 <!-- ${1:div} -->
 ```
 
-### [xhblock] block
+### [hc.block] block
 
 ```html
 <!-- ${1:title}
@@ -16,7 +16,7 @@ ${2:description}
 -->
 ```
 
-### [xhcond] conditional
+### [hc.cond] conditional
 
 ```html
 <!--[if ${1:IE} ${2:8}]>
@@ -24,7 +24,7 @@ ${2:description}
 <![endif]-->
 ```
 
-### [xhend] end tag
+### [hc.end] end tag
 
 ```html
 <!-- // ${1:div} -->

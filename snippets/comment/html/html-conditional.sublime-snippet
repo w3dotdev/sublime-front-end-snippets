@@ -4,6 +4,6 @@
   ${3}
 <![endif]-->
 ]]></content>
-  <tabTrigger>xhcond</tabTrigger>
-  <description>xh - Conditional Comment</description>
+  <tabTrigger>hc.cond</tabTrigger>
+  <description>hc - Conditional Comment</description>
 </snippet>
