@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+assert.lengthOf(${1:actual}, ${1:expected} ${2:, message});
+]]></content>
+  <tabTrigger>tt.lengthof</tabTrigger>
+  <description>tt - Assert lengthOf</description>
+</snippet>

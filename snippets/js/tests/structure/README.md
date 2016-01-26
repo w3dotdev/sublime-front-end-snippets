@@ -21,8 +21,8 @@ after(function() {
 ### [ts.beforeeach] beforeEach
 
 ```javascript
-beforeEach(function() {
-  ${1}
+beforeEach(${1:'some description', }function${2: namedFun}() {
+  ${3:beforeEach hook}
 });
 ```
 

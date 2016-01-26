@@ -7,37 +7,12 @@
   - before
   - describe
   - it
-- [BDD](bdd/) (expect)
-  - toBeCloseTo
-  - toBeContain
-  - toBeDefined
-  - toBeFalsy
-  - toBeGreaterThan
-  - toBeLessThan
-  - toBeNaN
-  - toBeNull
-  - toBeTruthy
-  - toBeUndefined
-  - toBe
-  - toEqual
-  - toHaveBeenCalledTimes
-  - toHaveBeenCalledWith
-  - toHaveBeenCalled
-  - toMatch
-  - toThrowError
-  - toThrow
+- [BDD](bdd/)
+  - expect
+    - chai
+    - jasmine
+  - should
+    - chai
 - [TDD](tdd/) (assert)
-  - assert
-  - ok
-  - deepEqual
-  - deepStrictEqual
-  - doesNotThrow
-  - equal
-  - fail
-  - ifError
-  - notDeepEqual
-  - notDeepStrictEqual
-  - notEqual
-  - notStrictEqual
-  - strictEqual
-  - throws
+  - chai
+  - node

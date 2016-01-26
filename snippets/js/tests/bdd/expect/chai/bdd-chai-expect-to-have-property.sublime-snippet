@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${1}).to.have.property(${2}).with.length(${3});
+]]></content>
+  <tabTrigger>tb.tohp</tabTrigger>
+  <description>tb - Expect to.have.property</description>
+</snippet>

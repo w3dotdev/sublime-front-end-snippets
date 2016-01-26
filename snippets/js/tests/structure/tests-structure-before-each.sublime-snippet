@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-beforeEach(function() {
-  ${1}
+beforeEach(${1:'some description', }function${2: namedFun}() {
+  ${3:beforeEach hook}
 });
 ]]></content>
   <tabTrigger>ts.beforeeach</tabTrigger>

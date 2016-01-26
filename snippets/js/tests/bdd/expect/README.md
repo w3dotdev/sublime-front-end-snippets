@@ -1,0 +1,26 @@
+# Expect JavaScript Snippets
+
+- [Chai](chai/)
+  - to.be.a
+  - to.equal
+  - to.have.length
+  - to.have.property
+- [Jasmine](jasmine/)
+  - toBeCloseTo
+  - toBeContain
+  - toBeDefined
+  - toBeFalsy
+  - toBeGreaterThan
+  - toBeLessThan
+  - toBeNaN
+  - toBeNull
+  - toBeTruthy
+  - toBeUndefined
+  - toBe
+  - toEqual
+  - toHaveBeenCalledTimes
+  - toHaveBeenCalledWith
+  - toHaveBeenCalled
+  - toMatch
+  - toThrowError
+  - toThrow

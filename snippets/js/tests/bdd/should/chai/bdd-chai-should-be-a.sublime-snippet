@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1}.should.be.a(${2});
+]]></content>
+  <tabTrigger>tb.bea</tabTrigger>
+  <description>tb - Should be.a</description>
+</snippet>
