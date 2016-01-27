@@ -1,6 +1,30 @@
 <snippet>
   <content><![CDATA[
+(function(){
 
+  var ${1:carManager} = {
+
+    ${2:requestInfo}: function( ${2:model}, ${3:id} ){
+      return ${4:"The information for " + ${2:model} + " with ID " + ${3:id} + " is foobar"};
+    },
+
+    ${5:buyVehicle}: function( ${5:model}, ${6:id} ){
+      return ${7:"You have successfully purchased Item " + ${6:id} + ", a " + ${5:model}};
+    },
+
+    ${8:arrangeViewing}: function( ${9:model}, ${10:id} ){
+      return ${11:"You have successfully booked a viewing of " + ${9:model} + " ( " + ${10:id} + " ) "};
+    }
+
+  };
+
+  ${1:carManager}.${12:execute} = function ( ${13:name} ) {
+    return ${1:carManager}[${13:name}] && ${1:carManager}[${13:name}].apply( ${1:carManager}, [].slice.call(arguments, 1) );
+  };
+
+  ${1:carManager}.${12:execute}( "${14:buyVehicle}", "${15:Ford Escort}", "${16:453543}" );
+
+})();
 ]]></content>
   <tabTrigger>jdp.command</tabTrigger>
   <description>jdp - Command</description>

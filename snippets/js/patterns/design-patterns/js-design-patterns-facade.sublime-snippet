@@ -1,6 +1,25 @@
 <snippet>
   <content><![CDATA[
+var ${1:MyModule} = ( function( window, undefined ) {
 
+  function ${1:MyModule}() {
+
+    function ${2:someMethod}() {
+      ${3:alert( 'some method' );}
+    }
+
+    function ${4:someOtherMethod}() {
+      ${5:alert( 'some other method' );}
+    }
+
+    return {
+      ${2:someMethod} : function() {
+        ${2:someMethod}();
+      }
+    };
+  }
+
+} )( window );
 ]]></content>
   <tabTrigger>jdp.facade</tabTrigger>
   <description>jdp - Facade</description>

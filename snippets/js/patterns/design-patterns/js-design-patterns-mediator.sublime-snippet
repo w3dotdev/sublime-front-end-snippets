@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-
+${1}
 ]]></content>
   <tabTrigger>jdp.mediator</tabTrigger>
   <description>jdp - Mediator</description>

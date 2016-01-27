@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-
+${1}
 ]]></content>
   <tabTrigger>jdp.observer</tabTrigger>
   <description>jdp - Observer</description>

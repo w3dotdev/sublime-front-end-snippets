@@ -1,6 +1,25 @@
 <snippet>
   <content><![CDATA[
+function ${1:vehicle}( ${2:vehicleType} ){
+  this.${2:vehicleType} = ${2:vehicleType} || '${3:car}',
+    this.${4:model} = '${5:default}',
+    this.${6:license} = '${7:00000-000}'
+}
 
+var ${8:testInstance} = new ${1:vehicle}('${3:car}');
+var ${9:truck} = new ${1:vehicle}('truck');
+
+${9:truck}.${10:setModel} = function( ${11:modelName} ){
+    this.${4:model} = ${11:modelName};
+}
+${9:truck}.${12:setColor} = function( ${13:color} ){
+    this.${13:color} = ${13:color};
+}
+
+${9:truck}.${10:setModel}('${14:CAT}');
+${9:truck}.${12:setColor}('${15:blue}');
+
+var ${16:secondInstance} = new ${1:vehicle}('${3:car}');
 ]]></content>
   <tabTrigger>jdp.decorator</tabTrigger>
   <description>jdp - Decorator</description>
