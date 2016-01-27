@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-assert.throws(${1:block}, ${1:error} ${2:, message});
+assert.throws(${1:block}, ${2:error} ${3:, message});
 ]]></content>
   <tabTrigger>tn.throws</tabTrigger>
   <description>tn - Assert throws</description>

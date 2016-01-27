@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-assert.notEqual(${1:actual}, ${1:expected} ${2:, message});
+assert.notEqual(${1:actual}, ${2:expected} ${3:, message});
 ]]></content>
   <tabTrigger>tn.nequal</tabTrigger>
   <description>tn - Assert notEqual</description>

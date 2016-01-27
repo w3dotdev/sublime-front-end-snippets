@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-assert.deepEqual(${1:actual}, ${1:expected} ${2:, message});
+assert.deepEqual(${1:actual}, ${2:expected} ${3:, message});
 ]]></content>
   <tabTrigger>tn.dequal</tabTrigger>
   <description>tn - Assert deepEqual</description>
