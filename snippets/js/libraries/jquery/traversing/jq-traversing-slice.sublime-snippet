@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:\$(this)}.slice(${2:start}${3:, end});
 ]]></content>
-  <tabTrigger>jq.-tsl</tabTrigger>
+  <tabTrigger>jq.tsl</tabTrigger>
   <description>jq - slice</description>
 </snippet>
