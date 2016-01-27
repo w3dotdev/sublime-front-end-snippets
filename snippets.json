@@ -1927,202 +1927,202 @@
   {
     "description": "j - if else", 
     "id": 386, 
-    "trigger": "jifelse"
+    "trigger": "j.ifelse"
   }, 
   {
     "description": "j - switch", 
     "id": 387, 
-    "trigger": "jswitch"
+    "trigger": "j.switch"
   }, 
   {
     "description": "j - console.dir", 
     "id": 388, 
-    "trigger": "jcd"
+    "trigger": "j.cd"
   }, 
   {
     "description": "j - console.error", 
     "id": 389, 
-    "trigger": "jce"
+    "trigger": "j.ce"
   }, 
   {
     "description": "j - console.info", 
     "id": 390, 
-    "trigger": "jci"
+    "trigger": "j.ci"
   }, 
   {
     "description": "j - console.log", 
     "id": 391, 
-    "trigger": "jcl"
+    "trigger": "j.cl"
   }, 
   {
     "description": "j - console.warn", 
     "id": 392, 
-    "trigger": "jcw"
+    "trigger": "j.cw"
   }, 
   {
     "description": "j - addEventListener", 
     "id": 393, 
-    "trigger": "j-ael"
+    "trigger": "j.-ael"
   }, 
   {
     "description": "j - appendChild", 
     "id": 394, 
-    "trigger": "jac"
+    "trigger": "j.ac"
   }, 
   {
     "description": "j - classList.add", 
     "id": 395, 
-    "trigger": "jcla"
+    "trigger": "j.cla"
   }, 
   {
     "description": "j - classList.remove", 
     "id": 396, 
-    "trigger": "jclr"
+    "trigger": "j.clr"
   }, 
   {
     "description": "j - classList.toggle", 
     "id": 397, 
-    "trigger": "jclt"
+    "trigger": "j.clt"
   }, 
   {
     "description": "j - createDocumentFragment", 
     "id": 398, 
-    "trigger": "jcdf"
+    "trigger": "j.cdf"
   }, 
   {
     "description": "j - createElement", 
     "id": 399, 
-    "trigger": "jcel"
+    "trigger": "j.cel"
   }, 
   {
     "description": "j - getAttribute", 
     "id": 400, 
-    "trigger": "jgattr"
+    "trigger": "j.gattr"
   }, 
   {
     "description": "j - getElementById", 
     "id": 401, 
-    "trigger": "jgid"
+    "trigger": "j.gid"
   }, 
   {
     "description": "j - getElementsByClassName", 
     "id": 402, 
-    "trigger": "jgclass"
+    "trigger": "j.gclass"
   }, 
   {
     "description": "j - getElementsByTagName", 
     "id": 403, 
-    "trigger": "jgtag"
+    "trigger": "j.gtag"
   }, 
   {
     "description": "j - innerHTML", 
     "id": 404, 
-    "trigger": "jih"
+    "trigger": "j.ih"
   }, 
   {
     "description": "j - querySelectorAll", 
     "id": 405, 
-    "trigger": "jqsa"
+    "trigger": "j.qsa"
   }, 
   {
     "description": "j - querySelector", 
     "id": 406, 
-    "trigger": "jqs"
+    "trigger": "j.qs"
   }, 
   {
     "description": "j - removeAttribute", 
     "id": 407, 
-    "trigger": "jrattr"
+    "trigger": "j.rattr"
   }, 
   {
     "description": "j - removeChild", 
     "id": 408, 
-    "trigger": "jrc"
+    "trigger": "j.rc"
   }, 
   {
     "description": "j - setAttribute", 
     "id": 409, 
-    "trigger": "jsattr"
+    "trigger": "j.sattr"
   }, 
   {
     "description": "j - textContent", 
     "id": 410, 
-    "trigger": "jtc"
+    "trigger": "j.tc"
   }, 
   {
     "description": "j - Anonymous Function", 
     "id": 411, 
-    "trigger": "jafn"
+    "trigger": "j.afn"
   }, 
   {
     "description": "j - Function apply", 
     "id": 412, 
-    "trigger": "japply"
+    "trigger": "j.apply"
   }, 
   {
     "description": "j - Function call", 
     "id": 413, 
-    "trigger": "jcall"
+    "trigger": "j.call"
   }, 
   {
     "description": "j - Immediately-invoked function expression", 
     "id": 414, 
-    "trigger": "j-iife"
+    "trigger": "j.-iife"
   }, 
   {
     "description": "j - Prototype", 
     "id": 415, 
-    "trigger": "jprot"
+    "trigger": "j.prot"
   }, 
   {
     "description": "j - Function", 
     "id": 416, 
-    "trigger": "jfn"
+    "trigger": "j.fn"
   }, 
   {
     "description": "j - JSON.parse", 
     "id": 417, 
-    "trigger": "jjsonp"
+    "trigger": "j.jsonp"
   }, 
   {
     "description": "j - JSON.stringify", 
     "id": 418, 
-    "trigger": "jjsons"
+    "trigger": "j.jsons"
   }, 
   {
     "description": "j - do while", 
     "id": 419, 
-    "trigger": "jdowhile"
+    "trigger": "j.dowhile"
   }, 
   {
     "description": "j - forEach", 
     "id": 420, 
-    "trigger": "jfore"
+    "trigger": "j.fore"
   }, 
   {
     "description": "j - for in", 
     "id": 421, 
-    "trigger": "jfori"
+    "trigger": "j.fori"
   }, 
   {
     "description": "j - for", 
     "id": 422, 
-    "trigger": "jfor"
+    "trigger": "j.for"
   }, 
   {
     "description": "j - while", 
     "id": 423, 
-    "trigger": "jwhile"
+    "trigger": "j.while"
   }, 
   {
     "description": "j - setInterval", 
     "id": 424, 
-    "trigger": "jsinterval"
+    "trigger": "j.sinterval"
   }, 
   {
     "description": "j - setTimeout", 
     "id": 425, 
-    "trigger": "jstimeout"
+    "trigger": "j.stimeout"
   }, 
   {
     "description": "sm - Action", 
