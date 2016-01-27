@@ -2,6 +2,7 @@
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/LICENSE.md)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/sublime-front-end-snippets.svg)](https://github.com/brazilian-dev/sublime-front-end-snippets/issues)
+[![Latest tag][tag-image]][tag-url]
 
 ![animation](https://cloud.githubusercontent.com/assets/1963897/12625364/a94decc8-c51a-11e5-8546-ca331af65982.gif)
 
