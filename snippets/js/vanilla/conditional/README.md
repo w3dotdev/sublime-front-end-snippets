@@ -1,6 +1,6 @@
 ## JavaScript Conditional Snippets
 
-### [jifelse] if else
+### [j.ifelse] if else
 
 ```javascript
 if (${1:condition}) {
@@ -11,7 +11,7 @@ else {
 }
 ```
 
-### [jswitch] switch
+### [j.switch] switch
 
 ```javascript
 switch (${1:expression}) {

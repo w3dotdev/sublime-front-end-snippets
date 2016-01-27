@@ -15,6 +15,6 @@ switch (${1:expression}) {
     break;
 }
 ]]></content>
-  <tabTrigger>jswitch</tabTrigger>
+  <tabTrigger>j.switch</tabTrigger>
   <description>j - switch</description>
 </snippet>

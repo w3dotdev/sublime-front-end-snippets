@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.classList.remove('${2:class}');
 ]]></content>
-  <tabTrigger>jclr</tabTrigger>
+  <tabTrigger>j.clr</tabTrigger>
   <description>j - classList.remove</description>
 </snippet>

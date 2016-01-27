@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.textContent = '${2:content}';
 ]]></content>
-  <tabTrigger>jtc</tabTrigger>
+  <tabTrigger>j.tc</tabTrigger>
   <description>j - textContent</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 JSON.stringify(${1:obj});
 ]]></content>
-  <tabTrigger>jjsons</tabTrigger>
+  <tabTrigger>j.jsons</tabTrigger>
   <description>j - JSON.stringify</description>
 </snippet>

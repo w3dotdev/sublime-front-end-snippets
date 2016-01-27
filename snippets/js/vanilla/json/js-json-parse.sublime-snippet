@@ -2,6 +2,6 @@
   <content><![CDATA[
 JSON.parse(${1:obj});
 ]]></content>
-  <tabTrigger>jjsonp</tabTrigger>
+  <tabTrigger>j.jsonp</tabTrigger>
   <description>j - JSON.parse</description>
 </snippet>

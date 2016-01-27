@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.getElementsByClassName('${2:class}');
 ]]></content>
-  <tabTrigger>jgclass</tabTrigger>
+  <tabTrigger>j.gclass</tabTrigger>
   <description>j - getElementsByClassName</description>
 </snippet>

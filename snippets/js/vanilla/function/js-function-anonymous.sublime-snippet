@@ -4,6 +4,6 @@ function(${1:arguments}) {
     ${2}
 }
 ]]></content>
-  <tabTrigger>jafn</tabTrigger>
+  <tabTrigger>j.afn</tabTrigger>
   <description>j - Anonymous Function</description>
 </snippet>

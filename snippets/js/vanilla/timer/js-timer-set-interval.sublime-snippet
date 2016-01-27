@@ -4,6 +4,6 @@ setInterval(function() {
   ${2}
 }, ${1:delay});
 ]]></content>
-  <tabTrigger>jsinterval</tabTrigger>
+  <tabTrigger>j.sinterval</tabTrigger>
   <description>j - setInterval</description>
 </snippet>

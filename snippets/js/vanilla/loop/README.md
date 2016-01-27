@@ -1,6 +1,6 @@
 ## JavaScript Loop Snippets
 
-### [jdowhile] do while
+### [j.dowhile] do while
 
 ```javascript
 do {
@@ -8,7 +8,7 @@ do {
 } while (${2:condition});
 ```
 
-### [jfore] forEach
+### [j.fore] forEach
 
 ```javascript
 ${1:myArray}.forEach(function(${2:element}) {
@@ -16,7 +16,7 @@ ${1:myArray}.forEach(function(${2:element}) {
 });
 ```
 
-### [jfori] for in
+### [j.fori] for in
 
 ```javascript
 for (${1:prop} in ${2:obj}) {
@@ -26,7 +26,7 @@ for (${1:prop} in ${2:obj}) {
 }
 ```
 
-### [jfor] for
+### [j.for] for
 
 ```javascript
 for (var i = ${1:0}, len = ${2:10}; i ${3:<=} len; i${4:++} ) {
@@ -34,7 +34,7 @@ for (var i = ${1:0}, len = ${2:10}; i ${3:<=} len; i${4:++} ) {
 }
 ```
 
-### [jwhile] while
+### [j.while] while
 
 ```javascript
 while (${1:condition}) {

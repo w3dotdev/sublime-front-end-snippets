@@ -4,6 +4,6 @@ do {
   ${1:expression}
 } while (${2:condition});
 ]]></content>
-  <tabTrigger>jdowhile</tabTrigger>
+  <tabTrigger>j.dowhile</tabTrigger>
   <description>j - do while</description>
 </snippet>

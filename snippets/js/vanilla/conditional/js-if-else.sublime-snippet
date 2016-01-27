@@ -7,6 +7,6 @@ else {
   ${3:second expression}
 }
 ]]></content>
-  <tabTrigger>jifelse</tabTrigger>
+  <tabTrigger>j.ifelse</tabTrigger>
   <description>j - if else</description>
 </snippet>

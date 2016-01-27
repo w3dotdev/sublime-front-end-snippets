@@ -4,6 +4,6 @@
   ${1}
 })(window, document);
 ]]></content>
-  <tabTrigger>j-iife</tabTrigger>
+  <tabTrigger>j.-iife</tabTrigger>
   <description>j - Immediately-invoked function expression</description>
 </snippet>

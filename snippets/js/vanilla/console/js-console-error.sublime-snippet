@@ -2,6 +2,6 @@
   <content><![CDATA[
 console.error(${1:obj});
 ]]></content>
-  <tabTrigger>jce</tabTrigger>
+  <tabTrigger>j.ce</tabTrigger>
   <description>j - console.error</description>
 </snippet>

@@ -4,6 +4,6 @@ for (var i = ${1:0}, len = ${2:10}; i ${3:<=} len; i${4:++} ) {
   ${5}
 }
 ]]></content>
-  <tabTrigger>jfor</tabTrigger>
+  <tabTrigger>j.for</tabTrigger>
   <description>j - for</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 ${1:document}.getAttribute('${2:attr}');
 ]]></content>
-  <tabTrigger>jgattr</tabTrigger>
+  <tabTrigger>j.gattr</tabTrigger>
   <description>j - getAttribute</description>
 </snippet>
