@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+assert.equal(${1:actual}, ${2:expected} ${3:, message});
+]]></content>
+  <tabTrigger>tq.equal</tabTrigger>
+  <description>tq - Assert equal</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+assert.throws(${1:block}${2:, expected}${3:, message});
+]]></content>
+  <tabTrigger>tq.throws</tabTrigger>
+  <description>tq - throws</description>
+</snippet>

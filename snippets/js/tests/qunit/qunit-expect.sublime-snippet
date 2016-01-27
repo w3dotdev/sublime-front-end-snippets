@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+QUnit.expect(${1:amount});
+]]></content>
+  <tabTrigger>tq.expect</tabTrigger>
+  <description>tq - Expect</description>
+</snippet>

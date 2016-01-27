@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+QUnit.stack(${1:offset});
+]]></content>
+  <tabTrigger>tq.stack</tabTrigger>
+  <description>tq - QUnit.stack</description>
+</snippet>

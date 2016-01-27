@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+assert.ok(${1:state} ${2:, message});
+]]></content>
+  <tabTrigger>tq.ok</tabTrigger>
+  <description>tq - ok</description>
+</snippet>

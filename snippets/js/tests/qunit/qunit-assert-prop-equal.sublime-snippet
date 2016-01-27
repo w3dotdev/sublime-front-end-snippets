@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+assert.propEqual(${1:actual}, ${2:expected} ${3:, message});
+]]></content>
+  <tabTrigger>tq.pequal</tabTrigger>
+  <description>tq - propEqual</description>
+</snippet>

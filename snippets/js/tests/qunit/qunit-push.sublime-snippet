@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:this}.push(${2:result}, ${3:actual},  ${4:expected}, ${5:message});
+]]></content>
+  <tabTrigger>tq.push</tabTrigger>
+  <description>tq - push</description>
+</snippet>

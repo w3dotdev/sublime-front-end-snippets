@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+QUnit.only(${1:name}, ${2:callback});
+]]></content>
+  <tabTrigger>tq.only</tabTrigger>
+  <description>tq - QUnit.only</description>
+</snippet>

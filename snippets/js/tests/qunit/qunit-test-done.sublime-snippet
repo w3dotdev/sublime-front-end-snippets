@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+QUnit.testDone(${1:callback});
+]]></content>
+  <tabTrigger>tq.tdone</tabTrigger>
+  <description>tq - QUnit.testDone</description>
+</snippet>

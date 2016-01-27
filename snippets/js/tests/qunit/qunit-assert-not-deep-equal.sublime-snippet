@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+assert.notDeepEqual(${1:actual}, ${2:expected} ${3:, message});
+]]></content>
+  <tabTrigger>tq.ndequal</tabTrigger>
+  <description>tq - notDeepEqual</description>
+</snippet>

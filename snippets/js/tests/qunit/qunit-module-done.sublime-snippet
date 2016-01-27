@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+QUnit.moduleDone(${1:callback});
+]]></content>
+  <tabTrigger>tq.mdone</tabTrigger>
+  <description>tq - QUnit.moduleDone</description>
+</snippet>

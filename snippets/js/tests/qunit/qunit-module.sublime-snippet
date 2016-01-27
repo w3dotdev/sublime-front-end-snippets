@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+QUnit.module(${1:name}${2:, hooks}${3:, nested});
+]]></content>
+  <tabTrigger>tq.module</tabTrigger>
+  <description>tq - QUnit.module</description>
+</snippet>

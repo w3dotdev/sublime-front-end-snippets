@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+QUnit.config.${1:urlConfig}
+]]></content>
+  <tabTrigger>tq.config</tabTrigger>
+  <description>tq - QUnit.config</description>
+</snippet>

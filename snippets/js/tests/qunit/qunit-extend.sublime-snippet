@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+QUnit.extend(${1:target}, ${2:mixin});
+]]></content>
+  <tabTrigger>tq.extend</tabTrigger>
+  <description>tq - QUnit.extend</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+assert.async(${1:acceptCallCount});
+]]></content>
+  <tabTrigger>tq.async</tabTrigger>
+  <description>tq - Assert async</description>
+</snippet>
