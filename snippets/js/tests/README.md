@@ -60,6 +60,35 @@
   - strictEqual
   - throws
 - [QUnit](qunit/)
-  -
+  - begin
+  - config
+  - done
+  - dump.parse
+  - expect
+  - extend
+  - log 
+  - moduleDone
+  - moduleStart
+  - module
+  - only
+  - push
+  - skip
+  - stack
+  - testDone
+  - testStart
+  - test
+  - Assert
+    - async
+    - deepEqual
+    - equal
+    - notDeepEqual
+    - notEqual
+    - notOk
+    - notPropEqual
+    - notStrictEqual
+    - ok
+    - propEqual
+    - strictEqual
+    - throws
 - [Sinon](sinon/)
   - 
