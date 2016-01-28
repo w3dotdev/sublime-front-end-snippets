@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:var} ${2:me} = require('${3:me}');
+]]></content>
+  <tabTrigger>j.require</tabTrigger>
+  <description>j - Require</description>
+</snippet>

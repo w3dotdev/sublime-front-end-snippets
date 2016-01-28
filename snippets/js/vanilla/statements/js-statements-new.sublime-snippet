@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:var} ${2:me} = new ${3:me}(${4});
+]]></content>
+  <tabTrigger>j.new</tabTrigger>
+  <description>j - New</description>
+</snippet>

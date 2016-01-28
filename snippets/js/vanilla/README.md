@@ -44,6 +44,9 @@
   - forEach
   - for in
   - for
+- [Statements](statements/)
+  - new
+  - require 
 - [Timer](timer/)
   - setInterval
   - setTimeout
