@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+^(\(\d{2}\)?\s?|\d{2}(\-|\s))?\d{2,4}(\-|\s)?\d{4,5}\$
+]]></content>
+  <tabTrigger>r.bphone</tabTrigger>
+  <description>r - Brazilian Phone</description>
+</snippet>

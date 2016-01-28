@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+^(([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5}){1,25})\$
+]]></content>
+  <tabTrigger>r.email</tabTrigger>
+  <description>r - E-mail</description>
+</snippet>

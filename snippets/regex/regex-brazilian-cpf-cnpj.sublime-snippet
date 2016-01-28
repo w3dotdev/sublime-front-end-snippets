@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+(\d{2}\.\d{3}\.\d{3}\/\d{4}\-\d{2})|(\d{3}\.\d{3}\.\d{3}\-\d{2})
+]]></content>
+  <tabTrigger>r.bcpfcnpj</tabTrigger>
+  <description>r - Brazilian CPF/CNPJ</description>
+</snippet>
