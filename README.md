@@ -2,7 +2,7 @@
 
 [![Travis](https://img.shields.io/travis/brazilian-dev/sublime-front-end-snippets.svg?style=flat-square)](https://travis-ci.org/brazilian-dev/sublime-front-end-snippets)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/brazilian-dev/sublime-front-end-snippets/issues)
-[![Package Control](https://img.shields.io/packagecontrol/dt/Package%20Control.svg?style=flat-square)](https://packagecontrol.io/packages/Front-end%20Project%20Snippets)
+[![Package Control](https://img.shields.io/packagecontrol/dt/Front-end%20Project%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Front-end%20Project%20Snippets)
 [![GitHub release](https://img.shields.io/github/release/brazilian-dev/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/brazilian-dev/sublime-front-end-snippets/releases)
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/LICENSE.md)
 
