@@ -10,11 +10,11 @@
 
 ## Install
 
-If you already have the [Package Control](http://wbond.net/sublime_packages/package_control) installed , just search for ***Front-end Project Snippets***. If you have not installed in the sublime, you can do it [here](http://wbond.net/sublime_packages/package_control/installation).
+If you already have the [Package Control](http://wbond.net/sublime_packages/package_control) installed , just search for ***Front-end Project Snippets***. If you have not installed in the Sublime, you can do it [here](http://wbond.net/sublime_packages/package_control/installation).
 
-You can manually download the package and place it within your `Packages` directory. It will work, but will not be updated automatically.
+You can manually download the package and place it within your `Packages` directory. It will work, but it will not be automatically updated.
 
-You can see all installed snippets in `Tools > Snippets...`, in the sublime text.
+You can see all installed snippets in `Tools > Snippets...`, in the Sublime Text.
 
 ## Snippets and prefixes/keys
 
