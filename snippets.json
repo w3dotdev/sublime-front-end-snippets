@@ -120,2053 +120,3583 @@
     "trigger": "hw.alertdialog"
   }, 
   {
-    "description": "jq - ajax", 
+    "description": "ES6 Arrow Function", 
     "id": 25, 
+    "trigger": "arrow"
+  }, 
+  {
+    "description": "ES6 Class", 
+    "id": 26, 
+    "trigger": "class"
+  }, 
+  {
+    "description": "ES6 Generator", 
+    "id": 27, 
+    "trigger": "generator"
+  }, 
+  {
+    "description": "ES6 For Loop Iterator using Let", 
+    "id": 28, 
+    "trigger": "let:iterator"
+  }, 
+  {
+    "description": "ES6 Let", 
+    "id": 29, 
+    "trigger": "let"
+  }, 
+  {
+    "description": "ES6 Map", 
+    "id": 30, 
+    "trigger": "Map"
+  }, 
+  {
+    "description": "ES6 WeakMap", 
+    "id": 31, 
+    "trigger": "WeakMap"
+  }, 
+  {
+    "description": "ES6 Dynamic Module Import", 
+    "id": 32, 
+    "trigger": "System.import"
+  }, 
+  {
+    "description": "ES6 Module Export Function", 
+    "id": 33, 
+    "trigger": "export:function"
+  }, 
+  {
+    "description": "ES6 Module Export Variable", 
+    "id": 34, 
+    "trigger": "export:variable"
+  }, 
+  {
+    "description": "ES6 Module Import", 
+    "id": 35, 
+    "trigger": "import"
+  }, 
+  {
+    "description": "ES6 Loader Class", 
+    "id": 36, 
+    "trigger": "Loader"
+  }, 
+  {
+    "description": "ES6 System Get Module", 
+    "id": 37, 
+    "trigger": "System.get"
+  }, 
+  {
+    "description": "ES6 System Set Module", 
+    "id": 38, 
+    "trigger": "System.set"
+  }, 
+  {
+    "description": "ES6 Object Literal", 
+    "id": 39, 
+    "trigger": "object"
+  }, 
+  {
+    "description": "ES6 Promise", 
+    "id": 40, 
+    "trigger": "Promise"
+  }, 
+  {
+    "description": "ES6 Proxy", 
+    "id": 41, 
+    "trigger": "Proxy"
+  }, 
+  {
+    "description": "ES6 Reflect Apply", 
+    "id": 42, 
+    "trigger": "Reflect:apply"
+  }, 
+  {
+    "description": "ES6 Reflect Construct", 
+    "id": 43, 
+    "trigger": "Reflect:construct"
+  }, 
+  {
+    "description": "ES6 Reflect Define Property", 
+    "id": 44, 
+    "trigger": "Reflect:defineProperty"
+  }, 
+  {
+    "description": "ES6 Reflect Delete Property", 
+    "id": 45, 
+    "trigger": "Reflect:deleteProperty"
+  }, 
+  {
+    "description": "ES6 Reflect Enumerate", 
+    "id": 46, 
+    "trigger": "Reflect:enumerate"
+  }, 
+  {
+    "description": "ES6 Reflect Get", 
+    "id": 47, 
+    "trigger": "Reflect:get"
+  }, 
+  {
+    "description": "ES6 Reflect Get Property Descriptor", 
+    "id": 48, 
+    "trigger": "Reflect:getOwnPropertyDescriptor"
+  }, 
+  {
+    "description": "ES6 Reflect Get Prototype Of", 
+    "id": 49, 
+    "trigger": "Reflect:getPrototypeOf"
+  }, 
+  {
+    "description": "ES6 Reflect Has", 
+    "id": 50, 
+    "trigger": "Reflect:has"
+  }, 
+  {
+    "description": "ES6 Reflect Is Extensible", 
+    "id": 51, 
+    "trigger": "Reflect:isExtensible"
+  }, 
+  {
+    "description": "ES6 Reflect Own Keys", 
+    "id": 52, 
+    "trigger": "Reflect:ownKeys"
+  }, 
+  {
+    "description": "ES6 Reflect Prevent Extensions", 
+    "id": 53, 
+    "trigger": "Reflect:preventExtensions"
+  }, 
+  {
+    "description": "ES6 Reflect Set", 
+    "id": 54, 
+    "trigger": "Reflect:set"
+  }, 
+  {
+    "description": "ES6 Reflect Set Prototype Of", 
+    "id": 55, 
+    "trigger": "Reflect:setPrototypeOf"
+  }, 
+  {
+    "description": "ES6 Set", 
+    "id": 56, 
+    "trigger": "Set"
+  }, 
+  {
+    "description": "ES6 WeakSet", 
+    "id": 57, 
+    "trigger": "WeakSet"
+  }, 
+  {
+    "description": "ES6 Template String", 
+    "id": 58, 
+    "trigger": "string"
+  }, 
+  {
+    "description": "jq - ajax", 
+    "id": 59, 
     "trigger": "jq.a"
   }, 
   {
     "description": "jq - ajaxComplete", 
-    "id": 26, 
+    "id": 60, 
     "trigger": "jq.acomplete"
   }, 
   {
     "description": "jq - ajaxError", 
-    "id": 27, 
+    "id": 61, 
     "trigger": "jq.aerror"
   }, 
   {
     "description": "jq - getJSON", 
-    "id": 28, 
+    "id": 62, 
     "trigger": "jq.gjson"
   }, 
   {
     "description": "jq - getScript", 
-    "id": 29, 
+    "id": 63, 
     "trigger": "jq.gscript"
   }, 
   {
     "description": "jq - jQuery get", 
-    "id": 30, 
+    "id": 64, 
     "trigger": "jq.jget"
   }, 
   {
     "description": "jq - load", 
-    "id": 31, 
+    "id": 65, 
     "trigger": "jq.load"
   }, 
   {
     "description": "jq - post", 
-    "id": 32, 
+    "id": 66, 
     "trigger": "jq.post"
   }, 
   {
     "description": "jq - ajaxPrefilter", 
-    "id": 33, 
+    "id": 67, 
     "trigger": "jq.aprefilter"
   }, 
   {
     "description": "jq - ajaxSend", 
-    "id": 34, 
+    "id": 68, 
     "trigger": "jq.asend"
   }, 
   {
     "description": "jq - ajaxSetup", 
-    "id": 35, 
+    "id": 69, 
     "trigger": "jq.asetup"
   }, 
   {
     "description": "jq - ajaxStart", 
-    "id": 36, 
+    "id": 70, 
     "trigger": "jq.astart"
   }, 
   {
     "description": "jq - ajaxStop", 
-    "id": 37, 
+    "id": 71, 
     "trigger": "jq.astop"
   }, 
   {
     "description": "jq - ajaxSuccess", 
-    "id": 38, 
+    "id": 72, 
     "trigger": "jq.asuccess"
   }, 
   {
     "description": "jq - ajaxTransport", 
-    "id": 39, 
+    "id": 73, 
     "trigger": "jq.atransport"
   }, 
   {
     "description": "jq - addClass", 
-    "id": 40, 
+    "id": 74, 
     "trigger": "jq.addclass"
   }, 
   {
     "description": "jq - attr", 
-    "id": 41, 
+    "id": 75, 
     "trigger": "jq.attr"
   }, 
   {
     "description": "jq - hasClass", 
-    "id": 42, 
+    "id": 76, 
     "trigger": "jq.hasclass"
   }, 
   {
     "description": "jq - html", 
-    "id": 43, 
+    "id": 77, 
     "trigger": "jq.html"
   }, 
   {
     "description": "jq - prop", 
-    "id": 44, 
+    "id": 78, 
     "trigger": "jq.prop"
   }, 
   {
     "description": "jq - removeAttr", 
-    "id": 45, 
+    "id": 79, 
     "trigger": "jq.rattr"
   }, 
   {
     "description": "jq - removeClass", 
-    "id": 46, 
+    "id": 80, 
     "trigger": "jq.rclass"
   }, 
   {
     "description": "jq - removeProp", 
-    "id": 47, 
+    "id": 81, 
     "trigger": "jq.rprop"
   }, 
   {
     "description": "jq - toggleClass", 
-    "id": 48, 
+    "id": 82, 
     "trigger": "jq.tclass"
   }, 
   {
     "description": "jq - add", 
-    "id": 49, 
+    "id": 83, 
     "trigger": "jq.cbadd"
   }, 
   {
     "description": "jq - disable", 
-    "id": 50, 
+    "id": 84, 
     "trigger": "jq.cbdisable"
   }, 
   {
     "description": "jq - disabled", 
-    "id": 51, 
+    "id": 85, 
     "trigger": "jq.cbdisabled"
   }, 
   {
     "description": "jq - empty", 
-    "id": 52, 
+    "id": 86, 
     "trigger": "jq.cbempty"
   }, 
   {
     "description": "jq - fireWith", 
-    "id": 53, 
+    "id": 87, 
     "trigger": "jq.cbfirewith"
   }, 
   {
     "description": "jq - fire", 
-    "id": 54, 
+    "id": 88, 
     "trigger": "jq.cbfire"
   }, 
   {
     "description": "jq - fired", 
-    "id": 55, 
+    "id": 89, 
     "trigger": "jq.cbfired"
   }, 
   {
     "description": "jq - has", 
-    "id": 56, 
+    "id": 90, 
     "trigger": "jq.cbhas"
   }, 
   {
     "description": "jq - lock", 
-    "id": 57, 
+    "id": 91, 
     "trigger": "jq.cblock"
   }, 
   {
     "description": "jq - locked", 
-    "id": 58, 
+    "id": 92, 
     "trigger": "jq.cblocked"
   }, 
   {
     "description": "jq - remove", 
-    "id": 59, 
+    "id": 93, 
     "trigger": "jq.cbremove"
   }, 
   {
     "description": "jq - callbacks", 
-    "id": 60, 
+    "id": 94, 
     "trigger": "jq.cb"
   }, 
   {
     "description": "jq - holdReady", 
-    "id": 61, 
+    "id": 95, 
     "trigger": "jq.holdready"
   }, 
   {
     "description": "jq - jQuery", 
-    "id": 62, 
+    "id": 96, 
     "trigger": "jq.jq"
   }, 
   {
     "description": "jq - noConflict", 
-    "id": 63, 
+    "id": 97, 
     "trigger": "jq.noc"
   }, 
   {
     "description": "jq - when", 
-    "id": 64, 
+    "id": 98, 
     "trigger": "jq.when"
   }, 
   {
     "description": "jq - cssHooks", 
-    "id": 65, 
+    "id": 99, 
     "trigger": "jq.cssh"
   }, 
   {
     "description": "jq - cssNumber", 
-    "id": 66, 
+    "id": 100, 
     "trigger": "jq.cssn"
   }, 
   {
     "description": "jq - css", 
-    "id": 67, 
+    "id": 101, 
     "trigger": "jq.css"
   }, 
   {
     "description": "jq - hasData", 
-    "id": 68, 
+    "id": 102, 
     "trigger": "jq.hasdata"
   }, 
   {
     "description": "jq - jQuery data", 
-    "id": 69, 
+    "id": 103, 
     "trigger": "jq.jdata"
   }, 
   {
     "description": "jq - jQuery removeData", 
-    "id": 70, 
+    "id": 104, 
     "trigger": "jq.jrdata"
   }, 
   {
     "description": "jq - removeData", 
-    "id": 71, 
+    "id": 105, 
     "trigger": "jq.rdata"
   }, 
   {
     "description": "jq - data", 
-    "id": 72, 
+    "id": 106, 
     "trigger": "jq.data"
   }, 
   {
     "description": "jq - always", 
-    "id": 73, 
+    "id": 107, 
     "trigger": "jq.always"
   }, 
   {
     "description": "jq - done", 
-    "id": 74, 
+    "id": 108, 
     "trigger": "jq.done"
   }, 
   {
     "description": "jq - fail", 
-    "id": 75, 
+    "id": 109, 
     "trigger": "jq.fail"
   }, 
   {
     "description": "jq - notifyWith", 
-    "id": 76, 
+    "id": 110, 
     "trigger": "jq.notifywith"
   }, 
   {
     "description": "jq - notify", 
-    "id": 77, 
+    "id": 111, 
     "trigger": "jq.notify"
   }, 
   {
     "description": "jq - progress", 
-    "id": 78, 
+    "id": 112, 
     "trigger": "jq.progress"
   }, 
   {
     "description": "jq - promise", 
-    "id": 79, 
+    "id": 113, 
     "trigger": "jq.dpromise"
   }, 
   {
     "description": "jq - rejectWith", 
-    "id": 80, 
+    "id": 114, 
     "trigger": "jq.rejectwith"
   }, 
   {
     "description": "jq - reject", 
-    "id": 81, 
+    "id": 115, 
     "trigger": "jq.reject"
   }, 
   {
     "description": "jq - resolveWith", 
-    "id": 82, 
+    "id": 116, 
     "trigger": "jq.resolvewith"
   }, 
   {
     "description": "jq - resolve", 
-    "id": 83, 
+    "id": 117, 
     "trigger": "jq.resolve"
   }, 
   {
     "description": "jq - state", 
-    "id": 84, 
+    "id": 118, 
     "trigger": "jq.state"
   }, 
   {
     "description": "jq - then", 
-    "id": 85, 
+    "id": 119, 
     "trigger": "jq.then"
   }, 
   {
     "description": "jq - deferred", 
-    "id": 86, 
+    "id": 120, 
     "trigger": "jq.d"
   }, 
   {
     "description": "jq - promise", 
-    "id": 87, 
+    "id": 121, 
     "trigger": "jq.promise"
   }, 
   {
     "description": "jq - height", 
-    "id": 88, 
+    "id": 122, 
     "trigger": "jq.height"
   }, 
   {
     "description": "jq - innerHeight", 
-    "id": 89, 
+    "id": 123, 
     "trigger": "jq.iheight"
   }, 
   {
     "description": "jq - innerWidth", 
-    "id": 90, 
+    "id": 124, 
     "trigger": "jq.iwidth"
   }, 
   {
     "description": "jq - outerHeight", 
-    "id": 91, 
+    "id": 125, 
     "trigger": "jq.oheight"
   }, 
   {
     "description": "jq - outerWidth", 
-    "id": 92, 
+    "id": 126, 
     "trigger": "jq.owidth"
   }, 
   {
     "description": "jq - width", 
-    "id": 93, 
+    "id": 127, 
     "trigger": "jq.width"
   }, 
   {
     "description": "jq - animate", 
-    "id": 94, 
+    "id": 128, 
     "trigger": "jq.animate"
   }, 
   {
     "description": "jq - clearQueue", 
-    "id": 95, 
+    "id": 129, 
     "trigger": "jq.cqueue"
   }, 
   {
     "description": "jq - delay", 
-    "id": 96, 
+    "id": 130, 
     "trigger": "jq.delay"
   }, 
   {
     "description": "jq - dequeue", 
-    "id": 97, 
+    "id": 131, 
     "trigger": "jq.dequeue"
   }, 
   {
     "description": "jq - fadeIn", 
-    "id": 98, 
+    "id": 132, 
     "trigger": "jq.fadein"
   }, 
   {
     "description": "jq - fadeOut", 
-    "id": 99, 
+    "id": 133, 
     "trigger": "jq.fadeout"
   }, 
   {
     "description": "jq - fadeToggle", 
-    "id": 100, 
+    "id": 134, 
     "trigger": "jq.fadetoggle"
   }, 
   {
     "description": "jq - fadeTo", 
-    "id": 101, 
+    "id": 135, 
     "trigger": "jq.fadeto"
   }, 
   {
     "description": "jq - finish", 
-    "id": 102, 
+    "id": 136, 
     "trigger": "jq.finish"
   }, 
   {
     "description": "jq - hide", 
-    "id": 103, 
+    "id": 137, 
     "trigger": "jq.hide"
   }, 
   {
     "description": "jq - queue", 
-    "id": 104, 
+    "id": 138, 
     "trigger": "jq.queue"
   }, 
   {
     "description": "jq - show", 
-    "id": 105, 
+    "id": 139, 
     "trigger": "jq.show"
   }, 
   {
     "description": "jq - slideDown", 
-    "id": 106, 
+    "id": 140, 
     "trigger": "jq.sdown"
   }, 
   {
     "description": "jq - slideToggle", 
-    "id": 107, 
+    "id": 141, 
     "trigger": "jq.stoggle"
   }, 
   {
     "description": "jq - slideUp", 
-    "id": 108, 
+    "id": 142, 
     "trigger": "jq.sup"
   }, 
   {
     "description": "jq - stop", 
-    "id": 109, 
+    "id": 143, 
     "trigger": "jq.stop"
   }, 
   {
     "description": "jq - toggle", 
-    "id": 110, 
+    "id": 144, 
     "trigger": "jq.toggle"
   }, 
   {
     "description": "jq - bind", 
-    "id": 111, 
+    "id": 145, 
     "trigger": "jq.bind"
   }, 
   {
     "description": "jq - click", 
-    "id": 112, 
+    "id": 146, 
     "trigger": "jq.click"
   }, 
   {
     "description": "jq - contextmenu", 
-    "id": 113, 
+    "id": 147, 
     "trigger": "jq.jqcmenu"
   }, 
   {
     "description": "jq - currentTarget", 
-    "id": 114, 
+    "id": 148, 
     "trigger": "jq.ctarget"
   }, 
   {
     "description": "jq - Event data", 
-    "id": 115, 
+    "id": 149, 
     "trigger": "jq.edata"
   }, 
   {
     "description": "jq - dblclick", 
-    "id": 116, 
+    "id": 150, 
     "trigger": "jq.dclick"
   }, 
   {
     "description": "jq - delegateTarget", 
-    "id": 117, 
+    "id": 151, 
     "trigger": "jq.dtarget"
   }, 
   {
     "description": "jq - delegate", 
-    "id": 118, 
+    "id": 152, 
     "trigger": "jq.delegate"
   }, 
   {
     "description": "jq - hover", 
-    "id": 119, 
+    "id": 153, 
     "trigger": "jq.hover"
   }, 
   {
     "description": "jq - isDefaultPrevented", 
-    "id": 120, 
+    "id": 154, 
     "trigger": "jq.idprevented"
   }, 
   {
     "description": "jq - isImmediatePropagationStopped", 
-    "id": 121, 
+    "id": 155, 
     "trigger": "jq.iips"
   }, 
   {
     "description": "jq - isPropagationStopped", 
-    "id": 122, 
+    "id": 156, 
     "trigger": "jq.ips"
   }, 
   {
     "description": "jq - keydown", 
-    "id": 123, 
+    "id": 157, 
     "trigger": "jq.kdown"
   }, 
   {
     "description": "jq - keypress", 
-    "id": 124, 
+    "id": 158, 
     "trigger": "jq.kpress"
   }, 
   {
     "description": "jq - keyup", 
-    "id": 125, 
+    "id": 159, 
     "trigger": "jq.kup"
   }, 
   {
     "description": "jq - metaKey", 
-    "id": 126, 
+    "id": 160, 
     "trigger": "jq.mkey"
   }, 
   {
     "description": "jq - mousedown", 
-    "id": 127, 
+    "id": 161, 
     "trigger": "jq.mdown"
   }, 
   {
     "description": "jq - mouseenter", 
-    "id": 128, 
+    "id": 162, 
     "trigger": "jq.menter"
   }, 
   {
     "description": "jq - mouseleave", 
-    "id": 129, 
+    "id": 163, 
     "trigger": "jq.mleave"
   }, 
   {
     "description": "jq - mousemove", 
-    "id": 130, 
+    "id": 164, 
     "trigger": "jq.mmove"
   }, 
   {
     "description": "jq - mouseout", 
-    "id": 131, 
+    "id": 165, 
     "trigger": "jq.mout"
   }, 
   {
     "description": "jq - mouseover", 
-    "id": 132, 
+    "id": 166, 
     "trigger": "jq.mover"
   }, 
   {
     "description": "jq - mouseup", 
-    "id": 133, 
+    "id": 167, 
     "trigger": "jq.mup"
   }, 
   {
     "description": "jq - namespace", 
-    "id": 134, 
+    "id": 168, 
     "trigger": "jq.ns"
   }, 
   {
     "description": "jq - off", 
-    "id": 135, 
+    "id": 169, 
     "trigger": "jq.off"
   }, 
   {
     "description": "jq - on", 
-    "id": 136, 
+    "id": 170, 
     "trigger": "jq.on"
   }, 
   {
     "description": "jq - one", 
-    "id": 137, 
+    "id": 171, 
     "trigger": "jq.one"
   }, 
   {
     "description": "jq - pageX", 
-    "id": 138, 
+    "id": 172, 
     "trigger": "jq.px"
   }, 
   {
     "description": "jq - pageY", 
-    "id": 139, 
+    "id": 173, 
     "trigger": "jq.py"
   }, 
   {
     "description": "jq - preventDefault", 
-    "id": 140, 
+    "id": 174, 
     "trigger": "jq.pd"
   }, 
   {
     "description": "jq - ready", 
-    "id": 141, 
+    "id": 175, 
     "trigger": "jq.ready"
   }, 
   {
     "description": "jq - relatedTarget", 
-    "id": 142, 
+    "id": 176, 
     "trigger": "jq.rtarget"
   }, 
   {
     "description": "jq - resize", 
-    "id": 143, 
+    "id": 177, 
     "trigger": "jq.resize"
   }, 
   {
     "description": "jq - result", 
-    "id": 144, 
+    "id": 178, 
     "trigger": "jq.result"
   }, 
   {
     "description": "jq - scroll", 
-    "id": 145, 
+    "id": 179, 
     "trigger": "jq.scroll"
   }, 
   {
     "description": "jq - stopImmediatePropagation", 
-    "id": 146, 
+    "id": 180, 
     "trigger": "jq.sip"
   }, 
   {
     "description": "jq - stopPropagation", 
-    "id": 147, 
+    "id": 181, 
     "trigger": "jq.sp"
   }, 
   {
     "description": "jq - target", 
-    "id": 148, 
+    "id": 182, 
     "trigger": "jq.target"
   }, 
   {
     "description": "jq - timeStamp", 
-    "id": 149, 
+    "id": 183, 
     "trigger": "jq.tstamp"
   }, 
   {
     "description": "jq - triggerHandler", 
-    "id": 150, 
+    "id": 184, 
     "trigger": "jq.thandler"
   }, 
   {
     "description": "jq - trigger", 
-    "id": 151, 
+    "id": 185, 
     "trigger": "jq.trigger"
   }, 
   {
     "description": "jq - type", 
-    "id": 152, 
+    "id": 186, 
     "trigger": "jq.type"
   }, 
   {
     "description": "jq - unbind", 
-    "id": 153, 
+    "id": 187, 
     "trigger": "jq.unbind"
   }, 
   {
     "description": "jq - undelegate", 
-    "id": 154, 
+    "id": 188, 
     "trigger": "jq.undelegate"
   }, 
   {
     "description": "jq - which", 
-    "id": 155, 
+    "id": 189, 
     "trigger": "jq.which"
   }, 
   {
     "description": "jq - blur", 
-    "id": 156, 
+    "id": 190, 
     "trigger": "jq.blur"
   }, 
   {
     "description": "jq - change", 
-    "id": 157, 
+    "id": 191, 
     "trigger": "jq.change"
   }, 
   {
     "description": "jq - focusin", 
-    "id": 158, 
+    "id": 192, 
     "trigger": "jq.focusin"
   }, 
   {
     "description": "jq - focusout", 
-    "id": 159, 
+    "id": 193, 
     "trigger": "jq.focusout"
   }, 
   {
     "description": "jq - focus", 
-    "id": 160, 
+    "id": 194, 
     "trigger": "jq.focus"
   }, 
   {
     "description": "jq - param", 
-    "id": 161, 
+    "id": 195, 
     "trigger": "jq.param"
   }, 
   {
     "description": "jq - select", 
-    "id": 162, 
+    "id": 196, 
     "trigger": "jq.select"
   }, 
   {
     "description": "jq - serializeArray", 
-    "id": 163, 
+    "id": 197, 
     "trigger": "jq.serarray"
   }, 
   {
     "description": "jq - serialize", 
-    "id": 164, 
+    "id": 198, 
     "trigger": "jq.ser"
   }, 
   {
     "description": "jq - submit", 
-    "id": 165, 
+    "id": 199, 
     "trigger": "jq.submit"
   }, 
   {
     "description": "jq - val", 
-    "id": 166, 
+    "id": 200, 
     "trigger": "jq.val"
   }, 
   {
     "description": "jq - error", 
-    "id": 167, 
+    "id": 201, 
     "trigger": "jq.error"
   }, 
   {
     "description": "jq - pushStack", 
-    "id": 168, 
+    "id": 202, 
     "trigger": "jq.pstack"
   }, 
   {
     "description": "jq - after", 
-    "id": 169, 
+    "id": 203, 
     "trigger": "jq.after"
   }, 
   {
     "description": "jq - appendTo", 
-    "id": 170, 
+    "id": 204, 
     "trigger": "jq.appendto"
   }, 
   {
     "description": "jq - append", 
-    "id": 171, 
+    "id": 205, 
     "trigger": "jq.append"
   }, 
   {
     "description": "jq - before", 
-    "id": 172, 
+    "id": 206, 
     "trigger": "jq.before"
   }, 
   {
     "description": "jq - clone", 
-    "id": 173, 
+    "id": 207, 
     "trigger": "jq.clone"
   }, 
   {
     "description": "jq - detach", 
-    "id": 174, 
+    "id": 208, 
     "trigger": "jq.detach"
   }, 
   {
     "description": "jq - empty", 
-    "id": 175, 
+    "id": 209, 
     "trigger": "jq.empty"
   }, 
   {
     "description": "jq - insertAfter", 
-    "id": 176, 
+    "id": 210, 
     "trigger": "jq.iafter"
   }, 
   {
     "description": "jq - insertBefore", 
-    "id": 177, 
+    "id": 211, 
     "trigger": "jq.ibefore"
   }, 
   {
     "description": "jq - prependTo", 
-    "id": 178, 
+    "id": 212, 
     "trigger": "jq.prependto"
   }, 
   {
     "description": "jq - prepend", 
-    "id": 179, 
+    "id": 213, 
     "trigger": "jq.prepend"
   }, 
   {
     "description": "jq - remove", 
-    "id": 180, 
+    "id": 214, 
     "trigger": "jq.remove"
   }, 
   {
     "description": "jq - replaceAll", 
-    "id": 181, 
+    "id": 215, 
     "trigger": "jq.replaceall"
   }, 
   {
     "description": "jq - replaceWith", 
-    "id": 182, 
+    "id": 216, 
     "trigger": "jq.replacewith"
   }, 
   {
     "description": "jq - text", 
-    "id": 183, 
+    "id": 217, 
     "trigger": "jq.text"
   }, 
   {
     "description": "jq - unwrap", 
-    "id": 184, 
+    "id": 218, 
     "trigger": "jq.unwrap"
   }, 
   {
     "description": "jq - wrapAll", 
-    "id": 185, 
+    "id": 219, 
     "trigger": "jq.wall"
   }, 
   {
     "description": "jq - wrapInner", 
-    "id": 186, 
+    "id": 220, 
     "trigger": "jq.winner"
   }, 
   {
     "description": "jq - wrap", 
-    "id": 187, 
+    "id": 221, 
     "trigger": "jq.wrap"
   }, 
   {
     "description": "jq - get", 
-    "id": 188, 
+    "id": 222, 
     "trigger": "jq.get"
   }, 
   {
     "description": "jq - index", 
-    "id": 189, 
+    "id": 223, 
     "trigger": "jq.index"
   }, 
   {
     "description": "jq - toArray", 
-    "id": 190, 
+    "id": 224, 
     "trigger": "jq.toarray"
   }, 
   {
     "description": "jq - offsetParent", 
-    "id": 191, 
+    "id": 225, 
     "trigger": "jq.oparent"
   }, 
   {
     "description": "jq - position", 
-    "id": 192, 
+    "id": 226, 
     "trigger": "jq.pos"
   }, 
   {
     "description": "jq - scrollLeft", 
-    "id": 193, 
+    "id": 227, 
     "trigger": "jq.scleft"
   }, 
   {
     "description": "jq - scrollTop", 
-    "id": 194, 
+    "id": 228, 
     "trigger": "jq.sctop"
   }, 
   {
     "description": "jq - offset", 
-    "id": 195, 
+    "id": 229, 
     "trigger": "jq.oset"
   }, 
   {
     "description": "jq - fx.interval", 
-    "id": 196, 
+    "id": 230, 
     "trigger": "jq.fxi"
   }, 
   {
     "description": "jq - fx.off", 
-    "id": 197, 
+    "id": 231, 
     "trigger": "jq.fxo"
   }, 
   {
     "description": "jq - jquery", 
-    "id": 198, 
+    "id": 232, 
     "trigger": "jq.jprop"
   }, 
   {
     "description": "jq - length", 
-    "id": 199, 
+    "id": 233, 
     "trigger": "jq.len"
   }, 
   {
     "description": "jq - all", 
-    "id": 200, 
+    "id": 234, 
     "trigger": "jq.all"
   }, 
   {
     "description": "jq - :animated", 
-    "id": 201, 
+    "id": 235, 
     "trigger": "jq.:a"
   }, 
   {
     "description": "jq - Attribute Contains Prefix", 
-    "id": 202, 
+    "id": 236, 
     "trigger": "jq.[]|"
   }, 
   {
     "description": "jq - Attribute Contains", 
-    "id": 203, 
+    "id": 237, 
     "trigger": "jq.[]*"
   }, 
   {
     "description": "jq - Attribute Contains Word", 
-    "id": 204, 
+    "id": 238, 
     "trigger": "jq.[]~"
   }, 
   {
     "description": "jq - Attribute Ends With", 
-    "id": 205, 
+    "id": 239, 
     "trigger": "jq.[]$"
   }, 
   {
     "description": "jq - Attribute Equals", 
-    "id": 206, 
+    "id": 240, 
     "trigger": "jq.[]="
   }, 
   {
     "description": "jq - Attribute Not Equal", 
-    "id": 207, 
+    "id": 241, 
     "trigger": "jq.[]!"
   }, 
   {
     "description": "jq - Attribute Starts With", 
-    "id": 208, 
+    "id": 242, 
     "trigger": "jq.[]^"
   }, 
   {
     "description": "jq - :button", 
-    "id": 209, 
+    "id": 243, 
     "trigger": "jq.:b"
   }, 
   {
     "description": "jq - :checkbox", 
-    "id": 210, 
+    "id": 244, 
     "trigger": "jq.:c"
   }, 
   {
     "description": "jq - :checked", 
-    "id": 211, 
+    "id": 245, 
     "trigger": "jq.:ch"
   }, 
   {
     "description": "jq - :child", 
-    "id": 212, 
+    "id": 246, 
     "trigger": "jq.:chi"
   }, 
   {
     "description": "jq - class", 
-    "id": 213, 
+    "id": 247, 
     "trigger": "jq.:cl"
   }, 
   {
     "description": "jq - :contains", 
-    "id": 214, 
+    "id": 248, 
     "trigger": "jq.:co"
   }, 
   {
     "description": "jq - descendant", 
-    "id": 215, 
+    "id": 249, 
     "trigger": "jq.des"
   }, 
   {
     "description": "jq - :disabled", 
-    "id": 216, 
+    "id": 250, 
     "trigger": "jq.:d"
   }, 
   {
     "description": "jq - element", 
-    "id": 217, 
+    "id": 251, 
     "trigger": "jq.$"
   }, 
   {
     "description": "jq - :empty", 
-    "id": 218, 
+    "id": 252, 
     "trigger": "jq.:e"
   }, 
   {
     "description": "jq - :enabled", 
-    "id": 219, 
+    "id": 253, 
     "trigger": "jq.:en"
   }, 
   {
     "description": "jq - :eq", 
-    "id": 220, 
+    "id": 254, 
     "trigger": "jq.:eq"
   }, 
   {
     "description": "jq - :even", 
-    "id": 221, 
+    "id": 255, 
     "trigger": "jq.:ev"
   }, 
   {
     "description": "jq - :file", 
-    "id": 222, 
+    "id": 256, 
     "trigger": "jq.:f"
   }, 
   {
     "description": "jq - :first-child", 
-    "id": 223, 
+    "id": 257, 
     "trigger": "jq.:fc"
   }, 
   {
     "description": "jq - :first-of-type", 
-    "id": 224, 
+    "id": 258, 
     "trigger": "jq.:ft"
   }, 
   {
     "description": "jq - :first", 
-    "id": 225, 
+    "id": 259, 
     "trigger": "jq.:fi"
   }, 
   {
     "description": "jq - :focus", 
-    "id": 226, 
+    "id": 260, 
     "trigger": "jq.:fo"
   }, 
   {
     "description": "jq - :gt", 
-    "id": 227, 
+    "id": 261, 
     "trigger": "jq.:gt"
   }, 
   {
     "description": "jq - Has Attribute", 
-    "id": 228, 
+    "id": 262, 
     "trigger": "jq.[]"
   }, 
   {
     "description": "jq - :has", 
-    "id": 229, 
+    "id": 263, 
     "trigger": "jq.:h"
   }, 
   {
     "description": "jq - :header", 
-    "id": 230, 
+    "id": 264, 
     "trigger": "jq.:he"
   }, 
   {
     "description": "jq - :hidden", 
-    "id": 231, 
+    "id": 265, 
     "trigger": "jq.:hi"
   }, 
   {
     "description": "jq - id", 
-    "id": 232, 
+    "id": 266, 
     "trigger": "jq.id"
   }, 
   {
     "description": "jq - :image", 
-    "id": 233, 
+    "id": 267, 
     "trigger": "jq.:i"
   }, 
   {
     "description": "jq - :input", 
-    "id": 234, 
+    "id": 268, 
     "trigger": "jq.:in"
   }, 
   {
     "description": "jq - :lang", 
-    "id": 235, 
+    "id": 269, 
     "trigger": "jq.:l"
   }, 
   {
     "description": "jq - :last-child", 
-    "id": 236, 
+    "id": 270, 
     "trigger": "jq.:lc"
   }, 
   {
     "description": "jq - :last-of-type", 
-    "id": 237, 
+    "id": 271, 
     "trigger": "jq.:lty"
   }, 
   {
     "description": "jq - :last", 
-    "id": 238, 
+    "id": 272, 
     "trigger": "jq.:la"
   }, 
   {
     "description": "jq - :lt", 
-    "id": 239, 
+    "id": 273, 
     "trigger": "jq.:lt"
   }, 
   {
     "description": "jq - Multiple Attribute", 
-    "id": 240, 
+    "id": 274, 
     "trigger": "jq.[][]"
   }, 
   {
     "description": "jq - Multiple", 
-    "id": 241, 
+    "id": 275, 
     "trigger": "jq.,"
   }, 
   {
     "description": "jq - Next Adjacent", 
-    "id": 242, 
+    "id": 276, 
     "trigger": "jq.+"
   }, 
   {
     "description": "jq - Next Siblings", 
-    "id": 243, 
-    "trigger": "jq.-snss"
+    "id": 277, 
+    "trigger": "jq.snss"
   }, 
   {
     "description": "jq - :not", 
-    "id": 244, 
+    "id": 278, 
     "trigger": "jq.:not"
   }, 
   {
     "description": "jq - :nth-child", 
-    "id": 245, 
+    "id": 279, 
     "trigger": "jq.:nc"
   }, 
   {
     "description": "jq - :nth-last-child", 
-    "id": 246, 
+    "id": 280, 
     "trigger": "jq.:nlc"
   }, 
   {
     "description": "jq - :nth-last-of-type", 
-    "id": 247, 
+    "id": 281, 
     "trigger": "jq.:nlt"
   }, 
   {
     "description": "jq - :nth-of-type", 
-    "id": 248, 
+    "id": 282, 
     "trigger": "jq.:nt"
   }, 
   {
     "description": "jq - :odd", 
-    "id": 249, 
+    "id": 283, 
     "trigger": "jq.:o"
   }, 
   {
     "description": "jq - :only-child", 
-    "id": 250, 
+    "id": 284, 
     "trigger": "jq.:oc"
   }, 
   {
     "description": "jq - :only-of-type", 
-    "id": 251, 
+    "id": 285, 
     "trigger": "jq.:ot"
   }, 
   {
     "description": "jq - :parent", 
-    "id": 252, 
+    "id": 286, 
     "trigger": "jq.:p"
   }, 
   {
     "description": "jq - :password", 
-    "id": 253, 
+    "id": 287, 
     "trigger": "jq.:pa"
   }, 
   {
     "description": "jq - :radio", 
-    "id": 254, 
+    "id": 288, 
     "trigger": "jq.:r"
   }, 
   {
     "description": "jq - :reset", 
-    "id": 255, 
+    "id": 289, 
     "trigger": "jq.:re"
   }, 
   {
     "description": "jq - :root", 
-    "id": 256, 
+    "id": 290, 
     "trigger": "jq.:ro"
   }, 
   {
     "description": "jq - :selected", 
-    "id": 257, 
+    "id": 291, 
     "trigger": "jq.:s"
   }, 
   {
     "description": "jq - :submit", 
-    "id": 258, 
+    "id": 292, 
     "trigger": "jq.:su"
   }, 
   {
     "description": "jq - :target", 
-    "id": 259, 
+    "id": 293, 
     "trigger": "jq.:t"
   }, 
   {
     "description": "jq - :text", 
-    "id": 260, 
+    "id": 294, 
     "trigger": "jq.:tx"
   }, 
   {
     "description": "jq - :visible", 
-    "id": 261, 
+    "id": 295, 
     "trigger": "jq.:v"
   }, 
   {
     "description": "jq - addBack", 
-    "id": 262, 
+    "id": 296, 
     "trigger": "jq.addback"
   }, 
   {
     "description": "jq - add", 
-    "id": 263, 
+    "id": 297, 
     "trigger": "jq.add"
   }, 
   {
     "description": "jq - children", 
-    "id": 264, 
+    "id": 298, 
     "trigger": "jq.children"
   }, 
   {
     "description": "jq - closest", 
-    "id": 265, 
+    "id": 299, 
     "trigger": "jq.closest"
   }, 
   {
     "description": "jq - contents", 
-    "id": 266, 
+    "id": 300, 
     "trigger": "jq.contents"
   }, 
   {
     "description": "jq - each", 
-    "id": 267, 
+    "id": 301, 
     "trigger": "jq.each"
   }, 
   {
     "description": "jq - end", 
-    "id": 268, 
+    "id": 302, 
     "trigger": "jq.end"
   }, 
   {
     "description": "jq - eq", 
-    "id": 269, 
+    "id": 303, 
     "trigger": "jq.eq"
   }, 
   {
     "description": "jq - filter", 
-    "id": 270, 
+    "id": 304, 
     "trigger": "jq.filter"
   }, 
   {
     "description": "jq - find", 
-    "id": 271, 
+    "id": 305, 
     "trigger": "jq.find"
   }, 
   {
     "description": "jq - first", 
-    "id": 272, 
+    "id": 306, 
     "trigger": "jq.first"
   }, 
   {
     "description": "jq - has", 
-    "id": 273, 
+    "id": 307, 
     "trigger": "jq.has"
   }, 
   {
     "description": "jq - is", 
-    "id": 274, 
+    "id": 308, 
     "trigger": "jq.is"
   }, 
   {
     "description": "jq - last", 
-    "id": 275, 
+    "id": 309, 
     "trigger": "jq.last"
   }, 
   {
     "description": "jq - map", 
-    "id": 276, 
+    "id": 310, 
     "trigger": "jq.map"
   }, 
   {
     "description": "jq - nextAll", 
-    "id": 277, 
+    "id": 311, 
     "trigger": "jq.nextall"
   }, 
   {
     "description": "jq - nextUntil", 
-    "id": 278, 
+    "id": 312, 
     "trigger": "jq.nextuntil"
   }, 
   {
     "description": "jq - next", 
-    "id": 279, 
+    "id": 313, 
     "trigger": "jq.next"
   }, 
   {
     "description": "jq - not", 
-    "id": 280, 
+    "id": 314, 
     "trigger": "jq.not"
   }, 
   {
     "description": "jq - parent", 
-    "id": 281, 
+    "id": 315, 
     "trigger": "jq.parent"
   }, 
   {
     "description": "jq - parentsUntil", 
-    "id": 282, 
+    "id": 316, 
     "trigger": "jq.puntil"
   }, 
   {
     "description": "jq - parents", 
-    "id": 283, 
+    "id": 317, 
     "trigger": "jq.parents"
   }, 
   {
     "description": "jq - prevAll", 
-    "id": 284, 
+    "id": 318, 
     "trigger": "jq.prevall"
   }, 
   {
     "description": "jq - prevUntil", 
-    "id": 285, 
+    "id": 319, 
     "trigger": "jq.prevuntil"
   }, 
   {
     "description": "jq - prev", 
-    "id": 286, 
+    "id": 320, 
     "trigger": "jq.prev"
   }, 
   {
     "description": "jq - siblings", 
-    "id": 287, 
-    "trigger": "jq.-ts"
+    "id": 321, 
+    "trigger": "jq.ts"
   }, 
   {
     "description": "jq - slice", 
-    "id": 288, 
-    "trigger": "jq.-tsl"
+    "id": 322, 
+    "trigger": "jq.tsl"
   }, 
   {
     "description": "jq - contains", 
-    "id": 289, 
+    "id": 323, 
     "trigger": "jq.contains"
   }, 
   {
     "description": "jq - jQuery each", 
-    "id": 290, 
+    "id": 324, 
     "trigger": "jq.jeach"
   }, 
   {
     "description": "jq - extend", 
-    "id": 291, 
+    "id": 325, 
     "trigger": "jq.extend"
   }, 
   {
     "description": "jq - fn.extend", 
-    "id": 292, 
+    "id": 326, 
     "trigger": "jq.fnextend"
   }, 
   {
     "description": "jq - globalEval", 
-    "id": 293, 
+    "id": 327, 
     "trigger": "jq.geval"
   }, 
   {
     "description": "jq - grep", 
-    "id": 294, 
+    "id": 328, 
     "trigger": "jq.grep"
   }, 
   {
     "description": "jq - inArray", 
-    "id": 295, 
+    "id": 329, 
     "trigger": "jq.inarray"
   }, 
   {
     "description": "jq - isEmptyObject", 
-    "id": 296, 
+    "id": 330, 
     "trigger": "jq.ieobject"
   }, 
   {
     "description": "jq - isFunction", 
-    "id": 297, 
+    "id": 331, 
     "trigger": "jq.ifunction"
   }, 
   {
     "description": "jq - isNumeric", 
-    "id": 298, 
+    "id": 332, 
     "trigger": "jq.inumeric"
   }, 
   {
     "description": "jq - isPlainObject", 
-    "id": 299, 
+    "id": 333, 
     "trigger": "jq.ipobject"
   }, 
   {
     "description": "jq - isWindow", 
-    "id": 300, 
+    "id": 334, 
     "trigger": "jq.iwindow"
   }, 
   {
     "description": "jq - isXMLDoc", 
-    "id": 301, 
+    "id": 335, 
     "trigger": "jq.ixmldoc"
   }, 
   {
     "description": "jq - makeArray", 
-    "id": 302, 
+    "id": 336, 
     "trigger": "jq.marray"
   }, 
   {
     "description": "jq - jQuery map", 
-    "id": 303, 
+    "id": 337, 
     "trigger": "jq.jmap"
   }, 
   {
     "description": "jq - merge", 
-    "id": 304, 
+    "id": 338, 
     "trigger": "jq.merge"
   }, 
   {
     "description": "jq - noop", 
-    "id": 305, 
+    "id": 339, 
     "trigger": "jq.noop"
   }, 
   {
     "description": "jq - now", 
-    "id": 306, 
+    "id": 340, 
     "trigger": "jq.now"
   }, 
   {
     "description": "jq - parseHTML", 
-    "id": 307, 
+    "id": 341, 
     "trigger": "jq.parseh"
   }, 
   {
     "description": "jq - parseJSON", 
-    "id": 308, 
+    "id": 342, 
     "trigger": "jq.parsej"
   }, 
   {
     "description": "jq - parseXML", 
-    "id": 309, 
+    "id": 343, 
     "trigger": "jq.parsex"
   }, 
   {
     "description": "jq - proxy", 
-    "id": 310, 
+    "id": 344, 
     "trigger": "jq.proxy"
   }, 
   {
     "description": "jq - trim", 
-    "id": 311, 
+    "id": 345, 
     "trigger": "jq.trim"
   }, 
   {
     "description": "jq - jQuery type", 
-    "id": 312, 
+    "id": 346, 
     "trigger": "jq.jtype"
   }, 
   {
     "description": "jq - unique", 
-    "id": 313, 
+    "id": 347, 
     "trigger": "jq.unique"
   }, 
   {
     "description": "jq - jQuery Boilerplate", 
-    "id": 314, 
+    "id": 348, 
     "trigger": "jq.b"
   }, 
   {
+    "description": "ES6 React.Component class", 
+    "id": 349, 
+    "trigger": "6rec"
+  }, 
+  {
+    "description": "React createClass template", 
+    "id": 350, 
+    "trigger": "rec"
+  }, 
+  {
+    "description": "React mixins", 
+    "id": 351, 
+    "trigger": "mix"
+  }, 
+  {
+    "description": "ES6 React componentDidMount", 
+    "id": 352, 
+    "trigger": "6cd"
+  }, 
+  {
+    "description": "ES6 React componentWillMount", 
+    "id": 353, 
+    "trigger": "6cw"
+  }, 
+  {
+    "description": "React componentWillUnmount", 
+    "id": 354, 
+    "trigger": "6cwu"
+  }, 
+  {
+    "description": "React componentDidMount", 
+    "id": 355, 
+    "trigger": "cd"
+  }, 
+  {
+    "description": "React componentWillMount", 
+    "id": 356, 
+    "trigger": "cw"
+  }, 
+  {
+    "description": "React componentWillUnmount", 
+    "id": 357, 
+    "trigger": "cwu"
+  }, 
+  {
+    "description": "React unmountComponent at node", 
+    "id": 358, 
+    "trigger": "unm"
+  }, 
+  {
+    "description": "ES6 React componentDidUpdate", 
+    "id": 359, 
+    "trigger": "6cdu"
+  }, 
+  {
+    "description": "ES6 React componentWillReceiveProps", 
+    "id": 360, 
+    "trigger": "6cwr"
+  }, 
+  {
+    "description": "ES6 React componentWillUpdate", 
+    "id": 361, 
+    "trigger": "6cwup"
+  }, 
+  {
+    "description": "ES6 React shouldComponentUpdate", 
+    "id": 362, 
+    "trigger": "6scu"
+  }, 
+  {
+    "description": "React componentDidUpdate", 
+    "id": 363, 
+    "trigger": "cdu"
+  }, 
+  {
+    "description": "React componentWillReceiveProps", 
+    "id": 364, 
+    "trigger": "cwr"
+  }, 
+  {
+    "description": "React componentWillUpdate", 
+    "id": 365, 
+    "trigger": "cwup"
+  }, 
+  {
+    "description": "React shouldComponentUpdate", 
+    "id": 366, 
+    "trigger": "scu"
+  }, 
+  {
+    "description": "React ChildContextTypes", 
+    "id": 367, 
+    "trigger": "ctt"
+  }, 
+  {
+    "description": "React contextTypes", 
+    "id": 368, 
+    "trigger": "cty"
+  }, 
+  {
+    "description": "React getChildContext", 
+    "id": 369, 
+    "trigger": "gc"
+  }, 
+  {
+    "description": "React withContext", 
+    "id": 370, 
+    "trigger": "rwc"
+  }, 
+  {
+    "description": "React.createElement()", 
+    "id": 371, 
+    "trigger": "rc"
+  }, 
+  {
+    "description": "onBlur", 
+    "id": 372, 
+    "trigger": "onbl"
+  }, 
+  {
+    "description": "onChange", 
+    "id": 373, 
+    "trigger": "onch"
+  }, 
+  {
+    "description": "onClick", 
+    "id": 374, 
+    "trigger": "oncl"
+  }, 
+  {
+    "description": "onContextMenu", 
+    "id": 375, 
+    "trigger": "oncm"
+  }, 
+  {
+    "description": "onCopy", 
+    "id": 376, 
+    "trigger": "onco"
+  }, 
+  {
+    "description": "onCut", 
+    "id": 377, 
+    "trigger": "onct"
+  }, 
+  {
+    "description": "onDoubleClick", 
+    "id": 378, 
+    "trigger": "ondc"
+  }, 
+  {
+    "description": "onDragEnd", 
+    "id": 379, 
+    "trigger": "onde"
+  }, 
+  {
+    "description": "onDragEnter", 
+    "id": 380, 
+    "trigger": "onden"
+  }, 
+  {
+    "description": "onDragExit", 
+    "id": 381, 
+    "trigger": "ondex"
+  }, 
+  {
+    "description": "onDragLeave", 
+    "id": 382, 
+    "trigger": "ondl"
+  }, 
+  {
+    "description": "onDragOver", 
+    "id": 383, 
+    "trigger": "ondo"
+  }, 
+  {
+    "description": "onDragStart", 
+    "id": 384, 
+    "trigger": "onds"
+  }, 
+  {
+    "description": "onDrop", 
+    "id": 385, 
+    "trigger": "ondr"
+  }, 
+  {
+    "description": "onFocus", 
+    "id": 386, 
+    "trigger": "onfo"
+  }, 
+  {
+    "description": "onInput", 
+    "id": 387, 
+    "trigger": "onin"
+  }, 
+  {
+    "description": "onKeyDown", 
+    "id": 388, 
+    "trigger": "onkd"
+  }, 
+  {
+    "description": "onKeyPress", 
+    "id": 389, 
+    "trigger": "onkp"
+  }, 
+  {
+    "description": "onKeyUp", 
+    "id": 390, 
+    "trigger": "onku"
+  }, 
+  {
+    "description": "onMouseDown", 
+    "id": 391, 
+    "trigger": "onmd"
+  }, 
+  {
+    "description": "onMouseEnter", 
+    "id": 392, 
+    "trigger": "onme"
+  }, 
+  {
+    "description": "onMouseLeave", 
+    "id": 393, 
+    "trigger": "onml"
+  }, 
+  {
+    "description": "onMouseMove", 
+    "id": 394, 
+    "trigger": "onmm"
+  }, 
+  {
+    "description": "onMouseOut", 
+    "id": 395, 
+    "trigger": "onmo"
+  }, 
+  {
+    "description": "onMouseOver", 
+    "id": 396, 
+    "trigger": "onmov"
+  }, 
+  {
+    "description": "onMouseUp", 
+    "id": 397, 
+    "trigger": "onmu"
+  }, 
+  {
+    "description": "onPaste", 
+    "id": 398, 
+    "trigger": "onpa"
+  }, 
+  {
+    "description": "onScroll", 
+    "id": 399, 
+    "trigger": "onsc"
+  }, 
+  {
+    "description": "onSubmit", 
+    "id": 400, 
+    "trigger": "onsu"
+  }, 
+  {
+    "description": "onTouchCancel", 
+    "id": 401, 
+    "trigger": "ontc"
+  }, 
+  {
+    "description": "onTouchEnd", 
+    "id": 402, 
+    "trigger": "onte"
+  }, 
+  {
+    "description": "onTouchMove", 
+    "id": 403, 
+    "trigger": "ontm"
+  }, 
+  {
+    "description": "onTouchStart", 
+    "id": 404, 
+    "trigger": "onts"
+  }, 
+  {
+    "description": "onWheel", 
+    "id": 405, 
+    "trigger": "onwh"
+  }, 
+  {
+    "description": "React getDefaultProps", 
+    "id": 406, 
+    "trigger": "gd"
+  }, 
+  {
+    "description": "React.findDOMNode", 
+    "id": 407, 
+    "trigger": "fdn"
+  }, 
+  {
+    "description": "React getInitialState", 
+    "id": 408, 
+    "trigger": "gi"
+  }, 
+  {
+    "description": "React JSX", 
+    "id": 409, 
+    "trigger": "jsx"
+  }, 
+  {
+    "description": "React JSX script src", 
+    "id": 410, 
+    "trigger": "jsx:src"
+  }, 
+  {
+    "description": "React JSX script type", 
+    "id": 411, 
+    "trigger": "jsxt"
+  }, 
+  {
+    "description": "propTypes", 
+    "id": 412, 
+    "trigger": "pt"
+  }, 
+  {
+    "description": "React.PropTypes", 
+    "id": 413, 
+    "trigger": "rp"
+  }, 
+  {
+    "description": "React.PropTypes.array", 
+    "id": 414, 
+    "trigger": "rpa"
+  }, 
+  {
+    "description": "React.PropTypes.arrayOf", 
+    "id": 415, 
+    "trigger": "rpao"
+  }, 
+  {
+    "description": "React.PropTypes.boolean", 
+    "id": 416, 
+    "trigger": "rpb"
+  }, 
+  {
+    "description": "React.PropTypes.element", 
+    "id": 417, 
+    "trigger": "rpe"
+  }, 
+  {
+    "description": "React.PropTypes.func", 
+    "id": 418, 
+    "trigger": "rpf"
+  }, 
+  {
+    "description": "React.PropTypes.instanceOf", 
+    "id": 419, 
+    "trigger": "rpi"
+  }, 
+  {
+    "description": "React.PropTypes.number", 
+    "id": 420, 
+    "trigger": "rpn"
+  }, 
+  {
+    "description": "React.PropTypes.object", 
+    "id": 421, 
+    "trigger": "rpobj"
+  }, 
+  {
+    "description": "React.PropTypes.oneOf", 
+    "id": 422, 
+    "trigger": "rpo"
+  }, 
+  {
+    "description": "React.PropTypes.oneOfType", 
+    "id": 423, 
+    "trigger": "rpot"
+  }, 
+  {
+    "description": "React.PropTypes.shape", 
+    "id": 424, 
+    "trigger": "rpsh"
+  }, 
+  {
+    "description": "React.PropTypes.string", 
+    "id": 425, 
+    "trigger": "rps"
+  }, 
+  {
+    "description": "React.addons.classSet", 
+    "id": 426, 
+    "trigger": "raCS"
+  }, 
+  {
+    "description": "React.addons.cloneWithProps", 
+    "id": 427, 
+    "trigger": "rclone"
+  }, 
+  {
+    "description": "React.addons.CSSTransitionGroup", 
+    "id": 428, 
+    "trigger": "raCSS"
+  }, 
+  {
+    "description": "React.addons.LinkedStateMixin", 
+    "id": 429, 
+    "trigger": "raL"
+  }, 
+  {
+    "description": "this.linkState", 
+    "id": 430, 
+    "trigger": "thisl"
+  }, 
+  {
+    "description": "valueLink", 
+    "id": 431, 
+    "trigger": "vl"
+  }, 
+  {
+    "description": "React.addons.CSSTransitionGroup.transitionName", 
+    "id": 432, 
+    "trigger": "tn"
+  }, 
+  {
+    "description": "React.DOM.a", 
+    "id": 433, 
+    "trigger": "Ra"
+  }, 
+  {
+    "description": "React.DOM.abbr", 
+    "id": 434, 
+    "trigger": "Rabbr"
+  }, 
+  {
+    "description": "React.DOM.address", 
+    "id": 435, 
+    "trigger": "Raddress"
+  }, 
+  {
+    "description": "React.DOM.area", 
+    "id": 436, 
+    "trigger": "Rarea"
+  }, 
+  {
+    "description": "React.DOM.article", 
+    "id": 437, 
+    "trigger": "Rarticle"
+  }, 
+  {
+    "description": "React.DOM.aside", 
+    "id": 438, 
+    "trigger": "Raside"
+  }, 
+  {
+    "description": "React.DOM.audio", 
+    "id": 439, 
+    "trigger": "Raudio"
+  }, 
+  {
+    "description": "React.DOM.b", 
+    "id": 440, 
+    "trigger": "Rb"
+  }, 
+  {
+    "description": "React.DOM.base", 
+    "id": 441, 
+    "trigger": "Rbase"
+  }, 
+  {
+    "description": "React.DOM.bdi", 
+    "id": 442, 
+    "trigger": "Rbdi"
+  }, 
+  {
+    "description": "React.DOM.bdo", 
+    "id": 443, 
+    "trigger": "Rbdo"
+  }, 
+  {
+    "description": "React.DOM.big", 
+    "id": 444, 
+    "trigger": "Rbig"
+  }, 
+  {
+    "description": "React.DOM.blockquote", 
+    "id": 445, 
+    "trigger": "Rblockquote"
+  }, 
+  {
+    "description": "React.DOM.body", 
+    "id": 446, 
+    "trigger": "Rbody"
+  }, 
+  {
+    "description": "React.DOM.br", 
+    "id": 447, 
+    "trigger": "Rbr"
+  }, 
+  {
+    "description": "React.DOM.button", 
+    "id": 448, 
+    "trigger": "Rbutton"
+  }, 
+  {
+    "description": "React.DOM.canvas", 
+    "id": 449, 
+    "trigger": "Rcanvas"
+  }, 
+  {
+    "description": "React.DOM.caption", 
+    "id": 450, 
+    "trigger": "Rcaption"
+  }, 
+  {
+    "description": "React.DOM.circle", 
+    "id": 451, 
+    "trigger": "Rcircle"
+  }, 
+  {
+    "description": "React.DOM.cite", 
+    "id": 452, 
+    "trigger": "Rcite"
+  }, 
+  {
+    "description": "React.DOM.code", 
+    "id": 453, 
+    "trigger": "Rcode"
+  }, 
+  {
+    "description": "React.DOM.col", 
+    "id": 454, 
+    "trigger": "Rcol"
+  }, 
+  {
+    "description": "React.DOM.colgroup", 
+    "id": 455, 
+    "trigger": "Rcolgroup"
+  }, 
+  {
+    "description": "React.DOM.data", 
+    "id": 456, 
+    "trigger": "Rdata"
+  }, 
+  {
+    "description": "React.DOM.datalist", 
+    "id": 457, 
+    "trigger": "Rdatalist"
+  }, 
+  {
+    "description": "React.DOM.dd", 
+    "id": 458, 
+    "trigger": "Rdd"
+  }, 
+  {
+    "description": "React.DOM.defs", 
+    "id": 459, 
+    "trigger": "Rdefs"
+  }, 
+  {
+    "description": "React.DOM.del", 
+    "id": 460, 
+    "trigger": "Rdel"
+  }, 
+  {
+    "description": "React.DOM.details", 
+    "id": 461, 
+    "trigger": "Rdetails"
+  }, 
+  {
+    "description": "React.DOM.dfn", 
+    "id": 462, 
+    "trigger": "Rdfn"
+  }, 
+  {
+    "description": "React.DOM.div", 
+    "id": 463, 
+    "trigger": "Rdiv"
+  }, 
+  {
+    "description": "React.DOM.dl", 
+    "id": 464, 
+    "trigger": "Rdl"
+  }, 
+  {
+    "description": "React.DOM.dt", 
+    "id": 465, 
+    "trigger": "Rdt"
+  }, 
+  {
+    "description": "React.DOM.em", 
+    "id": 466, 
+    "trigger": "Rem"
+  }, 
+  {
+    "description": "React.DOM.embed", 
+    "id": 467, 
+    "trigger": "Rembed"
+  }, 
+  {
+    "description": "React.DOM.fieldset", 
+    "id": 468, 
+    "trigger": "Rfieldset"
+  }, 
+  {
+    "description": "React.DOM.figcaption", 
+    "id": 469, 
+    "trigger": "Rfigcaption"
+  }, 
+  {
+    "description": "React.DOM.figure", 
+    "id": 470, 
+    "trigger": "Rfigure"
+  }, 
+  {
+    "description": "React.DOM.footer", 
+    "id": 471, 
+    "trigger": "Rfooter"
+  }, 
+  {
+    "description": "React.DOM.form", 
+    "id": 472, 
+    "trigger": "Rform"
+  }, 
+  {
+    "description": "React.DOM.g", 
+    "id": 473, 
+    "trigger": "Rg"
+  }, 
+  {
+    "description": "React.DOM.h1", 
+    "id": 474, 
+    "trigger": "Rh1"
+  }, 
+  {
+    "description": "React.DOM.h2", 
+    "id": 475, 
+    "trigger": "Rh2"
+  }, 
+  {
+    "description": "React.DOM.h3", 
+    "id": 476, 
+    "trigger": "Rh3"
+  }, 
+  {
+    "description": "React.DOM.h4", 
+    "id": 477, 
+    "trigger": "Rh4"
+  }, 
+  {
+    "description": "React.DOM.h5", 
+    "id": 478, 
+    "trigger": "Rh5"
+  }, 
+  {
+    "description": "React.DOM.h6", 
+    "id": 479, 
+    "trigger": "Rh6"
+  }, 
+  {
+    "description": "React.DOM.head", 
+    "id": 480, 
+    "trigger": "Rhead"
+  }, 
+  {
+    "description": "React.DOM.header", 
+    "id": 481, 
+    "trigger": "Rheader"
+  }, 
+  {
+    "description": "React.DOM.hr", 
+    "id": 482, 
+    "trigger": "Rhr"
+  }, 
+  {
+    "description": "React.DOM.html", 
+    "id": 483, 
+    "trigger": "Rhtml"
+  }, 
+  {
+    "description": "React.DOM.i", 
+    "id": 484, 
+    "trigger": "Ri"
+  }, 
+  {
+    "description": "React.DOM.iframe", 
+    "id": 485, 
+    "trigger": "Riframe"
+  }, 
+  {
+    "description": "React.DOM.img", 
+    "id": 486, 
+    "trigger": "Rimg"
+  }, 
+  {
+    "description": "React.DOM.input", 
+    "id": 487, 
+    "trigger": "Rinput"
+  }, 
+  {
+    "description": "React.DOM.ins", 
+    "id": 488, 
+    "trigger": "Rins"
+  }, 
+  {
+    "description": "React.DOM.kbd", 
+    "id": 489, 
+    "trigger": "Rkbd"
+  }, 
+  {
+    "description": "React.DOM.keygen", 
+    "id": 490, 
+    "trigger": "Rkeygen"
+  }, 
+  {
+    "description": "React.DOM.label", 
+    "id": 491, 
+    "trigger": "Rlabel"
+  }, 
+  {
+    "description": "React.DOM.legend", 
+    "id": 492, 
+    "trigger": "Rlegend"
+  }, 
+  {
+    "description": "React.DOM.li", 
+    "id": 493, 
+    "trigger": "Rli"
+  }, 
+  {
+    "description": "React.DOM.line", 
+    "id": 494, 
+    "trigger": "Rline"
+  }, 
+  {
+    "description": "React.DOM.linearGradient", 
+    "id": 495, 
+    "trigger": "RlinearGradient"
+  }, 
+  {
+    "description": "React.DOM.link", 
+    "id": 496, 
+    "trigger": "Rlink"
+  }, 
+  {
+    "description": "React.DOM.main", 
+    "id": 497, 
+    "trigger": "Rmain"
+  }, 
+  {
+    "description": "React.DOM.map", 
+    "id": 498, 
+    "trigger": "Rmap"
+  }, 
+  {
+    "description": "React.DOM.mark", 
+    "id": 499, 
+    "trigger": "Rmark"
+  }, 
+  {
+    "description": "React.DOM.menu", 
+    "id": 500, 
+    "trigger": "Rmenu"
+  }, 
+  {
+    "description": "React.DOM.menuitem", 
+    "id": 501, 
+    "trigger": "Rmenuitem"
+  }, 
+  {
+    "description": "React.DOM.meta", 
+    "id": 502, 
+    "trigger": "Rmeta"
+  }, 
+  {
+    "description": "React.DOM.meter", 
+    "id": 503, 
+    "trigger": "Rmeter"
+  }, 
+  {
+    "description": "React.DOM.nav", 
+    "id": 504, 
+    "trigger": "Rnav"
+  }, 
+  {
+    "description": "React.DOM.noscript", 
+    "id": 505, 
+    "trigger": "Rnoscript"
+  }, 
+  {
+    "description": "React.DOM.object", 
+    "id": 506, 
+    "trigger": "Robject"
+  }, 
+  {
+    "description": "React.DOM.ol", 
+    "id": 507, 
+    "trigger": "Rol"
+  }, 
+  {
+    "description": "React.DOM.optgroup", 
+    "id": 508, 
+    "trigger": "Roptgroup"
+  }, 
+  {
+    "description": "React.DOM.option", 
+    "id": 509, 
+    "trigger": "Roption"
+  }, 
+  {
+    "description": "React.DOM.output", 
+    "id": 510, 
+    "trigger": "Routput"
+  }, 
+  {
+    "description": "React.DOM.p", 
+    "id": 511, 
+    "trigger": "Rp"
+  }, 
+  {
+    "description": "React.DOM.param", 
+    "id": 512, 
+    "trigger": "Rparam"
+  }, 
+  {
+    "description": "React.DOM.path", 
+    "id": 513, 
+    "trigger": "Rpath"
+  }, 
+  {
+    "description": "React.DOM.polygon", 
+    "id": 514, 
+    "trigger": "Rpolygon"
+  }, 
+  {
+    "description": "React.DOM.polyline", 
+    "id": 515, 
+    "trigger": "Rpolyline"
+  }, 
+  {
+    "description": "React.DOM.pre", 
+    "id": 516, 
+    "trigger": "Rpre"
+  }, 
+  {
+    "description": "React.DOM.progress", 
+    "id": 517, 
+    "trigger": "Rprogress"
+  }, 
+  {
+    "description": "React.DOM.q", 
+    "id": 518, 
+    "trigger": "Rq"
+  }, 
+  {
+    "description": "React.DOM.radialGradient", 
+    "id": 519, 
+    "trigger": "RradialGradient"
+  }, 
+  {
+    "description": "React.DOM.rect", 
+    "id": 520, 
+    "trigger": "Rrect"
+  }, 
+  {
+    "description": "React.DOM.rp", 
+    "id": 521, 
+    "trigger": "Rrp"
+  }, 
+  {
+    "description": "React.DOM.rt", 
+    "id": 522, 
+    "trigger": "Rrt"
+  }, 
+  {
+    "description": "React.DOM.ruby", 
+    "id": 523, 
+    "trigger": "Rruby"
+  }, 
+  {
+    "description": "React.DOM.s", 
+    "id": 524, 
+    "trigger": "Rs"
+  }, 
+  {
+    "description": "React.DOM.samp", 
+    "id": 525, 
+    "trigger": "Rsamp"
+  }, 
+  {
+    "description": "React.DOM.script", 
+    "id": 526, 
+    "trigger": "Rscript"
+  }, 
+  {
+    "description": "React.DOM.section", 
+    "id": 527, 
+    "trigger": "Rsection"
+  }, 
+  {
+    "description": "React.DOM.select", 
+    "id": 528, 
+    "trigger": "Rselect"
+  }, 
+  {
+    "description": "React.DOM.small", 
+    "id": 529, 
+    "trigger": "Rsmall"
+  }, 
+  {
+    "description": "React.DOM.source", 
+    "id": 530, 
+    "trigger": "Rsource"
+  }, 
+  {
+    "description": "React.DOM.span", 
+    "id": 531, 
+    "trigger": "Rspan"
+  }, 
+  {
+    "description": "React.DOM.stop", 
+    "id": 532, 
+    "trigger": "Rstop"
+  }, 
+  {
+    "description": "React.DOM.strong", 
+    "id": 533, 
+    "trigger": "Rstrong"
+  }, 
+  {
+    "description": "React.DOM.style", 
+    "id": 534, 
+    "trigger": "Rstyle"
+  }, 
+  {
+    "description": "React.DOM.sub", 
+    "id": 535, 
+    "trigger": "Rsub"
+  }, 
+  {
+    "description": "React.DOM.summary", 
+    "id": 536, 
+    "trigger": "Rsummary"
+  }, 
+  {
+    "description": "React.DOM.sup", 
+    "id": 537, 
+    "trigger": "Rsup"
+  }, 
+  {
+    "description": "React.DOM.svg", 
+    "id": 538, 
+    "trigger": "Rsvg"
+  }, 
+  {
+    "description": "React.DOM.table", 
+    "id": 539, 
+    "trigger": "Rtable"
+  }, 
+  {
+    "description": "React.DOM.tbody", 
+    "id": 540, 
+    "trigger": "Rtbody"
+  }, 
+  {
+    "description": "React.DOM.td", 
+    "id": 541, 
+    "trigger": "Rtd"
+  }, 
+  {
+    "description": "React.DOM.text", 
+    "id": 542, 
+    "trigger": "Rtext"
+  }, 
+  {
+    "description": "React.DOM.textarea", 
+    "id": 543, 
+    "trigger": "Rtextarea"
+  }, 
+  {
+    "description": "React.DOM.tfoot", 
+    "id": 544, 
+    "trigger": "Rtfoot"
+  }, 
+  {
+    "description": "React.DOM.th", 
+    "id": 545, 
+    "trigger": "Rth"
+  }, 
+  {
+    "description": "React.DOM.thead", 
+    "id": 546, 
+    "trigger": "Rthead"
+  }, 
+  {
+    "description": "React.DOM.time", 
+    "id": 547, 
+    "trigger": "Rtime"
+  }, 
+  {
+    "description": "React.DOM.title", 
+    "id": 548, 
+    "trigger": "Rtitle"
+  }, 
+  {
+    "description": "React.DOM.tr", 
+    "id": 549, 
+    "trigger": "Rtr"
+  }, 
+  {
+    "description": "React.DOM.track", 
+    "id": 550, 
+    "trigger": "Rtrack"
+  }, 
+  {
+    "description": "React.DOM.u", 
+    "id": 551, 
+    "trigger": "Ru"
+  }, 
+  {
+    "description": "React.DOM.ul", 
+    "id": 552, 
+    "trigger": "Rul"
+  }, 
+  {
+    "description": "React.DOM.video", 
+    "id": 553, 
+    "trigger": "Rvideo"
+  }, 
+  {
+    "description": "React.DOM.wbr", 
+    "id": 554, 
+    "trigger": "Rwbr"
+  }, 
+  {
+    "description": "React.render", 
+    "id": 555, 
+    "trigger": "ren"
+  }, 
+  {
+    "description": "React render with React.DOM", 
+    "id": 556, 
+    "trigger": "rren"
+  }, 
+  {
+    "description": "React this.setProps", 
+    "id": 557, 
+    "trigger": "sp"
+  }, 
+  {
+    "description": "React this.setState", 
+    "id": 558, 
+    "trigger": "ss"
+  }, 
+  {
+    "description": "React this.context", 
+    "id": 559, 
+    "trigger": "thisc"
+  }, 
+  {
+    "description": "React this.props", 
+    "id": 560, 
+    "trigger": "thisp"
+  }, 
+  {
+    "description": "React this.refs", 
+    "id": 561, 
+    "trigger": "thisr"
+  }, 
+  {
+    "description": "React this.state", 
+    "id": 562, 
+    "trigger": "thiss"
+  }, 
+  {
+    "description": "React this.transferPropsTo", 
+    "id": 563, 
+    "trigger": "thistr"
+  }, 
+  {
     "description": "jdp - Command", 
-    "id": 315, 
+    "id": 564, 
     "trigger": "jdp.command"
   }, 
   {
     "description": "jdp - Constructor", 
-    "id": 316, 
+    "id": 565, 
     "trigger": "jdp.constructor"
   }, 
   {
     "description": "jdp - Decorator", 
-    "id": 317, 
+    "id": 566, 
     "trigger": "jdp.decorator"
   }, 
   {
     "description": "jdp - Facade", 
-    "id": 318, 
+    "id": 567, 
     "trigger": "jdp.facade"
   }, 
   {
     "description": "jdp - Factory", 
-    "id": 319, 
+    "id": 568, 
     "trigger": "jdp.factory"
   }, 
   {
     "description": "jdp - Flyweight", 
-    "id": 320, 
+    "id": 569, 
     "trigger": "jdp.flyweight"
   }, 
   {
     "description": "jdp - Mediator", 
-    "id": 321, 
+    "id": 570, 
     "trigger": "jdp.mediator"
   }, 
   {
     "description": "jdp - Mixin", 
-    "id": 322, 
+    "id": 571, 
     "trigger": "jdp.mixin"
   }, 
   {
     "description": "jdp - Module", 
-    "id": 323, 
+    "id": 572, 
     "trigger": "jdp.module"
   }, 
   {
     "description": "jdp - Observer", 
-    "id": 324, 
+    "id": 573, 
     "trigger": "jdp.observer"
   }, 
   {
     "description": "jdp - Prototype", 
-    "id": 325, 
+    "id": 574, 
     "trigger": "jdp.prototype"
   }, 
   {
     "description": "jdp - Revealing Module", 
-    "id": 326, 
+    "id": 575, 
     "trigger": "jdp.rmodule"
   }, 
   {
     "description": "jdp - Singleton", 
-    "id": 327, 
+    "id": 576, 
     "trigger": "jdp.singleton"
   }, 
   {
     "description": "jumd - AMD Web Global", 
-    "id": 328, 
+    "id": 577, 
     "trigger": "jumd.awg"
   }, 
   {
     "description": "jumd - AMD Web", 
-    "id": 329, 
+    "id": 578, 
     "trigger": "jumd.aw"
   }, 
   {
     "description": "jumd - CommonJS Adapter", 
-    "id": 330, 
+    "id": 579, 
     "trigger": "jumd.ca"
   }, 
   {
     "description": "jumd - CommonJS Strict Global", 
-    "id": 331, 
+    "id": 580, 
     "trigger": "jumd.csg"
   }, 
   {
     "description": "jumd - CommonJS Strict", 
-    "id": 332, 
+    "id": 581, 
     "trigger": "jumd.cs"
   }, 
   {
     "description": "jumd - jQuery plugin", 
-    "id": 333, 
+    "id": 582, 
     "trigger": "jumd.jp"
   }, 
   {
     "description": "jumd - Node Adapter", 
-    "id": 334, 
+    "id": 583, 
     "trigger": "jumd.na"
   }, 
   {
     "description": "jumd - Return Exports Global", 
-    "id": 335, 
+    "id": 584, 
     "trigger": "jumd.reg"
   }, 
   {
     "description": "jumd - Return Exports", 
-    "id": 336, 
+    "id": 585, 
     "trigger": "jumd.re"
   }, 
   {
     "description": "tc - Expect to.be.a", 
-    "id": 337, 
+    "id": 586, 
     "trigger": "tc.e.tba"
   }, 
   {
     "description": "tc - Expect to.equal", 
-    "id": 338, 
+    "id": 587, 
     "trigger": "tc.e.te"
   }, 
   {
     "description": "tc - Expect to.have.length", 
-    "id": 339, 
+    "id": 588, 
     "trigger": "tc.e.thl"
   }, 
   {
     "description": "tc - Expect to.have.property", 
-    "id": 340, 
+    "id": 589, 
     "trigger": "tc.e.thp"
   }, 
   {
     "description": "tc - Should be.a", 
-    "id": 341, 
+    "id": 590, 
     "trigger": "tc.s.ba"
   }, 
   {
     "description": "tc - Should equal", 
-    "id": 342, 
+    "id": 591, 
     "trigger": "tc.s.e"
   }, 
   {
     "description": "tc - Should have.length", 
-    "id": 343, 
+    "id": 592, 
     "trigger": "tc.s.hl"
   }, 
   {
     "description": "tc - Should have.property", 
-    "id": 344, 
+    "id": 593, 
     "trigger": "tc.s.hp"
   }, 
   {
     "description": "tc - Assert equal", 
-    "id": 345, 
+    "id": 594, 
     "trigger": "tc.a.e"
   }, 
   {
     "description": "tc - Assert lengthOf", 
-    "id": 346, 
+    "id": 595, 
     "trigger": "tc.a.lo"
   }, 
   {
     "description": "tc - Assert typeOf", 
-    "id": 347, 
+    "id": 596, 
     "trigger": "tc.a.to"
   }, 
   {
     "description": "t - afterEach", 
-    "id": 348, 
+    "id": 597, 
     "trigger": "t.aftereach"
   }, 
   {
     "description": "t - after", 
-    "id": 349, 
+    "id": 598, 
     "trigger": "t.after"
   }, 
   {
     "description": "t - beforeEach", 
-    "id": 350, 
+    "id": 599, 
     "trigger": "t.beforeeach"
   }, 
   {
     "description": "t - before", 
-    "id": 351, 
+    "id": 600, 
     "trigger": "t.before"
   }, 
   {
     "description": "t - describe", 
-    "id": 352, 
+    "id": 601, 
     "trigger": "t.describe"
   }, 
   {
     "description": "t - it", 
-    "id": 353, 
+    "id": 602, 
     "trigger": "t.it"
   }, 
   {
     "description": "tj - Expect toBeCloseTo", 
-    "id": 354, 
+    "id": 603, 
     "trigger": "tj.closeto"
   }, 
   {
     "description": "tj - Expect toBeContain", 
-    "id": 355, 
+    "id": 604, 
     "trigger": "tj.contain"
   }, 
   {
     "description": "tj - Expect toBeDefined", 
-    "id": 356, 
+    "id": 605, 
     "trigger": "tj.defined"
   }, 
   {
     "description": "tj - Expect toBeFalsy", 
-    "id": 357, 
+    "id": 606, 
     "trigger": "tj.falsy"
   }, 
   {
     "description": "tj - Expect toBeGreaterThan", 
-    "id": 358, 
+    "id": 607, 
     "trigger": "tj.greaterthan"
   }, 
   {
     "description": "tj - Expect toBeLessThan", 
-    "id": 359, 
+    "id": 608, 
     "trigger": "tj.lessthan"
   }, 
   {
     "description": "tj - Expect toBeNaN", 
-    "id": 360, 
+    "id": 609, 
     "trigger": "tj.nan"
   }, 
   {
     "description": "tj - Expect toBeNull", 
-    "id": 361, 
+    "id": 610, 
     "trigger": "tj.null"
   }, 
   {
     "description": "tj - Expect toBeTruthy", 
-    "id": 362, 
+    "id": 611, 
     "trigger": "tj.truthy"
   }, 
   {
     "description": "tj - Expect toBeUndefined", 
-    "id": 363, 
+    "id": 612, 
     "trigger": "tj.undefined"
   }, 
   {
     "description": "tj - Expect toBe", 
-    "id": 364, 
+    "id": 613, 
     "trigger": "tj.tobe"
   }, 
   {
     "description": "tj - Expect toEqual", 
-    "id": 365, 
+    "id": 614, 
     "trigger": "tj.equal"
   }, 
   {
     "description": "tj - Expect toHaveBeenCalledTimes", 
-    "id": 366, 
+    "id": 615, 
     "trigger": "tj.hbctimes"
   }, 
   {
     "description": "tj - Expect toHaveBeenCalledWith", 
-    "id": 367, 
+    "id": 616, 
     "trigger": "tj.hbcwith"
   }, 
   {
     "description": "tj - Expect toHaveBeenCalled", 
-    "id": 368, 
+    "id": 617, 
     "trigger": "tj.hbc"
   }, 
   {
     "description": "tj - Expect toMatch", 
-    "id": 369, 
+    "id": 618, 
     "trigger": "tj.match"
   }, 
   {
     "description": "tj - Expect toThrowError", 
-    "id": 370, 
+    "id": 619, 
     "trigger": "tj.throwerror"
   }, 
   {
     "description": "tj - Expect toThrow", 
-    "id": 371, 
+    "id": 620, 
     "trigger": "tj.throw"
   }, 
   {
     "description": "tn - Assert deepEqual", 
-    "id": 372, 
+    "id": 621, 
     "trigger": "tn.dequal"
   }, 
   {
     "description": "tn - Assert deepStrictEqual", 
-    "id": 373, 
+    "id": 622, 
     "trigger": "tn.dsequal"
   }, 
   {
     "description": "tn - Assert doesNotThrow", 
-    "id": 374, 
+    "id": 623, 
     "trigger": "tn.dnthrow"
   }, 
   {
     "description": "tn - Assert equal", 
-    "id": 375, 
+    "id": 624, 
     "trigger": "tn.equal"
   }, 
   {
     "description": "tn - Assert fail", 
-    "id": 376, 
+    "id": 625, 
     "trigger": "tn.fail"
   }, 
   {
     "description": "tn - Assert ifError", 
-    "id": 377, 
+    "id": 626, 
     "trigger": "tn.iferror"
   }, 
   {
     "description": "tn - Assert notDeepEqual", 
-    "id": 378, 
+    "id": 627, 
     "trigger": "tn.ndequal"
   }, 
   {
     "description": "tn - Assert notDeepStrictEqual", 
-    "id": 379, 
+    "id": 628, 
     "trigger": "tn.ndsequal"
   }, 
   {
     "description": "tn - Assert notEqual", 
-    "id": 380, 
+    "id": 629, 
     "trigger": "tn.nequal"
   }, 
   {
     "description": "tn - Assert notStrictEqual", 
-    "id": 381, 
+    "id": 630, 
     "trigger": "tn.nsequal"
   }, 
   {
     "description": "tn - Assert ok", 
-    "id": 382, 
+    "id": 631, 
     "trigger": "tn.ok"
   }, 
   {
     "description": "tn - Assert strictEqual", 
-    "id": 383, 
+    "id": 632, 
     "trigger": "tn.sequal"
   }, 
   {
     "description": "tn - Assert throws", 
-    "id": 384, 
+    "id": 633, 
     "trigger": "tn.throws"
   }, 
   {
     "description": "tn - Assert", 
-    "id": 385, 
+    "id": 634, 
     "trigger": "tn.a"
   }, 
   {
+    "description": "tq - Assert async", 
+    "id": 635, 
+    "trigger": "tq.async"
+  }, 
+  {
+    "description": "tq - Assert deepEqual", 
+    "id": 636, 
+    "trigger": "tq.dequal"
+  }, 
+  {
+    "description": "tq - Assert equal", 
+    "id": 637, 
+    "trigger": "tq.equal"
+  }, 
+  {
+    "description": "tq - notDeepEqual", 
+    "id": 638, 
+    "trigger": "tq.ndequal"
+  }, 
+  {
+    "description": "tq - notEqual", 
+    "id": 639, 
+    "trigger": "tq.nequal"
+  }, 
+  {
+    "description": "tq - notOk", 
+    "id": 640, 
+    "trigger": "tq.nok"
+  }, 
+  {
+    "description": "tq - notPropEqual", 
+    "id": 641, 
+    "trigger": "tq.npequal"
+  }, 
+  {
+    "description": "tq - notStrictEqual", 
+    "id": 642, 
+    "trigger": "tq.nsequal"
+  }, 
+  {
+    "description": "tq - ok", 
+    "id": 643, 
+    "trigger": "tq.ok"
+  }, 
+  {
+    "description": "tq - propEqual", 
+    "id": 644, 
+    "trigger": "tq.pequal"
+  }, 
+  {
+    "description": "tq - strictEqual", 
+    "id": 645, 
+    "trigger": "tq.sequal"
+  }, 
+  {
+    "description": "tq - throws", 
+    "id": 646, 
+    "trigger": "tq.throws"
+  }, 
+  {
+    "description": "tq - QUnit.begin", 
+    "id": 647, 
+    "trigger": "tq.begin"
+  }, 
+  {
+    "description": "tq - QUnit.config", 
+    "id": 648, 
+    "trigger": "tq.config"
+  }, 
+  {
+    "description": "tq - QUnit.done", 
+    "id": 649, 
+    "trigger": "tq.done"
+  }, 
+  {
+    "description": "tq - QUnit.dump.parse", 
+    "id": 650, 
+    "trigger": "tq.dparse"
+  }, 
+  {
+    "description": "tq - Expect", 
+    "id": 651, 
+    "trigger": "tq.expect"
+  }, 
+  {
+    "description": "tq - QUnit.extend", 
+    "id": 652, 
+    "trigger": "tq.extend"
+  }, 
+  {
+    "description": "tq - QUnit.log", 
+    "id": 653, 
+    "trigger": "tq.log"
+  }, 
+  {
+    "description": "tq - QUnit.moduleDone", 
+    "id": 654, 
+    "trigger": "tq.mdone"
+  }, 
+  {
+    "description": "tq - QUnit.moduleStart", 
+    "id": 655, 
+    "trigger": "tq.mstart"
+  }, 
+  {
+    "description": "tq - QUnit.module", 
+    "id": 656, 
+    "trigger": "tq.module"
+  }, 
+  {
+    "description": "tq - QUnit.only", 
+    "id": 657, 
+    "trigger": "tq.only"
+  }, 
+  {
+    "description": "tq - push", 
+    "id": 658, 
+    "trigger": "tq.push"
+  }, 
+  {
+    "description": "tq - QUnit.skip", 
+    "id": 659, 
+    "trigger": "tq.skip"
+  }, 
+  {
+    "description": "tq - QUnit.stack", 
+    "id": 660, 
+    "trigger": "tq.stack"
+  }, 
+  {
+    "description": "tq - QUnit.testDone", 
+    "id": 661, 
+    "trigger": "tq.tdone"
+  }, 
+  {
+    "description": "tq - QUnit.testStart", 
+    "id": 662, 
+    "trigger": "tq.tstart"
+  }, 
+  {
+    "description": "tq - Test", 
+    "id": 663, 
+    "trigger": "tq.test"
+  }, 
+  {
+    "description": "ts - Assert alwaysCalledOn", 
+    "id": 664, 
+    "trigger": "ts.acon"
+  }, 
+  {
+    "description": "ts - Assert alwaysCalledWithExactly", 
+    "id": 665, 
+    "trigger": "ts.acalledwe"
+  }, 
+  {
+    "description": "ts - Assert alwaysCalledWithMatch", 
+    "id": 666, 
+    "trigger": "ts.acalledwm"
+  }, 
+  {
+    "description": "ts - Assert alwaysCalledWith", 
+    "id": 667, 
+    "trigger": "ts.acalledw"
+  }, 
+  {
+    "description": "ts - Assert alwaysThrew", 
+    "id": 668, 
+    "trigger": "ts.athrew"
+  }, 
+  {
+    "description": "ts - Assert callCount", 
+    "id": 669, 
+    "trigger": "ts.ccount"
+  }, 
+  {
+    "description": "ts - Assert callOrder", 
+    "id": 670, 
+    "trigger": "ts.corder"
+  }, 
+  {
+    "description": "ts - Assert calledOn", 
+    "id": 671, 
+    "trigger": "ts.con"
+  }, 
+  {
+    "description": "ts - Assert calledOnce", 
+    "id": 672, 
+    "trigger": "ts.calledo"
+  }, 
+  {
+    "description": "ts - Assert calledThrice", 
+    "id": 673, 
+    "trigger": "ts.calledth"
+  }, 
+  {
+    "description": "ts - Assert calledTwice", 
+    "id": 674, 
+    "trigger": "ts.calledt"
+  }, 
+  {
+    "description": "ts - Assert calledWithExactly", 
+    "id": 675, 
+    "trigger": "ts.calledwe"
+  }, 
+  {
+    "description": "ts - Assert calledWithMatch", 
+    "id": 676, 
+    "trigger": "ts.calledwm"
+  }, 
+  {
+    "description": "ts - Assert calledWith", 
+    "id": 677, 
+    "trigger": "ts.calledw"
+  }, 
+  {
+    "description": "ts - Assert called", 
+    "id": 678, 
+    "trigger": "ts.called"
+  }, 
+  {
+    "description": "ts - Assert expose", 
+    "id": 679, 
+    "trigger": "ts.expose"
+  }, 
+  {
+    "description": "ts - Assert failException", 
+    "id": 680, 
+    "trigger": "ts.faile"
+  }, 
+  {
+    "description": "ts - Assert fail", 
+    "id": 681, 
+    "trigger": "ts.afail"
+  }, 
+  {
+    "description": "ts - Assert neverCalledWithMatch", 
+    "id": 682, 
+    "trigger": "ts.ncalledwm"
+  }, 
+  {
+    "description": "ts - Assert neverCalledWith", 
+    "id": 683, 
+    "trigger": "ts.ncalledw"
+  }, 
+  {
+    "description": "ts - Assert notCalled", 
+    "id": 684, 
+    "trigger": "ts.ncalled"
+  }, 
+  {
+    "description": "ts - Assert pass", 
+    "id": 685, 
+    "trigger": "ts.pass"
+  }, 
+  {
+    "description": "ts - Assert threw", 
+    "id": 686, 
+    "trigger": "ts.threw"
+  }, 
+  {
     "description": "j - if else", 
-    "id": 386, 
+    "id": 687, 
     "trigger": "j.ifelse"
   }, 
   {
     "description": "j - switch", 
-    "id": 387, 
+    "id": 688, 
     "trigger": "j.switch"
   }, 
   {
     "description": "j - console.dir", 
-    "id": 388, 
+    "id": 689, 
     "trigger": "j.cd"
   }, 
   {
     "description": "j - console.error", 
-    "id": 389, 
+    "id": 690, 
     "trigger": "j.ce"
   }, 
   {
     "description": "j - console.info", 
-    "id": 390, 
+    "id": 691, 
     "trigger": "j.ci"
   }, 
   {
     "description": "j - console.log", 
-    "id": 391, 
+    "id": 692, 
     "trigger": "j.cl"
   }, 
   {
     "description": "j - console.warn", 
-    "id": 392, 
+    "id": 693, 
     "trigger": "j.cw"
   }, 
   {
     "description": "j - addEventListener", 
-    "id": 393, 
-    "trigger": "j.-ael"
+    "id": 694, 
+    "trigger": "j.ael"
   }, 
   {
     "description": "j - appendChild", 
-    "id": 394, 
+    "id": 695, 
     "trigger": "j.ac"
   }, 
   {
     "description": "j - classList.add", 
-    "id": 395, 
+    "id": 696, 
     "trigger": "j.cla"
   }, 
   {
     "description": "j - classList.remove", 
-    "id": 396, 
+    "id": 697, 
     "trigger": "j.clr"
   }, 
   {
     "description": "j - classList.toggle", 
-    "id": 397, 
+    "id": 698, 
     "trigger": "j.clt"
   }, 
   {
     "description": "j - createDocumentFragment", 
-    "id": 398, 
+    "id": 699, 
     "trigger": "j.cdf"
   }, 
   {
     "description": "j - createElement", 
-    "id": 399, 
+    "id": 700, 
     "trigger": "j.cel"
   }, 
   {
     "description": "j - getAttribute", 
-    "id": 400, 
+    "id": 701, 
     "trigger": "j.gattr"
   }, 
   {
     "description": "j - getElementById", 
-    "id": 401, 
+    "id": 702, 
     "trigger": "j.gid"
   }, 
   {
     "description": "j - getElementsByClassName", 
-    "id": 402, 
+    "id": 703, 
     "trigger": "j.gclass"
   }, 
   {
     "description": "j - getElementsByTagName", 
-    "id": 403, 
+    "id": 704, 
     "trigger": "j.gtag"
   }, 
   {
     "description": "j - innerHTML", 
-    "id": 404, 
+    "id": 705, 
     "trigger": "j.ih"
   }, 
   {
     "description": "j - querySelectorAll", 
-    "id": 405, 
+    "id": 706, 
     "trigger": "j.qsa"
   }, 
   {
     "description": "j - querySelector", 
-    "id": 406, 
+    "id": 707, 
     "trigger": "j.qs"
   }, 
   {
     "description": "j - removeAttribute", 
-    "id": 407, 
+    "id": 708, 
     "trigger": "j.rattr"
   }, 
   {
     "description": "j - removeChild", 
-    "id": 408, 
+    "id": 709, 
     "trigger": "j.rc"
   }, 
   {
     "description": "j - setAttribute", 
-    "id": 409, 
+    "id": 710, 
     "trigger": "j.sattr"
   }, 
   {
     "description": "j - textContent", 
-    "id": 410, 
+    "id": 711, 
     "trigger": "j.tc"
   }, 
   {
     "description": "j - Anonymous Function", 
-    "id": 411, 
+    "id": 712, 
     "trigger": "j.afn"
   }, 
   {
     "description": "j - Function apply", 
-    "id": 412, 
+    "id": 713, 
     "trigger": "j.apply"
   }, 
   {
     "description": "j - Function call", 
-    "id": 413, 
+    "id": 714, 
     "trigger": "j.call"
   }, 
   {
     "description": "j - Immediately-invoked function expression", 
-    "id": 414, 
-    "trigger": "j.-iife"
+    "id": 715, 
+    "trigger": "j.iife"
   }, 
   {
     "description": "j - Prototype", 
-    "id": 415, 
+    "id": 716, 
     "trigger": "j.prot"
   }, 
   {
     "description": "j - Function", 
-    "id": 416, 
+    "id": 717, 
     "trigger": "j.fn"
   }, 
   {
     "description": "j - JSON.parse", 
-    "id": 417, 
+    "id": 718, 
     "trigger": "j.jsonp"
   }, 
   {
     "description": "j - JSON.stringify", 
-    "id": 418, 
+    "id": 719, 
     "trigger": "j.jsons"
   }, 
   {
     "description": "j - do while", 
-    "id": 419, 
+    "id": 720, 
     "trigger": "j.dowhile"
   }, 
   {
     "description": "j - forEach", 
-    "id": 420, 
+    "id": 721, 
     "trigger": "j.fore"
   }, 
   {
     "description": "j - for in", 
-    "id": 421, 
+    "id": 722, 
     "trigger": "j.fori"
   }, 
   {
     "description": "j - for", 
-    "id": 422, 
+    "id": 723, 
     "trigger": "j.for"
   }, 
   {
     "description": "j - while", 
-    "id": 423, 
+    "id": 724, 
     "trigger": "j.while"
   }, 
   {
     "description": "j - setInterval", 
-    "id": 424, 
+    "id": 725, 
     "trigger": "j.sinterval"
   }, 
   {
     "description": "j - setTimeout", 
-    "id": 425, 
+    "id": 726, 
     "trigger": "j.stimeout"
   }, 
   {
+    "description": "r - Brazilian CNPJ", 
+    "id": 727, 
+    "trigger": "r.bcnpj"
+  }, 
+  {
+    "description": "r - Brazilian CPF/CNPJ", 
+    "id": 728, 
+    "trigger": "r.bcpfcnpj"
+  }, 
+  {
+    "description": "r - Brazilian CPF", 
+    "id": 729, 
+    "trigger": "r.bcpf"
+  }, 
+  {
+    "description": "r - Brazilian Phone", 
+    "id": 730, 
+    "trigger": "r.bphone"
+  }, 
+  {
+    "description": "r - E-mail", 
+    "id": 731, 
+    "trigger": "r.email"
+  }, 
+  {
     "description": "sm - Action", 
-    "id": 426, 
+    "id": 732, 
     "trigger": "sm.action"
   }, 
   {
     "description": "sm - Organization", 
-    "id": 427, 
+    "id": 733, 
     "trigger": "sm.org"
   }, 
   {
     "description": "jsonld - Logotype", 
-    "id": 428, 
+    "id": 734, 
     "trigger": "z.jsonld"
   }, 
   {
     "description": "microdata - Organization", 
-    "id": 429, 
+    "id": 735, 
     "trigger": "z.microdata"
   }, 
   {
     "description": "microdata - Article", 
-    "id": 430, 
+    "id": 736, 
     "trigger": "z.microdata"
   }, 
   {
     "description": "microdata - Book", 
-    "id": 431, 
+    "id": 737, 
     "trigger": "z.microdata"
   }, 
   {
     "description": "microdata - Game", 
-    "id": 432, 
+    "id": 738, 
     "trigger": "z.microdata"
   }, 
   {
     "description": "microdata - WebPage", 
-    "id": 433, 
+    "id": 739, 
     "trigger": "z.microdata"
   }, 
   {
     "description": "rdfa - Breadcrumb", 
-    "id": 434, 
+    "id": 740, 
     "trigger": "z.rdfa"
   }
 ]
