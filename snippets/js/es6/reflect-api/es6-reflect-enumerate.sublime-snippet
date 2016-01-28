@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Reflect.enumerate(${1:target});
+]]></content>
+	<tabTrigger>Reflect:enumerate</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Reflect Enumerate</description>
+</snippet>

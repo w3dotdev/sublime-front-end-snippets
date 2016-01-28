@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+let ${1:${2:x} = ${3:'something'};$4}
+]]></content>
+	<tabTrigger>je.let</tabTrigger>
+	<description>je - ES6 Let</description>
+</snippet>

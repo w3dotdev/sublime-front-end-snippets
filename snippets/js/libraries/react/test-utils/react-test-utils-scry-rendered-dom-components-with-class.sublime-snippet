@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+var CompositeComponent = React.createClass({
+  render () {
+    return (
+      <div className="target">
+        <div className="not-target">
+          <div className="target" />
+        </div>
+      </div>
+    );
+  }
+});
+
+var componentTree = TestUtils.renderIntoDocument(
+  <CompositeComponent />
+);
+
+var allDOMComponentsWithMatchingClass = TestUtils.scryRenderedDOMComponentsWithClass(
+  componentTree,
+  'target'
+);
+
+expect(allDOMComponentsWithMatchingClass).toBeAn('array');
+expect(allDOMComponentsWithMatchingClass.length).toBe(2);
+]]></content>
+  <tabTrigger>jr.tsrdcwclass</tabTrigger>
+  <description>jr - scryRenderedDOMComponentsWithClass</description>
+</snippet>

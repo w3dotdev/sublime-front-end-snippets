@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Reflect.preventExtensions(${1:target});
+]]></content>
+	<tabTrigger>Reflect:preventExtensions</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Reflect Prevent Extensions</description>
+</snippet>

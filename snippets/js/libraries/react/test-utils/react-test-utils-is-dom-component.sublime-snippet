@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+var subject = TestUtils.renderIntoDocument(<div />);
+
+expect(
+  TestUtils.isDOMComponent(subject)
+).toBe(true);
+]]></content>
+  <tabTrigger>jr.tidcomponent</tabTrigger>
+  <description>jr - isDOMComponent</description>
+</snippet>

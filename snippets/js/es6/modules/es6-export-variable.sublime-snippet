@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+export var ${1:myvar} = ${2:value};
+]]></content>
+	<tabTrigger>export:variable</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Module Export Variable</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+// WARNING: System.set is not finalized yet
+System.set(${1:'jquery'}, ${2:Module(${3:\{\$: \$\}})});
+]]></content>
+	<tabTrigger>System.set</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 System Set Module</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Reflect.getPrototypeOf(${1:target});
+]]></content>
+	<tabTrigger>Reflect:getPrototypeOf</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Reflect Get Prototype Of</description>
+</snippet>

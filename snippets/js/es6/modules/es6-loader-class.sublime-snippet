@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var ${1:loader} = new Loader({
+	${2:global: fixup(window)}
+});
+]]></content>
+	<tabTrigger>Loader</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Loader Class</description>
+</snippet>

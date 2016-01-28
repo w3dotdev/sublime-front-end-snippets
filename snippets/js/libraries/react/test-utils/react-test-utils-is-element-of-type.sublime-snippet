@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+var MyComponent = React.createClass({
+  render () {
+    return <div />;
+  }
+});
+
+expect(
+  TestUtils.isElementOfType(<MyComponent />, MyComponent)
+).toBe(true);
+]]></content>
+  <tabTrigger>jr.tieotype</tabTrigger>
+  <description>jr - isElementOfType</description>
+</snippet>

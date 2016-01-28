@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+var ${1:p} = new Proxy(${2:target}, ${3:handler});
+]]></content>
+	<tabTrigger>Proxy</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Proxy</description>
+</snippet>

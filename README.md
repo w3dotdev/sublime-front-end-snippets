@@ -69,6 +69,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the Sublime Text
 * (JS Design Patterns) [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * (Node.js Assert) [https://nodejs.org/api/assert.html](https://nodejs.org/api/assert.html)
 * (Jasmine) [http://jasmine.github.io/2.0/introduction.html](http://jasmine.github.io/2.0/introduction.html)
+* (ReactJS cheatsheet) [http://reactcheatsheet.com/](http://reactcheatsheet.com/)
 
 ## Contributing
 

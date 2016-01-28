@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Reflect.get(${1:target}, ${2:propertyKey}${3:, ${4:receiver}});
+]]></content>
+	<tabTrigger>Reflect:get</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Reflect Get</description>
+</snippet>

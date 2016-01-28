@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+var CompositeComponent = React.createClass({
+  render () {
+    return <div><div /></div>;
+  }
+});
+
+var componentTree = TestUtils.renderIntoDocument(
+  <CompositeComponent />
+);
+
+var allDivs = TestUtils.findAllInRenderedTree(
+  componentTree,
+  (c) => c.tagName === 'DIV'
+)
+
+expect(allDivs).toBeAn('array');
+expect(allDivs.length).toBe(2);
+]]></content>
+  <tabTrigger>jr.tfairtree</tabTrigger>
+  <description>jr - findAllInRenderedTree</description>
+</snippet>

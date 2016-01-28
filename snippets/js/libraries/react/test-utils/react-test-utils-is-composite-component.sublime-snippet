@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+var subject = TestUtils.renderIntoDocument(
+  <CompositeComponent />
+);
+
+expect(
+  TestUtils.isCompositeComponent(subject)
+).toBe(true);
+]]></content>
+  <tabTrigger>jr.ticcomponent</tabTrigger>
+  <description>jr - isCompositeComponent</description>
+</snippet>

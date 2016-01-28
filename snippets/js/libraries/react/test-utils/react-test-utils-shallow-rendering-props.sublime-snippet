@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+var renderer = TestUtils.createRenderer();
+
+renderer.render(<MyComponent className="my-component" />);
+
+var subject = renderer.getRenderOutput();
+
+expect(subject.props.className).toBe('my-component'); // => true
+]]></content>
+  <tabTrigger>jr.tsrprops</tabTrigger>
+  <description>jr - Shallow rendering (props)</description>
+</snippet>

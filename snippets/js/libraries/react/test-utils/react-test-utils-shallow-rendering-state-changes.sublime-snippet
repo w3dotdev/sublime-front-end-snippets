@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+var renderer = TestUtils.createRenderer();
+
+renderer.render(<ClickCounter />);
+
+// test initial rendering
+var result = renderer.getRenderOutput();
+
+expect(result.props.children).toEqual(0);
+
+
+// test post-click rendering
+result.props.onClick();
+
+var clickedResult = renderer.getRenderOutput();
+
+expect(clickedResult.props.children).toEqual(1);
+]]></content>
+  <tabTrigger>jr.tsrschanges</tabTrigger>
+  <description>jr - Shallow rendering (state changes)</description>
+</snippet>

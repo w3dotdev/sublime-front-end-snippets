@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Reflect.apply(${1:target}, ${2:thisArgument}, ${3:argumentsList});
+]]></content>
+	<tabTrigger>Reflect:apply</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Reflect Apply</description>
+</snippet>

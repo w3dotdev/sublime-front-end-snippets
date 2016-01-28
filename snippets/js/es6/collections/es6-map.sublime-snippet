@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+var ${1:map} = new Map();
+]]></content>
+	<tabTrigger>je.map</tabTrigger>
+	<description>je - ES6 Map</description>
+</snippet>

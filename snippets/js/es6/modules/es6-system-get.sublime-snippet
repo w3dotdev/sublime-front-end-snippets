@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+System.get(${1:'module'});
+]]></content>
+	<tabTrigger>System.get</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 System Get Module</description>
+</snippet>

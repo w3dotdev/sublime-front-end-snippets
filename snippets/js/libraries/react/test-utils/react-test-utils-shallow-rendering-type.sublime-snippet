@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+var renderer = TestUtils.createRenderer();
+
+renderer.render(<MyComponent />);
+
+var subject = renderer.getRenderOutput();
+
+expect(subject.type).toBe('div');  // => true
+]]></content>
+  <tabTrigger>jr.tsrtype</tabTrigger>
+  <description>jr - Shallow rendering (type)</description>
+</snippet>

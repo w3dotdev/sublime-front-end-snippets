@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+var MyCompositeComponent = React.createClass({
+  render () { return <TargetComponent /> }
+});
+
+var TargetComponent = React.createClass({
+  render () { return <div /> }
+});
+
+var componentTree = TestUtils.renderIntoDocument(
+  <MyCompositeComponent />
+);
+
+var onlyTargetComponent = TestUtils.findRenderedComponentWithType(
+  componentTree,
+  TargetComponent
+);
+
+expect(onlyTargetComponent).toBeAn('object');
+expect(onlyTargetComponent).toNotBeAn('array');
+expect(TestUtils.isCompositeComponentWithType(
+  onlyTargetComponent,
+  TargetComponent
+)).toBe(true);
+]]></content>
+  <tabTrigger>jr.tfrcwtype</tabTrigger>
+  <description>jr - findRenderedComponentWithType</description>
+</snippet>

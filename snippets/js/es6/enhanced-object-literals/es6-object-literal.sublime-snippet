@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+var ${1:obj} = {
+	__proto__: ${2:theProtoObj,}
+	${3:handler,}
+	${4:toString() {
+		${5:return "object";}
+	}}
+}$6
+]]></content>
+	<tabTrigger>je.object</tabTrigger>
+	<description>je - ES6 Object Literal</description>
+</snippet>

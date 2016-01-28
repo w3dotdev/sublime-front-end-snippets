@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Reflect.ownKeys(${1:target});
+]]></content>
+	<tabTrigger>Reflect:ownKeys</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Reflect Own Keys</description>
+</snippet>

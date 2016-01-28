@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+var CompositeComponent = React.createClass({
+  render () {
+    return <div />;
+  }
+});
+
+var subject = TestUtils.renderIntoDocument(
+  <CompositeComponent />
+);
+
+expect(
+  TestUtils.isCompositeComponentWithType(
+    subject,
+    CompositeComponent
+  )
+).toBe(true);
+]]></content>
+  <tabTrigger>jr.ticcwtype</tabTrigger>
+  <description>jr - isCompositeComponentWithType</description>
+</snippet>

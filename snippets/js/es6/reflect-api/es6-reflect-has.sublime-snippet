@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Reflect.has(${1:target}, ${propertyKey});
+]]></content>
+	<tabTrigger>Reflect:has</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Reflect Has</description>
+</snippet>

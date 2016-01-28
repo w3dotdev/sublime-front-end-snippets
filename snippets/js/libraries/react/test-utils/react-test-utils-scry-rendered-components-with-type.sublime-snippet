@@ -1,0 +1,35 @@
+<snippet>
+  <content><![CDATA[
+var MyCompositeComponent = React.createClass({
+  render () {
+    return (
+      <div>
+        <Target />
+        <br />
+        <Target />
+      </div>
+    )
+  }
+});
+
+var Target = React.createClass({
+  render () {
+    return <div />;
+  }
+});
+
+var componentTree = TestUtils.renderIntoDocument(
+  <MyCompositeComponent />
+);
+
+var allTargetComponents = TestUtils.scryRenderedComponentsWithType(
+  componentTree,
+  Target
+);
+
+expect(allTargetComponents).toBeAn('array');
+expect(allTargetComponents.length).toBe(2);
+]]></content>
+  <tabTrigger>jr.tsrcwtype</tabTrigger>
+  <description>jr - scryRenderedComponentsWithType</description>
+</snippet>

@@ -1,0 +1,28 @@
+<snippet>
+  <content><![CDATA[
+var MyCompositeComponent = React.createClass({
+  render () {
+    return <MyNestedComponent />;
+  }
+});
+
+var MyNestedComponent = React.createClass({
+  render () {
+    return <div className="nested"/>;
+  }
+});
+
+var componentTree = TestUtils.renderIntoDocument(<MyCompositeComponent />);
+
+var singleComponentWithMatchedClass = TestUtils.findRenderedDOMComponentWithClass(
+  componentTree,
+  'nested'
+);
+
+expect(singleComponentWithMatchedClass).toBeAn('object');
+expect(singleComponentWithMatchedClass).toNotBeAn('array');
+expect(singleComponentWithMatchedClass.className).toBe('nested');
+]]></content>
+  <tabTrigger>jr.tfrdcwclass</tabTrigger>
+  <description>jr - findRenderedDOMComponentWithClass</description>
+</snippet>

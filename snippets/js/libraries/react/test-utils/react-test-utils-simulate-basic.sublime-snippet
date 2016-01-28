@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+var subject = TestUtils.renderIntoDocument(
+  <div onClick={handleClick} />
+);
+
+TestUtils.Simulate.click(subject);
+]]></content>
+  <tabTrigger>jr.tsbasic</tabTrigger>
+  <description>jr - Simulate (basic)</description>
+</snippet>

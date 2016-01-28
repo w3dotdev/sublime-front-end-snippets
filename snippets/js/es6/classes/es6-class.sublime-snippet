@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+class ${1:Classname} ${2:extends AnotherClass} {
+	${3:constructor(${4:args}) {
+		${5:// code}
+	\}}
+
+	${6:// methods}
+}$7
+]]></content>
+	<tabTrigger>je.class</tabTrigger>
+	<description>je - ES6 Class</description>
+</snippet>

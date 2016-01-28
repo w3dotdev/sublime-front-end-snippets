@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+var renderer = TestUtils.createRenderer();
+
+var spy = expect.createSpy();
+
+renderer.render(<MyComponent onClick={spy} />);
+
+var subject = renderer.getRenderOutput();
+
+expect(spy.call.length).toEqual(1); // => true
+]]></content>
+  <tabTrigger>jr.tsrevents</tabTrigger>
+  <description>jr - Shallow rendering (events)</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+export function ${2:name}(${3:args}) {
+	$4
+}
+]]></content>
+	<tabTrigger>export:function</tabTrigger>
+	<scope>source.js</scope>
+	<description>ES6 Module Export Function</description>
+</snippet>

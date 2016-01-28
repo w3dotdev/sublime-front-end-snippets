@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+function handleChange (event) {
+  console.log('A change was simulated with key: ' + event.key);
+}
+
+var subject = TestUtils.renderIntoDocument(
+  <input type="text" onChange={handleChange} />
+);
+
+TestUtils.Simulate.change(subject, { key: "Enter" });
+]]></content>
+  <tabTrigger>jr.tsdata</tabTrigger>
+  <description>jr - Simulate (with data)</description>
+</snippet>
