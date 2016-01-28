@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+sinon.assert.alwaysThrew(${1:spy}, ${2:exception});
+]]></content>
+  <tabTrigger>ts.athrew</tabTrigger>
+  <description>ts - Assert alwaysThrew</description>
+</snippet>

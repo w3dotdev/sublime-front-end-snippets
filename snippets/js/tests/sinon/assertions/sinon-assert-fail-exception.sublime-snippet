@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+sinon.assert.failException;
+]]></content>
+  <tabTrigger>ts.faile</tabTrigger>
+  <description>ts - Assert failException</description>
+</snippet>

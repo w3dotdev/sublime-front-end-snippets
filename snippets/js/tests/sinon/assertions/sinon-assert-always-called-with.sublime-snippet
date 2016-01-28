@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+sinon.assert.alwaysCalledWith(${1:spy}, ${2:arg1}${3:, arg2}${4:, ...});
+]]></content>
+  <tabTrigger>ts.acalledw</tabTrigger>
+  <description>ts - Assert alwaysCalledWith</description>
+</snippet>

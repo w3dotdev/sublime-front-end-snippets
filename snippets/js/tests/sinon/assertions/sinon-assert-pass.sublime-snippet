@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+sinon.assert.pass(${1:assertion});
+]]></content>
+  <tabTrigger>ts.pass</tabTrigger>
+  <description>ts - Assert pass</description>
+</snippet>

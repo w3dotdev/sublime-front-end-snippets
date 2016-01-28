@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+sinon.assert.callOrder(${1:spy1}, ${2:spy2}${3:, ...});
+]]></content>
+  <tabTrigger>ts.corder</tabTrigger>
+  <description>ts - Assert callOrder</description>
+</snippet>

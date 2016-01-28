@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+sinon.assert.called(${1:spy});
+]]></content>
+  <tabTrigger>ts.called</tabTrigger>
+  <description>ts - Assert called</description>
+</snippet>

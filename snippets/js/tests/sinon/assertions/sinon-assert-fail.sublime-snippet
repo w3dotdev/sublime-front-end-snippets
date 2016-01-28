@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+sinon.assert.fail(${1:message});
+]]></content>
+  <tabTrigger>ts.afail</tabTrigger>
+  <description>ts - Assert fail</description>
+</snippet>
