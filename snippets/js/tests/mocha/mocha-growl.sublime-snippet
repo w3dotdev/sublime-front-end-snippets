@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mocha.growl(${1});
+]]></content>
+  <tabTrigger>tm.growl</tabTrigger>
+  <description>tm - growl</description>
+</snippet>

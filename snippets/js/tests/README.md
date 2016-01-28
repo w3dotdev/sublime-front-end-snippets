@@ -43,7 +43,16 @@
     - toThrowError
     - toThrow
 - [Mocha](mocha/)
-  -
+  - config
+  - globals
+  - grep
+  - growl
+  - ignoreLeaks
+  - invert
+  - reporter
+  - run
+  - setup
+  - ui
 - [Node](node/)
   - assert
   - ok

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mocha.grep(${1});
+]]></content>
+  <tabTrigger>tm.grep</tabTrigger>
+  <description>tm - grep</description>
+</snippet>

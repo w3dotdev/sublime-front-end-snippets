@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mocha.ui(${1:tdd}).run();
+]]></content>
+  <tabTrigger>tm.ui</tabTrigger>
+  <description>tm - ui</description>
+</snippet>

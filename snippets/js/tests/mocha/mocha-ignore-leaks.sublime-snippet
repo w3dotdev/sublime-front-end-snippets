@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mocha.ignoreLeaks(${1});
+]]></content>
+  <tabTrigger>tm.ileaks</tabTrigger>
+  <description>tm - ignoreLeaks</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mocha.globals(${1});
+]]></content>
+  <tabTrigger>tm.globals</tabTrigger>
+  <description>tm - globals</description>
+</snippet>
