@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+componentWillMount: function () {
+  // invoked once, before initial 'render'
+}
+]]></content>
+  <tabTrigger>jr.cwmount</tabTrigger>
+  <description>jr - componentWillMount</description>
+</snippet>

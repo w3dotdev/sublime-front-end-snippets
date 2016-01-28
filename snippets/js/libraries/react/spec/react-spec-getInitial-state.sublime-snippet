@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+getInitialState: function () {
+  return ${1:\{ key: value \}};
+}
+]]></content>
+  <tabTrigger>jr.gistate</tabTrigger>
+  <description>jr - getInitialState</description>
+</snippet>

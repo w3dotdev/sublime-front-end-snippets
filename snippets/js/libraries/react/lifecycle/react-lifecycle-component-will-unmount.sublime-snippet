@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+componentWillUnmount: function () {
+  // invoked immediately before a component is unmounted from the DOM
+}
+]]></content>
+  <tabTrigger>jr.cwunmount</tabTrigger>
+  <description>jr - componentWillUnmount</description>
+</snippet>

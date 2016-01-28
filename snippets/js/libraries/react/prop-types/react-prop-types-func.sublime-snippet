@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{
+  optionalFunction: React.PropTypes.func,
+  requiredFunction: React.PropTypes.func.isRequired
+}
+]]></content>
+  <tabTrigger>jr.ptfunc</tabTrigger>
+  <description>jr - PropTypes.func</description>
+</snippet>

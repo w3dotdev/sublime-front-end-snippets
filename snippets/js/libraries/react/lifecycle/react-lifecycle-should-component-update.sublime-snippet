@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+shouldComponentUpdate: function (nextProps, nextState) {
+  // invoked before rendering with new props, not for initial 'render'
+}
+]]></content>
+  <tabTrigger>jr.scupdate</tabTrigger>
+  <description>jr - shouldComponentUpdate</description>
+</snippet>

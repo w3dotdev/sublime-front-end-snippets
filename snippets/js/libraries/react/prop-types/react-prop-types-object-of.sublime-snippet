@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{
+  optionalObjectOf: React.PropTypes.objectOf(React.PropTypes.string),
+  requiredObjectOf: React.PropTypes.objectOf(React.PropTypes.string).isRequired
+}
+]]></content>
+  <tabTrigger>jr.ptobjectof</tabTrigger>
+  <description>jr - PropTypes.objectOf</description>
+</snippet>

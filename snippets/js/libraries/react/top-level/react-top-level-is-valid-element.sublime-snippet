@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+React.isValidElement(${1:MyComponent});
+]]></content>
+  <tabTrigger>jr.ivelement</tabTrigger>
+  <description>jr - isValidElement</description>
+</snippet>

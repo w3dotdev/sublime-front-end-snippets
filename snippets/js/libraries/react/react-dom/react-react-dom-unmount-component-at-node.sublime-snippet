@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ReactDOM.unmountComponentAtNode(${1:DOMElement container});
+]]></content>
+  <tabTrigger>jr.ucanode</tabTrigger>
+  <description>jr - unmountComponentAtNode</description>
+</snippet>

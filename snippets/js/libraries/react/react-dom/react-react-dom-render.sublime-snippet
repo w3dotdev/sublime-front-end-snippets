@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ReactDOM.render(${1:reactElement}, ${1:domContainerNode});
+]]></content>
+  <tabTrigger>jr.render</tabTrigger>
+  <description>jr - render</description>
+</snippet>

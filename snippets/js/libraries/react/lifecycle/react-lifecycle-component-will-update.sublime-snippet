@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+componentWillUpdate: function (nextProps, nextState) {
+  // invoked immediately before rendering with new props or state, not for initial 'render'
+  // see componentWillReceiveProps if you need to call setState
+}
+]]></content>
+  <tabTrigger>jr.cwupdate</tabTrigger>
+  <description>jr - componentWillUpdate</description>
+</snippet>

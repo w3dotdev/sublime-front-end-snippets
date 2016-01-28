@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{
+  optionalArray: React.PropTypes.array,
+  requiredArray: React.PropTypes.array.isRequired
+}
+]]></content>
+  <tabTrigger>jr.ptarray</tabTrigger>
+  <description>jr - PropTypes.array</description>
+</snippet>

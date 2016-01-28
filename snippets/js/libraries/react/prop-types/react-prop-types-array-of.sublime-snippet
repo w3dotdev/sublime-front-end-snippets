@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{
+  optionalArrayOf: React.PropTypes.arrayOf(React.PropTypes.string),
+  requiredArrayOf: React.PropTypes.arrayOf(React.PropTypes.string).isRequired
+}
+]]></content>
+  <tabTrigger>jr.ptarrayof</tabTrigger>
+  <description>jr - PropTypes.arrayOf</description>
+</snippet>

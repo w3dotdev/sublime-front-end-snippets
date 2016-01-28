@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+componentWillReceiveProps: function (nextProps) {
+  // invoked when component is receiving props, not for initial 'render'
+}
+]]></content>
+  <tabTrigger>jr.cwrprops</tabTrigger>
+  <description>jr - componentWillReceiveProps</description>
+</snippet>

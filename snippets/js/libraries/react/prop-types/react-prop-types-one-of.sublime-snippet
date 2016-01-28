@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{
+  optionalEnum: React.PropTypes.oneOf(['Thing 1', 'Thing 2']),
+  optionalEnum: React.PropTypes.oneOf(['Thing 1', 'Thing 2']).isRequired
+}
+]]></content>
+  <tabTrigger>jr.ptoneof</tabTrigger>
+  <description>jr - PropTypes.oneOf</description>
+</snippet>

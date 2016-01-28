@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+render: function () {
+  return ${1};
+}
+]]></content>
+  <tabTrigger>jr.srender</tabTrigger>
+  <description>jr - render</description>
+</snippet>

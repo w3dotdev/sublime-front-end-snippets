@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+React.Children.forEach(this.props.children, (child, i) => {
+  ${1:console.log(child + ' at index: ' + i);}
+})
+]]></content>
+  <tabTrigger>jr.cfeach</tabTrigger>
+  <description>jr - children.forEach</description>
+</snippet>

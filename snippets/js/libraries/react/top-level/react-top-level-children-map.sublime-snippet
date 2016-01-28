@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+React.Children.map(this.props.children, (child, i) => {
+  ${1}
+  return child;
+})
+]]></content>
+  <tabTrigger>jr.cmap</tabTrigger>
+  <description>jr - children.map</description>
+</snippet>

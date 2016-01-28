@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+componentDidUpdate: function (prevProps, prevState) {
+  // invoked immediately after DOM updates, not for initial 'render'
+}
+]]></content>
+  <tabTrigger>jr.cdupdate</tabTrigger>
+  <description>jr - componentDidUpdate</description>
+</snippet>

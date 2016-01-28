@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+getDefaultProps: function () {
+  return ${1:\{ key: value \}};
+}
+]]></content>
+  <tabTrigger>jr.gdprops</tabTrigger>
+  <description>jr - getDefaultProps</description>
+</snippet>

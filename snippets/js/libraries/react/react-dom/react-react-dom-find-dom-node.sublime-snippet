@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ReactDOM.findDOMNode(${1:componentRef});
+]]></content>
+  <tabTrigger>jr.fdnode</tabTrigger>
+  <description>jr - findDOMNode</description>
+</snippet>

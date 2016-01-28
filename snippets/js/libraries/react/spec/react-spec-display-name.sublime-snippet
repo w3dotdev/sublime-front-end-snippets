@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+displayName: "MyComponent"
+]]></content>
+  <tabTrigger>jr.dname</tabTrigger>
+  <description>jr - displayName</description>
+</snippet>

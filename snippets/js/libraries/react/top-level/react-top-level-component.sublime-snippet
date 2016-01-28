@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+class ${1:MyComponent} extends React.Component {
+  render () {
+    return ${2};
+  }
+}
+]]></content>
+  <tabTrigger>jr.component</tabTrigger>
+  <description>jr - component</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+var ${1:MyComponent} = React.createClass({
+  render: function () {
+    return ${2};
+  }
+});
+]]></content>
+  <tabTrigger>jr.cclass</tabTrigger>
+  <description>jr - createClass</description>
+</snippet>

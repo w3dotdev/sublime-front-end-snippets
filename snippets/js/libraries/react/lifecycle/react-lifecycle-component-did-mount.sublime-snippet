@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+componentDidMount: function () {
+  // invoked once (client-only), after initial 'render'
+  // good for AJAX, setTimeout, setInterval
+}
+]]></content>
+  <tabTrigger>jr.cdmount</tabTrigger>
+  <description>jr - componentDidMount</description>
+</snippet>

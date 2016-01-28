@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+statics: {
+  customMethod: function(foo) {
+    return foo === 'bar';
+  }
+}
+]]></content>
+  <tabTrigger>jr.statics</tabTrigger>
+  <description>jr - statics</description>
+</snippet>

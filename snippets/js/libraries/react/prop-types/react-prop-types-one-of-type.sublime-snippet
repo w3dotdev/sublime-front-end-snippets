@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+{
+  optionalUnion: React.PropTypes.oneOfType([
+    React.PropTypes.bool,
+    React.PropTypes.string
+  ]),
+
+  requiredUnion: React.PropTypes.oneOfType([
+    React.PropTypes.bool,
+    React.PropTypes.string
+  ]).isRequired,
+}
+]]></content>
+  <tabTrigger>jr.ptootype</tabTrigger>
+  <description>jr - PropTypes.oneOfType</description>
+</snippet>

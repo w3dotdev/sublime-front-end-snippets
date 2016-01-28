@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+propTypes: {
+  myProp: React.PropTypes.bool
+}
+]]></content>
+  <tabTrigger>jr.ptypes</tabTrigger>
+  <description>jr - propTypes</description>
+</snippet>

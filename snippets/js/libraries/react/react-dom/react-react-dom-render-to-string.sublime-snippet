@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ReactDOMServer.renderToString(${1:ReactElement element});
+]]></content>
+  <tabTrigger>jr.rtstring</tabTrigger>
+  <description>jr - renderToString</description>
+</snippet>
