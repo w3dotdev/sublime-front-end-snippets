@@ -18,7 +18,7 @@
 (\d{2}\.\d{3}\.\d{3}\/\d{4}\-\d{2})|(\d{3}\.\d{3}\.\d{3}\-\d{2})
 ```
 
-### [r.bcpf] CPF
+### [r.bcpf] Brazilian CPF
 
 **allow:** xxx.xxx.xxx-xx | xxxxxxxxxxxx
 
