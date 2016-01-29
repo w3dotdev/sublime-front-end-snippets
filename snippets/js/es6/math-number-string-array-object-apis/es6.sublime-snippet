@@ -23,6 +23,6 @@ Array.of(1, 2, 3) // Similar to new Array(...), but without special one-arg beha
 
 Object.assign(Point, { origin: new Point(0,0) })
 ]]></content>
-	<tabTrigger>je.</tabTrigger>
-	<description>je - </description>
+	<tabTrigger>je.z.math</tabTrigger>
+	<description>je - Math</description>
 </snippet>

@@ -1,8 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 Reflect.setPrototypeOf(${1:target}, ${prototype});
 ]]></content>
-	<tabTrigger>Reflect:setPrototypeOf</tabTrigger>
-	<scope>source.js</scope>
-	<description>ES6 Reflect Set Prototype Of</description>
+    <tabTrigger>je.rsprototypeof</tabTrigger>
+    <description>je - ES6 Reflect Set Prototype Of</description>
 </snippet>

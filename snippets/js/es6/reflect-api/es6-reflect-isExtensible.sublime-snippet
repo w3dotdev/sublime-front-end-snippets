@@ -1,8 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 Reflect.isExtensible(${1:target});
 ]]></content>
-	<tabTrigger>Reflect:isExtensible</tabTrigger>
-	<scope>source.js</scope>
-	<description>ES6 Reflect Is Extensible</description>
+    <tabTrigger>je.riextensible</tabTrigger>
+    <description>je - ES6 Reflect Is Extensible</description>
 </snippet>

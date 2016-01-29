@@ -1,8 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 Reflect.defineProperty(${1:target}, ${2:propertyKey}, ${3:attributes});
 ]]></content>
-	<tabTrigger>Reflect:defineProperty</tabTrigger>
-	<scope>source.js</scope>
-	<description>ES6 Reflect Define Property</description>
+    <tabTrigger>je.rdproperty</tabTrigger>
+    <description>je - ES6 Reflect Define Property</description>
 </snippet>

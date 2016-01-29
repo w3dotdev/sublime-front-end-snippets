@@ -2,7 +2,6 @@
 	<content><![CDATA[
 import ${1:*} ${2:as ${3:mod}} from ${4:"lib/package"};
 ]]></content>
-	<tabTrigger>import</tabTrigger>
-	<scope>source.js</scope>
-	<description>ES6 Module Import</description>
+	<tabTrigger>je.import</tabTrigger>
+	<description>je - ES6 Module Import</description>
 </snippet>

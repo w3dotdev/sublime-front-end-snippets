@@ -13,5 +13,5 @@ var ${1:generator} = {
 };
 ]]></content>
 	<tabTrigger>je.generators</tabTrigger>
-	<description>je - ES6 Generator</description>
+	<description>je - ES6 Generators</description>
 </snippet>

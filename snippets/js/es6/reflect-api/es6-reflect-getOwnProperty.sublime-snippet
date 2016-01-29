@@ -1,8 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 Reflect.getOwnPropertyDescriptor(${1:target}, ${2:propertyKey});
 ]]></content>
-	<tabTrigger>Reflect:getOwnPropertyDescriptor</tabTrigger>
-	<scope>source.js</scope>
-	<description>ES6 Reflect Get Property Descriptor</description>
+    <tabTrigger>je.rgopdescriptor</tabTrigger>
+    <description>je - ES6 Reflect Get Property Descriptor</description>
 </snippet>

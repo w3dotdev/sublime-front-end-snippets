@@ -2,7 +2,6 @@
 	<content><![CDATA[
 \$\{${1:var}\}$2
 ]]></content>
-	<tabTrigger>string</tabTrigger>
-	<scope>source.js</scope>
-	<description>ES6 Template String</description>
+	<tabTrigger>je.string</tabTrigger>
+	<description>je - ES6 Template String</description>
 </snippet>

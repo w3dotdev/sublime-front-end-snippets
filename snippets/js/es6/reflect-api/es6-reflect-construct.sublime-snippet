@@ -1,8 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 Reflect.construct(${1:target}, ${2:argumentsList}${3:, ${4:newTarget}});
 ]]></content>
-	<tabTrigger>Reflect:construct</tabTrigger>
-	<scope>source.js</scope>
-	<description>ES6 Reflect Construct</description>
+    <tabTrigger>je.rconstruct</tabTrigger>
+    <description>je - ES6 Reflect Construct</description>
 </snippet>

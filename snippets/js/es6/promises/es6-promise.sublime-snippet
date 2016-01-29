@@ -4,7 +4,6 @@ Promise((resolve, reject) => {
 	$2
 });
 ]]></content>
-	<tabTrigger>Promise</tabTrigger>
-	<scope>source.js</scope>
-	<description>ES6 Promise</description>
+	<tabTrigger>je.promise</tabTrigger>
+	<description>je - ES6 Promise</description>
 </snippet>
