@@ -16,7 +16,7 @@ class TestDuplicatesMethods(unittest.TestCase):
 
     for snippet in json:
       trigger = snippet['trigger']
-      if re.match(r'^z', trigger) is None:
+      if re.search(r'z.', trigger) is None:
         triggers.append(trigger)
 
     self.assertEqual(list_duplicates(triggers), [])
