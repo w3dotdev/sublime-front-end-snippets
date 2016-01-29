@@ -6,6 +6,6 @@ var subject = TestUtils.renderIntoDocument(
 
 TestUtils.Simulate.click(subject);
 ]]></content>
-  <tabTrigger>jr.tsbasic</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - Simulate (basic)</description>
 </snippet>

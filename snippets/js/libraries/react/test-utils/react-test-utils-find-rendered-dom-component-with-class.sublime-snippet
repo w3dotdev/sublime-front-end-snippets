@@ -23,6 +23,6 @@ expect(singleComponentWithMatchedClass).toBeAn('object');
 expect(singleComponentWithMatchedClass).toNotBeAn('array');
 expect(singleComponentWithMatchedClass.className).toBe('nested');
 ]]></content>
-  <tabTrigger>jr.tfrdcwclass</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - findRenderedDOMComponentWithClass</description>
 </snippet>

@@ -4,6 +4,6 @@ React.Children.forEach(this.props.children, (child, i) => {
   ${1:console.log(child + ' at index: ' + i);}
 })
 ]]></content>
-  <tabTrigger>jr.cfeach</tabTrigger>
+  <tabTrigger>jr.chfeach</tabTrigger>
   <description>jr - children.forEach</description>
 </snippet>

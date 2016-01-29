@@ -2,6 +2,6 @@
   <content><![CDATA[
 expect(TestUtils.isElement(<div />)).toBe(true);
 ]]></content>
-  <tabTrigger>jr.tielement</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - isElement</description>
 </snippet>

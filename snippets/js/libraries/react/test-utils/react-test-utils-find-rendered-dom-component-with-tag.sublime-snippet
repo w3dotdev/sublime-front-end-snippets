@@ -23,6 +23,6 @@ expect(onlyDiv).toBeAn('object');
 expect(onlyDiv).toNotBeAn('array');
 expect(onlyDiv.tagName).toBe('DIV');
 ]]></content>
-  <tabTrigger>jr.tfrdcwtag</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - findRenderedDOMComponentWithTag</description>
 </snippet>

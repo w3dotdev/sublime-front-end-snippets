@@ -2,6 +2,6 @@
   <content><![CDATA[
 React.Children.count(this.props.children);
 ]]></content>
-  <tabTrigger>jr.ccount</tabTrigger>
-  <description>jr - Children.count</description>
+  <tabTrigger>jr.chcount</tabTrigger>
+  <description>jr - children.count</description>
 </snippet>

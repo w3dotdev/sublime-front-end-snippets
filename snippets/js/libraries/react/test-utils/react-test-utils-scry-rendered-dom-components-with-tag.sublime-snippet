@@ -18,6 +18,6 @@ var allDivs = TestUtils.scryRenderedDOMComponentsWithTag(
 expect(allDivs).toBeAn('array');
 expect(allDivs.length).toBe(2);
 ]]></content>
-  <tabTrigger>jr.tsrdcwtag</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - scryRenderedDOMComponentsWithTag</description>
 </snippet>

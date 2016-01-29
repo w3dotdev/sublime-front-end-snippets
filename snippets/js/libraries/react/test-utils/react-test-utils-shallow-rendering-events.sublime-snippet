@@ -10,6 +10,6 @@ var subject = renderer.getRenderOutput();
 
 expect(spy.call.length).toEqual(1); // => true
 ]]></content>
-  <tabTrigger>jr.tsrevents</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - Shallow rendering (events)</description>
 </snippet>

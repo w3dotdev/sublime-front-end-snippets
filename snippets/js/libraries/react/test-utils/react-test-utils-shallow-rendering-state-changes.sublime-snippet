@@ -17,6 +17,6 @@ var clickedResult = renderer.getRenderOutput();
 
 expect(clickedResult.props.children).toEqual(1);
 ]]></content>
-  <tabTrigger>jr.tsrschanges</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - Shallow rendering (state changes)</description>
 </snippet>

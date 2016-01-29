@@ -6,6 +6,6 @@ expect(
   TestUtils.isDOMComponent(subject)
 ).toBe(true);
 ]]></content>
-  <tabTrigger>jr.tidcomponent</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - isDOMComponent</description>
 </snippet>

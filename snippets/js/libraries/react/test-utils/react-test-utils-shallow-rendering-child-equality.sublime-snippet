@@ -16,6 +16,6 @@ expect(subject.props.children).toEqual([
   <div>Thing 2</div>
 ]); // => true
 ]]></content>
-  <tabTrigger>jr.tsrcequality</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - Shallow rendering (child-equality)</description>
 </snippet>

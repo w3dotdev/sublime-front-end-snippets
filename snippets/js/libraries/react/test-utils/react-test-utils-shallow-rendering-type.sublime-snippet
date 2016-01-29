@@ -8,6 +8,6 @@ var subject = renderer.getRenderOutput();
 
 expect(subject.type).toBe('div');  // => true
 ]]></content>
-  <tabTrigger>jr.tsrtype</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - Shallow rendering (type)</description>
 </snippet>

@@ -18,6 +18,6 @@ var allDivs = TestUtils.findAllInRenderedTree(
 expect(allDivs).toBeAn('array');
 expect(allDivs.length).toBe(2);
 ]]></content>
-  <tabTrigger>jr.tfairtree</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - findAllInRenderedTree</description>
 </snippet>

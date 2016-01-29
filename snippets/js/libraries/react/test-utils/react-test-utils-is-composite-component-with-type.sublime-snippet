@@ -17,6 +17,6 @@ expect(
   )
 ).toBe(true);
 ]]></content>
-  <tabTrigger>jr.ticcwtype</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - isCompositeComponentWithType</description>
 </snippet>

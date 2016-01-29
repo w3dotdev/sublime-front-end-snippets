@@ -8,6 +8,6 @@ expect(
   TestUtils.isCompositeComponent(subject)
 ).toBe(true);
 ]]></content>
-  <tabTrigger>jr.ticcomponent</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - isCompositeComponent</description>
 </snippet>

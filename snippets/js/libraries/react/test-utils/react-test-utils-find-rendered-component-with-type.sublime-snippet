@@ -24,6 +24,6 @@ expect(TestUtils.isCompositeComponentWithType(
   TargetComponent
 )).toBe(true);
 ]]></content>
-  <tabTrigger>jr.tfrcwtype</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - findRenderedComponentWithType</description>
 </snippet>

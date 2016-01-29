@@ -12,6 +12,6 @@ var subject = renderer.getRenderOutput();
 // 4. make assertions
 expect(subject.type).toBe('div');
 ]]></content>
-  <tabTrigger>jr.tsrbasic</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - Shallow rendering (basics)</description>
 </snippet>

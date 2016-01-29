@@ -2,6 +2,6 @@
   <content><![CDATA[
 React.cloneElement(${1:element}, ${2:props}, ${3:...children});
 ]]></content>
-  <tabTrigger>jr.cloneelement</tabTrigger>
+  <tabTrigger>jr.clelement</tabTrigger>
   <description>jr - cloneElement</description>
 </snippet>

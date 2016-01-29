@@ -8,6 +8,6 @@ var subject = renderer.getRenderOutput();
 
 expect(subject.props.className).toBe('my-component'); // => true
 ]]></content>
-  <tabTrigger>jr.tsrprops</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - Shallow rendering (props)</description>
 </snippet>

@@ -10,6 +10,6 @@ var subject = TestUtils.renderIntoDocument(
 
 TestUtils.Simulate.change(subject, { key: "Enter" });
 ]]></content>
-  <tabTrigger>jr.tsdata</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - Simulate (with data)</description>
 </snippet>

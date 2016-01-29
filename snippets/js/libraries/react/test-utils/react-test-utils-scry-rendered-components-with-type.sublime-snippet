@@ -30,6 +30,6 @@ var allTargetComponents = TestUtils.scryRenderedComponentsWithType(
 expect(allTargetComponents).toBeAn('array');
 expect(allTargetComponents.length).toBe(2);
 ]]></content>
-  <tabTrigger>jr.tsrcwtype</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - scryRenderedComponentsWithType</description>
 </snippet>

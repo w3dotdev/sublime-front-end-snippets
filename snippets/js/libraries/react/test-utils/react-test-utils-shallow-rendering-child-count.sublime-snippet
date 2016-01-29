@@ -12,6 +12,6 @@ var childCount = React.Children.count(subject.props.children);
 
 expect(childCount).toBe(3); // => true
 ]]></content>
-  <tabTrigger>jr.tsrccount</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - Shallow rendering (child-count)</description>
 </snippet>

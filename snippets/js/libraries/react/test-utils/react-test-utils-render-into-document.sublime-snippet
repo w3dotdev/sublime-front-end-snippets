@@ -4,6 +4,6 @@ var componentTree = TestUtils.renderIntoDocument(<div><span /></div>);
 
 console.log('You mounted a component tree with a ' + componentTree.tagName + ' at the root!');
 ]]></content>
-  <tabTrigger>jr.tridocument</tabTrigger>
+  <tabTrigger>jr.z.testutils</tabTrigger>
   <description>jr - renderIntoDocument</description>
 </snippet>

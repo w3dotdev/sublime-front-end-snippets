@@ -3,8 +3,8 @@
 React.Children.map(this.props.children, (child, i) => {
   ${1}
   return child;
-})
+});
 ]]></content>
-  <tabTrigger>jr.cmap</tabTrigger>
+  <tabTrigger>jr.chmap</tabTrigger>
   <description>jr - children.map</description>
 </snippet>
