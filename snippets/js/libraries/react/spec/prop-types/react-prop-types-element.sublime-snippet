@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{
+  optionalElement: React.PropTypes.element,
+  requiredElement: React.PropTypes.element.isRequired
+}
+]]></content>
+  <tabTrigger>jr.ptelement</tabTrigger>
+  <description>jr - PropTypes.element</description>
+</snippet>

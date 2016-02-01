@@ -4,7 +4,7 @@
 [![issues](https://img.shields.io/github/issues/brazilian-dev/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/brazilian-dev/sublime-front-end-snippets/issues)
 [![Package Control](https://img.shields.io/packagecontrol/dt/Front-end%20Project%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Front-end%20Project%20Snippets)
 [![GitHub release](https://img.shields.io/github/release/brazilian-dev/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/brazilian-dev/sublime-front-end-snippets/releases)
-[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 
 ![animation](https://cloud.githubusercontent.com/assets/1963897/12625364/a94decc8-c51a-11e5-8546-ca331af65982.gif)
 

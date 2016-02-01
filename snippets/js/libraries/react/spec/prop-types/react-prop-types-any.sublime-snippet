@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{
+  requiredAny: React.PropTypes.any.isRequired
+}
+]]></content>
+  <tabTrigger>jr.ptany</tabTrigger>
+  <description>jr - PropTypes.any</description>
+</snippet>
