@@ -11,7 +11,7 @@ def write_json(data, filename):
     fd.write(jsondata)
     fd.close()
   except:
-    print "ERROR writing %s"%filename
+    #print "ERROR writing %s"%filename
     pass
 
 def get_dir(path, ext):
