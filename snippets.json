@@ -3152,7 +3152,7 @@
   {
     "description": "r - Brazilian CNPJ", 
     "id": 631, 
-    "trigger": "r.bcnpj"
+    "trigger": "r.bcpfcnpj"
   }, 
   {
     "description": "r - Brazilian CPF/CNPJ", 
@@ -3162,7 +3162,7 @@
   {
     "description": "r - Brazilian CPF", 
     "id": 633, 
-    "trigger": "r.bcpf"
+    "trigger": "r.bcpfcnpj"
   }, 
   {
     "description": "r - Brazilian Phone", 
