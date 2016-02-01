@@ -2,5 +2,7 @@ language: python
 python:
   - "3.3"
 
-#run tests
+# command to install dependencies
+#install: "pip install -r requirements.txt"
+# command to run tests
 script: python -m unittest
