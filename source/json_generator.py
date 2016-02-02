@@ -24,8 +24,9 @@ def get_dir(path, ext):
 def get_json(path):
   result = []
   for count, file in enumerate(get_dir( path, '*.sublime-snippet'), start=1):
-    line        = open(file)
-    content     = line.read()
+    with open(file) as line:
+      content     = line.read()
+
     trigger     = content.split('<tabTrigger>')[1].split('</tabTrigger>')[0]
     description = content.split('<description>')[1].split('</description>')[0]
 
