@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
-import os.path
-sys.path.append(os.path.join(os.path.dirname(__file__), '../source'))
+sys.path.append('source/')
 from json_generator import get_json
 from duplicates import list_duplicates
 import json
