@@ -21,9 +21,9 @@ def get_dir(path, ext):
       matches.append(os.path.join(root, filename))
   return matches
 
-def get_json():
+def get_json(path):
   result = []
-  for count, file in enumerate(get_dir('../snippets/', '*.sublime-snippet'), start=1):
+  for count, file in enumerate(get_dir( path, '*.sublime-snippet'), start=1):
     line        = open(file)
     content     = line.read()
     trigger     = content.split('<tabTrigger>')[1].split('</tabTrigger>')[0]
@@ -34,5 +34,4 @@ def get_json():
   return result
 
 
-write_json(get_json(), "../snippets.json")
-
+write_json(get_json('../snippets/'), "../snippets.json")

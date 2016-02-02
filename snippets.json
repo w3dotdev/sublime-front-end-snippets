@@ -3162,7 +3162,7 @@
   {
     "description": "r - Brazilian CPF", 
     "id": 633, 
-    "trigger": "r.bcpfcnpj"
+    "trigger": "r.bcpf"
   }, 
   {
     "description": "r - Brazilian Phone", 

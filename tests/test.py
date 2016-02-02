@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
 import sys
-sys.path.append('source/')
-from json_generator import get_json
-from duplicates import list_duplicates
+import os.path
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+from source.json_generator import get_json
+from source.duplicates import list_duplicates
 import json
 import re
 import unittest
@@ -11,9 +12,9 @@ import unittest
 class TestDuplicatesMethods(unittest.TestCase):
 
   def test_duplicates(self):
-    json = get_json()
+    json = get_json('snippets/')
     triggers = []
-
+    print json
     for snippet in json:
       trigger = snippet['trigger']
       if re.search(r'z.', trigger) is None:
