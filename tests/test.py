@@ -14,7 +14,6 @@ class TestDuplicatesMethods(unittest.TestCase):
   def test_duplicates(self):
     json = get_json('snippets/')
     triggers = []
-    print json
     for snippet in json:
       trigger = snippet['trigger']
       if re.search(r'z.', trigger) is None:
