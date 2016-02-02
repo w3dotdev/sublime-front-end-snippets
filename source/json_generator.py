@@ -34,4 +34,4 @@ def get_json(path):
   return result
 
 
-write_json(get_json('../snippets/'), "../snippets.json")
+# write_json(get_json('../snippets/'), "../snippets.json")
