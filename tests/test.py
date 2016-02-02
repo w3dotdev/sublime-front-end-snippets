@@ -2,9 +2,9 @@
 
 import sys
 import os.path
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-from source.json_generator import get_json
-from source.duplicates import list_duplicates
+sys.path.append(os.path.join(os.path.dirname(__file__), '../source'))
+from json_generator import get_json
+from duplicates import list_duplicates
 import json
 import re
 import unittest
