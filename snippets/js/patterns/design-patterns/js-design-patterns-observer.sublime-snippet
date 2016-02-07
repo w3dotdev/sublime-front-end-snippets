@@ -1,6 +1,45 @@
 <snippet>
   <content><![CDATA[
-${1}
+var ${1:Publisher} = {
+  ${2:subscribers}: {
+    ${6:any}: []
+  },
+
+  ${3:subscribe}: function(fn, type) {
+
+    type = type || "${6:any}";
+    if (typeof this.${2:subscribers}[type] === "undefined") {
+      this.${2:subscribers}[type] = [];
+    }
+
+    this.${2:subscribers}[type].push(fn);
+  },
+
+  ${4:unsubscribe}: function(fn, type) {
+    if (typeof this.${2:subscribers}[type] !== undefined) {
+      this.${2:subscribers}[type].pull(fn);
+    }
+  },
+
+  ${5:publish}: function(type, obj) {
+    var ${2:subscribers} = this.${2:subscribers}[type];
+
+    for (var i = 0, max = ${2:subscribers}.length; i < max; i++) {
+      ${2:subscribers}[i](obj);
+    }
+  }
+};
+
+
+${7://var paper = Object.create(${1:Publisher});
+//var joe = {
+//  shout : function(obj){
+//    console.log("oh i got issue" + obj);
+//  }
+//};
+
+//paper.${3:subscribe}(joe.shout, "new issue");
+//paper.${5:publish}("new issue", 27);}
 ]]></content>
   <tabTrigger>jdp.observer</tabTrigger>
   <description>jdp - Observer</description>

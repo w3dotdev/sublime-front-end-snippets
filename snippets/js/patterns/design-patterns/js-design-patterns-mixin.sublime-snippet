@@ -1,6 +1,17 @@
 <snippet>
   <content><![CDATA[
-${1}
+var ${1:Circle} = function() {};
+${1:Circle}.prototype = {
+  ${2:area}: function() {
+    ${3:return Math.PI * this.radius * this.radius};
+  },
+  ${4:grow}: function() {
+    ${5:this.radius++;}
+  },
+  ${6:shrink}: function() {
+    ${7:this.radius--;}
+  }
+};${8}
 ]]></content>
   <tabTrigger>jdp.mixin</tabTrigger>
   <description>jdp - Mixin</description>

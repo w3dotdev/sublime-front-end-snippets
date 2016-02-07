@@ -1,6 +1,27 @@
 <snippet>
   <content><![CDATA[
-${1}
+function ${1:Animal}(${2:name}) {
+  ${9}
+}
+
+function ${3:Rabbit}(${2:name}) {
+  var ${4:rabbit} = ${1:Animal}(${2:name})
+
+  var ${5:parentRun} = ${4:rabbit}.${6:run}
+
+  ${4:rabbit}.${7:jump} = function() {
+    ${10:alert(${2:name} + " jumped!");}
+  }
+
+  ${4:rabbit}.${6:run} = function() {
+    ${5:parentRun}.call(this)
+    ${11:alert("fast");}
+  }
+
+  return ${4:rabbit}
+}
+
+${4:rabbit} = ${3:Rabbit}("${8:rab}");
 ]]></content>
   <tabTrigger>jdp.factory</tabTrigger>
   <description>jdp - Factory</description>

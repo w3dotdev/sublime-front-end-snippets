@@ -106,25 +106,92 @@ var ${1:MyModule} = ( function( window, undefined ) {
 ### [jdp.factory] Factory
 
 ```javascript
+function ${1:Animal}(${2:name}) {
+  ${9}
+}
 
+function ${3:Rabbit}(${2:name}) {
+  var ${4:rabbit} = ${1:Animal}(${2:name})
+
+  var ${5:parentRun} = ${4:rabbit}.${6:run}
+
+  ${4:rabbit}.${7:jump} = function() {
+    ${10:alert(${2:name} + " jumped!");}
+  }
+
+  ${4:rabbit}.${6:run} = function() {
+    ${5:parentRun}.call(this)
+    ${11:alert("fast");}
+  }
+
+  return ${4:rabbit}
+}
+
+${4:rabbit} = ${3:Rabbit}("${8:rab}");
 ```
 
 ### [jdp.flyweight] Flyweight
 
 ```javascript
+${0:'use strict';}
 
+var ${1:Flyweight} = function (${2:intrinisicState}) {
+  this.${2:intrinisicState} = ${2:intrinisicState};
+};
+
+${1:Flyweight}.prototype.operation = function (${4:extrinsicState}) {
+  ${3:// Perform some action using intrinsic and extrinsic state}
+  return this.${2:intrinisicState} * ${4:extrinsicState};
+};
+
+module.exports = ${1:Flyweight};
 ```
 
 ### [jdp.mediator] Mediator
 
 ```javascript
-
+var mediator = (function(){
+  var subscribe = function(channel, fn){
+    if(!mediator.channels[channel]) mediator.channels[channel] = [];
+    mediator.channels[channel].push({ context : this, callback : fn });
+    return this;
+  };
+  var publish = function(channel){
+    if(!mediator.channels[channel]) return false;
+    var args = Array.prototype.slice.call(arguments, 1);
+    for(var i = 0, l = mediator.channels[channel].length; i < l; i++){
+         var subscription = mediator.channels[channel][i];
+         subscription.callback.apply(subscription.context.args);
+    };
+    return this;
+  };
+  return {
+    channels : {},
+    publish : publish,
+    subscribe : subscribe,
+    installTo : function(obj){
+         obj.subscribe = subscribe;
+         obj.publish = publish;
+    }
+  };
+}());${1}
 ```
 
 ### [jdp.mixin] Mixin
 
 ```javascript
-
+var ${1:Circle} = function() {};
+${1:Circle}.prototype = {
+  ${2:area}: function() {
+    ${3:return Math.PI * this.radius * this.radius};
+  },
+  ${4:grow}: function() {
+    ${5:this.radius++;}
+  },
+  ${6:shrink}: function() {
+    ${7:this.radius--;}
+  }
+};${8}
 ```
 
 ### [jdp.module] Module
@@ -144,7 +211,46 @@ var ${1:moduleName} = (function() {
 ### [jdp.observer] Observer
 
 ```javascript
+var ${1:Publisher} = {
+  ${2:subscribers}: {
+    ${6:any}: []
+  },
 
+  ${3:subscribe}: function(fn, type) {
+
+    type = type || "${6:any}";
+    if (typeof this.${2:subscribers}[type] === "undefined") {
+      this.${2:subscribers}[type] = [];
+    }
+
+    this.${2:subscribers}[type].push(fn);
+  },
+
+  ${4:unsubscribe}: function(fn, type) {
+    if (typeof this.${2:subscribers}[type] !== undefined) {
+      this.${2:subscribers}[type].pull(fn);
+    }
+  },
+
+  ${5:publish}: function(type, obj) {
+    var ${2:subscribers} = this.${2:subscribers}[type];
+
+    for (var i = 0, max = ${2:subscribers}.length; i < max; i++) {
+      ${2:subscribers}[i](obj);
+    }
+  }
+};
+
+
+${7://var paper = Object.create(${1:Publisher});
+//var joe = {
+//  shout : function(obj){
+//    console.log("oh i got issue" + obj);
+//  }
+//};
+
+//paper.${3:subscribe}(joe.shout, "new issue");
+//paper.${5:publish}("new issue", 27);}
 ```
 
 ### [jdp.prototype] Prototype

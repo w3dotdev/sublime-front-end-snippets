@@ -1,6 +1,17 @@
 <snippet>
   <content><![CDATA[
-${1}
+${0:'use strict';}
+
+var ${1:Flyweight} = function (${2:intrinisicState}) {
+  this.${2:intrinisicState} = ${2:intrinisicState};
+};
+
+${1:Flyweight}.prototype.${5:operation} = function (${4:extrinsicState}) {
+  ${3:// Perform some action using intrinsic and extrinsic state}
+  return this.${2:intrinisicState} * ${4:extrinsicState};
+};
+
+module.exports = ${1:Flyweight};
 ]]></content>
   <tabTrigger>jdp.flyweight</tabTrigger>
   <description>jdp - Flyweight</description>
