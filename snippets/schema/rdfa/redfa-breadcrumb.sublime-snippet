@@ -1,10 +1,5 @@
-# RDFa Snippets
-
-## Prefix `sr.*`
-
-### [sr.breadcrumb] Breadcrumb
-
-```html
+<snippet>
+	<content><![CDATA[
 <div xmlns:v="http://rdf.data-vocabulary.org/#">
   <span typeof="v:Breadcrumb">
     <a href="${1:http://www.example.com/dresses}" rel="v:url" property="v:title">
@@ -22,4 +17,7 @@
     </a> ›
   </span>
 </div>
-```
+]]></content>
+	<tabTrigger>sr.breadcrumb</tabTrigger>
+  <description>sr - Breadcrumb</description>
+</snippet>
