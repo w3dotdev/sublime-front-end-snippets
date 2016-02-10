@@ -16,7 +16,7 @@ You can manually download the package and place it within your `Packages` direct
 
 You can see all installed snippets in `Tools > Snippets...`, in the Sublime Text.
 
-[Tested on windows] When the "."(dot) is used, the autocomplete disappears.. To resolve this problem, just put on in your user 'Preferences> Settings - User`, the property `word_separators` with the value without the "."(dot). You can see an example [here](Preferences.sublime-settings).
+[Tested on windows] When the "."(dot) is used, the autocomplete disappears.. To resolve this problem, just put on in your user `Preferences >  Settings - User`, and put the property `word_separators` with the value without the "."(dot). You can see an example [here](Preferences.sublime-settings).
 
 ## Snippets and prefixes/keys
 
