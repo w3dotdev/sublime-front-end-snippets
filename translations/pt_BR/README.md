@@ -12,17 +12,17 @@
 
 * [ORIGINAL](https://github.com/brazilian-dev/sublime-front-end-snippets/)
 
-## Install
+## Instalação
 
-If you already have the [Package Control](http://wbond.net/sublime_packages/package_control) installed , just search for ***Front-end Project Snippets***. If you have not installed in the Sublime, you can do it [here](http://wbond.net/sublime_packages/package_control/installation).
+Se você já tem o [Package Control](http://wbond.net/sublime_packages/package_control) instalado, basta procurar por ***Front-end Project Snippets***. Se você não tiver instalado no Sublime, você pode fazê-lo [aqui](http://wbond.net/sublime_packages/package_control/installation).
 
-You can manually download the package and place it within your `Packages` directory. It will work, but it will not be automatically updated.
+Você pode baixar manualmente o pacote e colocá-lo dentro do seu diretório `Packages`. Ele vai funcionar, mas ele não será atualizado automaticamente.
 
-You can see all installed snippets in `Tools > Snippets...`, in the Sublime Text.
+Você pode ver os snippets instalados em `Tools > Snippets...`, no Sublime Text.
 
-[Tested on windows] When the "."(dot) is used, the autocomplete disappears.. Solve this problem, just put in your user `Preferences >  Settings - User`, the property `word_separators` with value without the "."(dot). You can see an example [here](Preferences.sublime-settings).
+[Testado no windows] Quando o "."(ponto) é utilizado, o autocomplete desaparece. Para resolver esse problema, basta colocar em seu usuário `Preferences >  Settings - User`, a propriedade `word_separators` com o valor sem "."(ponto). Você pode ver um exemplo [aqui](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/Preferences.sublime-settings).
 
-## Snippets and prefixes/keys
+## Snippets e prefixos/chaves
 
 - [HTML - h.*](snippets/html/)
   - [Microdata - hm.*](snippets/html/schema/microdata)
@@ -59,7 +59,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the Sublime Text
   - [JSON-LD - z.jsonld](snippets/structured-data/json-ld)
   - [RDFa - z.rdfa](snippets/structured-data/rdfa)
 
-## References
+## Referências
 
 * [@caiogondim](https://github.com/caiogondim) (Caio Gondim)
   [https://github.com/caiogondim/js-patterns-sublime-snippets](https://github.com/caiogondim/js-patterns-sublime-snippets)
@@ -78,18 +78,18 @@ You can see all installed snippets in `Tools > Snippets...`, in the Sublime Text
 * (ReactJS cheatsheet) [http://reactcheatsheet.com/](http://reactcheatsheet.com/)
 * (ES6 Features) [https://github.com/lukehoban/es6features#readme](https://github.com/lukehoban/es6features#readme)
 
-## Contributing
+## Contribuindo
 
-- Fork it!
-- Create your feature branch: `git checkout -b my-new-feature`
-- Commit your changes: `git commit -m 'Add some feature'`
-- Push to the branch: `git push origin my-new-feature`
-- Submit a pull request
+- Faça o fork!
+- Crie a sua branch feature: `git checkout -b my-new-feature`
+- Faça o commit das suas alterações: `git commit -m 'Add some feature'`
+- Faça o push para o servidor: `git push origin my-new-feature`
+- E realize o pull request
 
 ## Log
 
-Check [Releases](https://github.com/brazilian-dev/sublime-front-end-snippets/releases) for detailed changelog.
+Verifique os [Releases](https://github.com/brazilian-dev/sublime-front-end-snippets/releases) ver detalhado o log de alterações.
 
-## License
+## Licença
 
 [MIT license](http://hemersonvianna.mit-license.org/) © Hemerson Vianna
