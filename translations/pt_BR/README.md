@@ -14,7 +14,7 @@
 
 ## Instalação
 
-Se você já tem o [Package Control](http://wbond.net/sublime_packages/package_control) instalado, basta procurar por ***Front-end Project Snippets***. Se você não tiver instalado no Sublime, você pode fazê-lo [aqui](http://wbond.net/sublime_packages/package_control/installation).
+Se você já tem o [Package Control](http://wbond.net/sublime_packages/package_control) instalado, basta procurar por `Front-end Project Snippets`. Se você não tiver instalado no Sublime, você pode fazê-lo [aqui](http://wbond.net/sublime_packages/package_control/installation).
 
 Você pode baixar manualmente o pacote e colocá-lo dentro do seu diretório `Packages`. Ele vai funcionar, mas ele não será atualizado automaticamente.
 
@@ -24,40 +24,40 @@ Você pode ver os snippets instalados em `Tools > Snippets...`, no Sublime Text.
 
 ## Snippets e prefixos/chaves
 
-- [HTML - h.*](snippets/html/)
-  - [Microdata - hm.*](snippets/html/schema/microdata)
-  - [WAI-ARIA - hw.*](snippets/html/wai-aria)
-- [CSS - c.*](snippets/css/) 
-- [JavaScript - j.*](snippets/js/vanilla)
-  - [EcmaScript 2015 - je.*](snippets/js/es6/)
-  - [Libraries](snippets/js/libraries)
-    - [jQuery - jq.*](snippets/js/libraries/jquery)
-    - [React - jr.*](snippets/js/libraries/react)
-  - [Patterns](snippets/js/patterns)
-    - [Design Patterns - jdp.*](snippets/js/patterns/design-patterns)
-    - [UMD - jumd.*](snippets/js/patterns/umd)
-  - [Tests](snippets/js/tests)
-    - [Common - t.*](snippets/js/tests/common)
-    - [Chai - tc.*](snippets/js/tests/chai)
-    - [Jasmine - tj.*](snippets/js/tests/jasmine)
-    - [Mocha - tm.*](snippets/js/tests/mocha)
-    - [Node - tn.*](snippets/js/tests/node)
-    - [QUnit - tq.*](snippets/js/tests/qunit)
-    - [Sinon - ts.*](snippets/js/tests/sinon)
-- [Regex](snippets/regex/)
-- [Schema.org](snippets/schema)
-  - [JSON-LD - sj.*](snippets/schema/json-ld)
-  - [Microdata - sm.*](snippets/schema/microdata)
-  - [RDFa - sr.*](snippets/schema/rdfa)
-- [External - e.*](snippets/external/)
-- [Comment](snippets/comment/)
-  - [HTML - hc.*](snippets/comment/html)
-  - [CSS - cc.*](snippets/comment/css)
-  - [JavaScript - jc.*](snippets/comment/js)
-- [Structure data](snippets/structured-data) (***examples***)
-  - [Microdata - z.microdata](snippets/structured-data/microdata)
-  - [JSON-LD - z.jsonld](snippets/structured-data/json-ld)
-  - [RDFa - z.rdfa](snippets/structured-data/rdfa)
+- [HTML - h.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/html/)
+  - [Microdata - hm.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/html/schema/microdata)
+  - [WAI-ARIA - hw.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/html/wai-aria)
+- [CSS - c.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/css/) 
+- [JavaScript - j.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/vanilla)
+  - [EcmaScript 2015 - je.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/es6/)
+  - [Libraries](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/libraries)
+    - [jQuery - jq.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/libraries/jquery)
+    - [React - jr.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/libraries/react)
+  - [Patterns](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/patterns)
+    - [Design Patterns - jdp.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/patterns/design-patterns)
+    - [UMD - jumd.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/patterns/umd)
+  - [Tests](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/tests)
+    - [Common - t.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/tests/common)
+    - [Chai - tc.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/tests/chai)
+    - [Jasmine - tj.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/tests/jasmine)
+    - [Mocha - tm.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/tests/mocha)
+    - [Node - tn.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/tests/node)
+    - [QUnit - tq.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/tests/qunit)
+    - [Sinon - ts.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/js/tests/sinon)
+- [Regex](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/regex/)
+- [Schema.org](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/schema)
+  - [JSON-LD - sj.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/schema/json-ld)
+  - [Microdata - sm.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/schema/microdata)
+  - [RDFa - sr.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/schema/rdfa)
+- [External - e.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/external/)
+- [Comment](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/comment/)
+  - [HTML - hc.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/comment/html)
+  - [CSS - cc.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/comment/css)
+  - [JavaScript - jc.*](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/comment/js)
+- [Structure data](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/structured-data) (***examples***)
+  - [Microdata - z.microdata](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/structured-data/microdata)
+  - [JSON-LD - z.jsonld](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/structured-data/json-ld)
+  - [RDFa - z.rdfa](https://github.com/brazilian-dev/sublime-front-end-snippets/blob/master/snippets/structured-data/rdfa)
 
 ## Referências
 
