@@ -1,9 +1,9 @@
 # Front-end Project Snippets
 
-[![Travis](https://img.shields.io/travis/brazilian-dev/sublime-front-end-snippets.svg?style=flat-square)](https://travis-ci.org/brazilian-dev/sublime-front-end-snippets)
-[![issues](https://img.shields.io/github/issues/brazilian-dev/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/brazilian-dev/sublime-front-end-snippets/issues)
+[![Travis](https://img.shields.io/travis/descco-support/sublime-front-end-snippets.svg?style=flat-square)](https://travis-ci.org/descco-support/sublime-front-end-snippets)
+[![issues](https://img.shields.io/github/issues/descco-support/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/descco-support/sublime-front-end-snippets/issues)
 [![Package Control](https://img.shields.io/packagecontrol/dt/Front-end%20Project%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Front-end%20Project%20Snippets)
-[![GitHub release](https://img.shields.io/github/release/brazilian-dev/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/brazilian-dev/sublime-front-end-snippets/releases)
+[![GitHub release](https://img.shields.io/github/release/descco-support/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/descco-support/sublime-front-end-snippets/releases)
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 
 ![animation](https://cloud.githubusercontent.com/assets/1963897/12625364/a94decc8-c51a-11e5-8546-ca331af65982.gif)
@@ -88,7 +88,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the Sublime Text
 
 ## Log
 
-Check [Releases](https://github.com/brazilian-dev/sublime-front-end-snippets/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-support/sublime-front-end-snippets/releases) for detailed changelog.
 
 ## License
 
