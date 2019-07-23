@@ -6,7 +6,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/org-moon-world/sublime-front-end-snippets.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/org-moon-world/sublime-front-end-snippets.svg)
 ![GitHub All Releases](https://img.shields.io/github/downloads/org-moon-world/sublime-front-end-snippets/total.svg)
-
 [![Travis](https://img.shields.io/travis/org-moon-world/sublime-front-end-snippets.svg?style=flat-square)](https://travis-ci.org/org-moon-world/sublime-front-end-snippets)
 [![Package Control](https://img.shields.io/packagecontrol/dt/Front-end%20Project%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Front-end%20Project%20Snippets)
 
