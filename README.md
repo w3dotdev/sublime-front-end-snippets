@@ -2,7 +2,7 @@
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![GitHub issues](https://img.shields.io/github/issues/org-moon-world/sublime-front-end-snippets.svg)](https://github.com/org-moon-world/sublime-front-end-snippets/issues)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/org-moon-world/sublime-front-end-snippets.svg)
+# ![GitHub package.json version](https://img.shields.io/github/package-json/v/org-moon-world/sublime-front-end-snippets.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/org-moon-world/sublime-front-end-snippets.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/org-moon-world/sublime-front-end-snippets.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/org-moon-world/sublime-front-end-snippets.svg)
