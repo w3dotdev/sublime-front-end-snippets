@@ -1,10 +1,15 @@
 # Front-end Project Snippets
 
-[![Travis](https://img.shields.io/travis/descco-support/sublime-front-end-snippets.svg?style=flat-square)](https://travis-ci.org/descco-support/sublime-front-end-snippets)
-[![issues](https://img.shields.io/github/issues/descco-support/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/descco-support/sublime-front-end-snippets/issues)
-[![Package Control](https://img.shields.io/packagecontrol/dt/Front-end%20Project%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Front-end%20Project%20Snippets)
-[![GitHub release](https://img.shields.io/github/release/descco-support/sublime-front-end-snippets.svg?style=flat-square)](https://github.com/descco-support/sublime-front-end-snippets/releases)
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
+[![GitHub issues](https://img.shields.io/github/issues/org-descco/foradabolha.github.io.svg)](https://github.com/org-descco/foradabolha.github.io/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-descco/foradabolha.github.io.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-descco/foradabolha.github.io.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-descco/foradabolha.github.io.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-descco/foradabolha.github.io.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-descco/foradabolha.github.io/total.svg)
+
+[![Travis](https://img.shields.io/travis/org-moon-world/sublime-front-end-snippets.svg?style=flat-square)](https://travis-ci.org/org-moon-world/sublime-front-end-snippets)ets/issues)
+[![Package Control](https://img.shields.io/packagecontrol/dt/Front-end%20Project%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Front-end%20Project%20Snippets)
 
 ![animation](https://cloud.githubusercontent.com/assets/1963897/12625364/a94decc8-c51a-11e5-8546-ca331af65982.gif)
 
@@ -88,7 +93,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the Sublime Text
 
 ## Log
 
-Check [Releases](https://github.com/descco-support/sublime-front-end-snippets/releases) for detailed changelog.
+Check [Releases](https://github.com/org-moon-world/sublime-front-end-snippets/releases) for detailed changelog.
 
 ## License
 
