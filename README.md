@@ -1,12 +1,12 @@
 # Front-end Project Snippets
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![GitHub issues](https://img.shields.io/github/issues/org-descco/sublime-front-end-snippets.svg)](https://github.com/org-descco/sublime-front-end-snippets/issues)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/org-descco/sublime-front-end-snippets.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/org-descco/sublime-front-end-snippets.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/org-descco/sublime-front-end-snippets.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/org-descco/sublime-front-end-snippets.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/org-descco/sublime-front-end-snippets/total.svg)
+[![GitHub issues](https://img.shields.io/github/issues/org-moon-world/sublime-front-end-snippets.svg)](https://github.com/org-moon-world/sublime-front-end-snippets/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-moon-world/sublime-front-end-snippets.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-moon-world/sublime-front-end-snippets.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-moon-world/sublime-front-end-snippets.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-moon-world/sublime-front-end-snippets.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-moon-world/sublime-front-end-snippets/total.svg)
 
 [![Travis](https://img.shields.io/travis/org-moon-world/sublime-front-end-snippets.svg?style=flat-square)](https://travis-ci.org/org-moon-world/sublime-front-end-snippets)
 [![Package Control](https://img.shields.io/packagecontrol/dt/Front-end%20Project%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Front-end%20Project%20Snippets)
