@@ -1,12 +1,12 @@
 # Front-end Project Snippets
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![GitHub issues](https://img.shields.io/github/issues/org-moon-world/sublime-front-end-snippets.svg)](https://github.com/org-moon-world/sublime-front-end-snippets/issues)
-![GitHub Release Date](https://img.shields.io/github/release-date/org-moon-world/sublime-front-end-snippets.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/org-moon-world/sublime-front-end-snippets.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/org-moon-world/sublime-front-end-snippets.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/org-moon-world/sublime-front-end-snippets/total.svg)
-[![Travis](https://img.shields.io/travis/org-moon-world/sublime-front-end-snippets.svg?style=flat-square)](https://travis-ci.org/org-moon-world/sublime-front-end-snippets)
+[![GitHub issues](https://img.shields.io/github/issues/w3dotdev/sublime-front-end-snippets.svg)](https://github.com/w3dotdev/sublime-front-end-snippets/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/w3dotdev/sublime-front-end-snippets.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/w3dotdev/sublime-front-end-snippets.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/w3dotdev/sublime-front-end-snippets.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/w3dotdev/sublime-front-end-snippets/total.svg)
+[![Travis](https://img.shields.io/travis/w3dotdev/sublime-front-end-snippets.svg?style=flat-square)](https://travis-ci.org/w3dotdev/sublime-front-end-snippets)
 [![Package Control](https://img.shields.io/packagecontrol/dt/Front-end%20Project%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Front-end%20Project%20Snippets)
 
 ![animation](https://cloud.githubusercontent.com/assets/1963897/12625364/a94decc8-c51a-11e5-8546-ca331af65982.gif)
@@ -91,7 +91,7 @@ You can see all installed snippets in `Tools > Snippets...`, in the Sublime Text
 
 ## Log
 
-Check [Releases](https://github.com/org-moon-world/sublime-front-end-snippets/releases) for detailed changelog.
+Check [Releases](https://github.com/w3dotdev/sublime-front-end-snippets/releases) for detailed changelog.
 
 ## License
 
